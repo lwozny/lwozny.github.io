@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2018-11-07 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+7th [Hurwicz Workshop](https://www.impan.pl/en/activities/banach-center/conferences/18-hurwiczworkshop), Dec 7-8, 2018, Warsaw

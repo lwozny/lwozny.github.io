@@ -4,16 +4,15 @@ permalink: /CV/
 title: CV
 description: #
 ---
-  <div class="profile col one right">
+<div class="profile col one right">
     
-      <img class="one" src="/assets/img/LW.png" >
+<img class="one" src="/assets/img/LW.png" >
     
-    
-      <div class="address">
+<div class="address">
         
-      </div>
+</div>
     
-  </div>
+</div>
 
 <h4>Positions / Vists / Education  </h4>
 

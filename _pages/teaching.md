@@ -11,7 +11,7 @@ description: Materials for courses I teach.
 
 <li> QEM midterms 2019 <a href="/assets/pdf/2019Midterms.zip"> [zip]</a></li>
 
-<li> QEM exams 2018 <a href="2018 Exams.zip"> [zip]</a></li>
+<li> QEM exams 2018 <a href="/assets/pdf/2018 Exams.zip"> [zip]</a></li>
 
 <li> QEM materials 2016 Optimization <a href="/assets/pdf/Optimization_QEM.zip"> [zip]</a></li>
 
@@ -191,8 +191,6 @@ description: Materials for courses I teach.
 <ul>
 
 <li>  Harmonogram zajec <a href="/assets/pdf/ADmakro.pdf">[pdf]</a></li>
-
-<li>Materialy dra. M. Kolasy <a href="http://web.sgh.waw.pl/~mkolas/teaching.html">[link]</a></li>
 
 <li> Handout z metodologii ekonomii <a href="/assets/pdf/metodologia.pdf">[pdf]</a></li>
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: class excercise on 14.11.2019
+title: class exercise on 14.11.2019
 date: 2019-11-14 11:12:00-0400
 description: an example of a blog post with some math
 ---

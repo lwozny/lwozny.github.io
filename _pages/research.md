@@ -1,6 +1,9 @@
-
-
-
+---
+layout: page
+permalink: /research/
+title: research
+description: Grants / Co-organized conferences / Conference talks / Invited talks 
+---
 
 
 <h4><a name="coconf">Grants and awards</a></h4>

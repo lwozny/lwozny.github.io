@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Łukasz</strong> Woźny
-description: [dr hab, profesor SGH. Katedra Ekonomii Ilosciowej. Kolegium Analiz Ekonomicznych. Szkola Glowna Handlowa w Warszawie.](http://kolegia.sgh.waw.pl/pl/KAE/struktura/KEI/Strony/default.aspx) al. Niepodleglosci 162. 02-554 Warszawa. Poland 
+description: dr hab, profesor SGH. <a href="http://kolegia.sgh.waw.pl/pl/KAE/struktura/KEI/Strony/default.aspx"> Katedra Ekonomii Ilosciowej. Kolegium Analiz Ekonomicznych. Szkola Glowna Handlowa w Warszawie.</a> al. Niepodleglosci 162. 02-554 Warszawa. Poland 
 
 profile:
   align: right

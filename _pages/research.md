@@ -11,7 +11,7 @@ description: Grants / Co-organized conferences / Conference talks / Invited talk
 <p>
 <ul>
 
-<li> Nagroda Prezesa Rady Ministrów za wysoko ocenione osiagniecia bedace podstawa nadania stopnia doktora habilitowanego, 2018.</li>
+<li> <b>Nagroda Prezesa Rady Ministrów</b> za wysoko ocenione osiagniecia bedace podstawa nadania stopnia doktora habilitowanego, 2018.</li>
 
 <li> Finalista <b>Nagród Naukowych</b> tygodnika <b>Polityka</b> 2017.</li>
 

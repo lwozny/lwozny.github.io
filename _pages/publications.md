@@ -10,25 +10,7 @@ years: [2019, 1956, 1950, 1935, 1905]
       <div class="wrapper">
         <div class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">publications</h1>
-    <h5 class="post-description"></h5>
-  </header>
-
-  <article class="post-content publications clearfix">
-    
-  <h3 class="year">{{y}}</h3>
-      <div class="page-content">
-      <div class="wrapper">
-        <div class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">publications</h1>
-    <h5 class="post-description"></h5>
-  </header>
-
-  <article class="post-content publications clearfix">
-    
+ 
 <h3 class="year">2019</h3>
 <ol class="bibliography">
 <li>

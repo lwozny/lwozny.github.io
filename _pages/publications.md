@@ -8,5 +8,95 @@ years: [1956, 1950, 1935, 1905]
 
 {% for y in page.years %}
   <h3 class="year">{{y}}</h3>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
+      <div class="page-content">
+      <div class="wrapper">
+        <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">publications</h1>
+    <h5 class="post-description"></h5>
+  </header>
+
+  <article class="post-content publications clearfix">
+    
+<h3 class="year">2019</h3>
+<ol class="bibliography">
+<li>
+
+<div id="RAAD201998">
+  
+    <span class="title">Lipschitz recursive equilibrium with a minimal state space and heterogeneous agents</span>
+    <span class="author">
+      
+        
+          
+            
+              
+                <a href="https://sites.google.com/site/rjraad/" target="_blank">Raad, Rodrigo</a>, 
+              
+            
+          
+        
+      
+        
+          
+            
+              and <em>Wozny, Łukasz</em>
+            
+          
+        
+      
+    </span>
+
+    <span class="periodical">
+    
+      <em>Journal of Mathematical Economics</em>
+    
+    
+      vol. 82
+    
+    
+    
+      p. 98-111, 
+    
+    
+
+    
+      2019
+    
+    
+    
+      <br>[IF2018 0.634, 70p MNiSW2019]
+    
+    </span>
+  
+
+  <span class="links">
+  
+    [<a class="abstract">Abs</a>]
+  
+  
+  
+    [<a href="http://www.sciencedirect.com/science/article/pii/S0304406819300151" target="_blank">HTML</a>]
+  
+  
+    [<a href="/assets/pdf/RaadWozny.pdf" target="_blank">PDF</a>]
+  
+  
+  
+  
+  
+  </span>
+
+  <!-- Hidden abstract block -->
+  
+  <span class="abstract hidden">
+    <p>This paper analyzes the Lucas tree model with heterogeneous agents and one asset. We show the existence of a minimal state space Lipschitz continuous recursive equilibrium using Montrucchio (1987) results. The recursive equilibrium implements a sequential equilibrium through an explicit functional equation derived from the Bellman Equation. Our method also allows to prove existence of a recursive equilibrium in a general class of deterministic or stochastic models with several assets provided there exists a Lipschitz selection on the demand correspondence. We provide examples showing applicability of our results.</p>
+  </span>
+  
+</div>
+</li>
+<li>
+
+
 {% endfor %}

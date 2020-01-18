@@ -18,9 +18,7 @@ In particular we show existence of MSE (and related time-consistent solution) in
 
 <h4 id="interim-correlated-rationalizability-in-large-games-2020--joint-with-lukasz-balbus-michael-greinecker-and-kevin-reffett">Interim correlated rationalizability in large games, 2020 <br /> (joint with Lukasz Balbus, Michael Greinecker and Kevin Reffett)</h4>
 
-<p>In this paper we provide general theoretical foundations for modeling strategic uncertainty in large distributional Bayesian games of with general type spaces in terms of a version of interim correlated rationalizability. We then fo-
-cus on the case that payoff functions are supermodular in actions as in much literature on global games. This allows us to identify extremal in-
-terim correlated rationalizable solutions with extremal interim Bayes-Nash equilibria. No order structure on types is used.</p>
+<p>In this paper we provide general theoretical foundations for modeling strategic uncertainty in large distributional Bayesian games of with general type spaces in terms of a version of interim correlated rationalizability. We then focus on the case that payoff functions are supermodular in actions as in much literature on global games. This allows us to identify extremal interim correlated rationalizable solutions with extremal interim Bayes-Nash equilibria. No order structure on types is used.</p>
 
 <hr />
 

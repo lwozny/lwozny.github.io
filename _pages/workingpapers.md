@@ -5,7 +5,7 @@ permalink: /working papers/
 description: working papers and some older stuff
 ---
 
-<h4 id="equilibria-in-dynamic-behavioral-games-with-generalized-discounting-2020--joint-with-lukasz-balbus-and-kevin-reffett">Equilibria in dynamic behavioral games with generalized discounting, 2020 <br /> (joint with Lukasz Balbus and Kevin Reffett)</h4>
+<h2 id="equilibria-in-dynamic-behavioral-games-with-generalized-discounting-2020--joint-with-lukasz-balbus-and-kevin-reffett">Equilibria in dynamic behavioral games with generalized discounting, 2020 <br /> (joint with Lukasz Balbus and Kevin Reffett)</h2>
 
 <p>At least since Ramsey (1928) or Koopmans (1964) the question of discounting in assessing values of future utility streams has played an important role in work in many fields in economics. 
 Discounting is one of the key determinants in allocating resources between current consumption and investment, it affects inter-temporal tradeoffs and makes an explicit account of the distant future and therefore encompasses motives related to sustainability, transmission to offsprings and altruism. 

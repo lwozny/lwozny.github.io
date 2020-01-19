@@ -31,7 +31,7 @@ description: #
 
 <li> Feb 2014 - Short research visit, Department of Economics, Arizona State University, USA</li>
 
-<li> 2012 - Visiting Professor, Department of Economics, Oxford University, UK</li>
+<li> Jan - June 2012 - Visiting Professor, Department of Economics, Oxford University, UK</li>
 
 </ul>
 </p>

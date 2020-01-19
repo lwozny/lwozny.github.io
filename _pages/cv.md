@@ -14,7 +14,7 @@ description: #
     
 </div>
 
-<h4>Positions / Vists / Education  </h4>
+<h4>Vists </h4>
 
 <p>
 <ul>  
@@ -25,17 +25,34 @@ description: #
 
 <li> Feb 2018 - Short research visit, Department of Economics, Arizona State University, USA</li>
 
-<li> since Sept 2017 - Associate Professor, Department of Quantitative Economics, SGH</li>
-
-<li> 2017 - Habilitation degree</li>
-
-<li> 2014 - 2017  - Assistant Professor, Department of Quantitative Economics, SGH</li>
+<li> 2012 - Visiting Professor, Department of Economics, Oxford University, UK</li>
 
 <li> Feb 2014 - Short research visit, Department of Economics, Arizona State University, USA</li>
 
-<li> 2012 - Visiting Professor, Department of Economics, Oxford University, UK</li>
+</ul>
+</p>
+
+<h4> Positions </h4>
+<p>
+<ul>  
+
+<li> since Sept 2017 - Associate Professor, Department of Quantitative Economics, SGH</li>
+
+<li> 2014 - 2017  - Assistant Professor, Department of Quantitative Economics, SGH</li>
 
 <li> 2008 - 2013 - Assistant Professor, Department of Theoretical and Applied Economics, SGH</li>
+
+<li> 2004 - internship in Decision Analysis and Support Department, Warsaw School of Economics</li>
+
+</ul>
+</p>
+
+
+<h4> Education </h4>
+<p>
+<ul>  
+
+<li> 2017 - Habilitation degree</li>
 
 <li> 2008 - Ph.D. defence, <i>Strategic interactions in public good games</i>, Warsaw School of Economics</li>
 
@@ -45,9 +62,7 @@ description: #
 
 <li> 2004 - 2005 - Marie Curie Fellowship, Ph.D. studies, Center for Operations Research and Econometrics , Louvain-la-Neuve, Belgia</li>
 
-<li> 2004 - internship in Decision Analysis and Support Department, Warsaw School of Economics</li>
-
-<li>2000 - 2004 - M.Sc. studies, Economics, Political Science, Warsaw School of Economics</li>
+<li>2000 - 2004 - M.Sc. studies, Economics, Warsaw School of Economics</li>
 </ul>
 </p>
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /talks/
-title: talks and conferences
+title: talks 
 description: Co-organized conferences / Conference talks / Invited talks 
 ---
 

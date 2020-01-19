@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /grants/
-title: awards and grants 
-description: Awards / Grants  
+title: grants 
+description: Awards and Grants  
 ---
 
 

@@ -62,8 +62,6 @@ description: #
 
 <li> 2006 - 2007 - Fulbright Scholarship, Ph.D. studies, Arizona State Uniersity, Pheonix, USA</li>
 
-<li> 2006 - 2007 - Ph.D. studies, Warsaw School of Economics </li>
-
 <li> 2004 - 2005 - Marie Curie Fellowship, Ph.D. studies, Center for Operations Research and Econometrics , Louvain-la-Neuve, Belgia</li>
 
 <li>2000 - 2004 - M.Sc. studies, Economics, Warsaw School of Economics</li>

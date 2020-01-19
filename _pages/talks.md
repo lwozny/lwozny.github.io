@@ -1,58 +1,30 @@
 ---
 layout: page
-permalink: /research/
-title: research
-description: Grants / Co-organized conferences / Conference talks / Invited talks 
+permalink: /talks/
+title: talks and conferences
+description: Co-organized conferences / Conference talks / Invited talks 
 ---
 
-
-<h4><a name="coconf">Grants and awards</a></h4>
-
-<p>
-<ul>
-
-<li> <b>Nagroda Prezesa Rady Ministrów</b> za wysoko ocenione osiagniecia bedace podstawa nadania stopnia doktora habilitowanego, 2018.</li>
-
-<li> Finalista <b>Nagród Naukowych</b> tygodnika <b>Polityka</b> 2017.</li>
-
-<li> On competitive equilibria with time consistency of decision process (pl. O równowagach gospodarczych w warunkach niespójnosci czasowej decyzji), 2017-2020, <b>grant NCN OPUS 12</b>, wykonawca, PLN 259 350.</li>
-
-<li> <b>Stypendium MNiSW</b> dla wybitnych mlodych naukowców, 2014-2017.</li>
-
-<li> On the role of temptations and self-control in economic choices (pl. O roli pokus i samokontroli w wyborach ekonomicznych), 2014-2016, <b>grant NCN SONATA 6</b>, kierownik, PLN 118 560.</li>
-
-<li> Constructive methods for analysing equilibria in large stochastic economies (pl. Konstruktywne metody znajdowania rownowag w duzych gospodarkach), 2013-2016, <b>grant NCN SONATA 4</b>, wykonawca, PLN 278 850.</li>
-
-<li> Towarzystwo Naukowe Warszawskie: grant konferencyjny, 2011. </li>
-
-<li> <b>Fulbright Junior Reserach Award </b>, 2006-2007. </li>
-
-<li> <b> Marie Curie Host Fellowship</b>, 2004-2005. </li>
-
-</ul>
-</p>
-
-<h4><a name="coconf">Co-organized/chaired conferences</a></h4>
+<h4><a name="coconf">Co-organized conferences</a></h4>
 
 <p>
 <ul>
 
-<li> 7th Hurwicz Workshop, Warsaw, PL, Dec 7-8, 2018, <a href="https://www.impan.pl/en/activities/banach-center/conferences/18-hurwiczworkshop"> [link]</a>. </li>
+<li> 7th Hurwicz Workshop, Warsaw, PL, Dec 7-8, 2018, <a href="https://www.impan.pl/en/activities/banach-center/conferences/18-hurwiczworkshop"> [link]</a> Organizing and Scientific Committee.</li>
 
 <li> International Society of Dynamic Games (ISDG) Workshop, Warsaw, PL, July 13-15, 2017, <a href="https://www.impan.pl/en/activities/banach-center/conferences/17-isdg
-"> [link]</a>. </li>
-
+"> [link]</a> Organizing and Scientific Committee. </li>
 
 <li> 6th Hurwicz Workshop, Warsaw, PL, Dec 2-3, 2016, <a href="https://www.impan.pl/en/activities/banach-center/conferences/16-hurwicz
-"> [link]</a>. </li>
+"> [link]</a> Organizing and Scientific Committee.</li>
 
-<li> XXIVth European Workshop on General Equilibrium Theory, Naples, Italy, 2015, <a href="http://www.mathematical-economics-naples.org/"> [link]</a>. </li>
+<li> XXIVth European Workshop on General Equilibrium Theory, Naples, Italy, 2015, <a href="http://www.mathematical-economics-naples.org/"> [link]</a>. Scientific Committee</li>
 
-<li> 5th Hurwicz Workshop, Warsaw, PL, 2014, <a href="http://bcc.impan.pl/14VHurwicz/"> [link]</a>. </li>
+<li> 5th Hurwicz Workshop, Warsaw, PL, 2014, <a href="http://bcc.impan.pl/14VHurwicz/"> [link]</a>Organizing and Scientific Committee. </li>
 
-<li> 25 Years of the Poland's transition to a Market Economy, Warsaw, PL, 2014, <a href="http://25yearsoftransformation.pl/"> [link]</a>. </li>
+<li> 25 Years of the Poland's transition to a Market Economy, Warsaw, PL, 2014, <a href="http://25yearsoftransformation.pl/"> [link]</a> Organizing  Committee. </li>
 
-<li> XIXth European Workshop on General Equilibrium Theory, Kraków, PL, 2010, <a href="http://www.ewget.uek.krakow.pl/"> [link]</a>. </li>
+<li> XIXth European Workshop on General Equilibrium Theory, Kraków, PL, 2010, <a href="http://www.ewget.uek.krakow.pl/"> [link]</a> Organizing  Committee.</li>
 
 
 </ul>

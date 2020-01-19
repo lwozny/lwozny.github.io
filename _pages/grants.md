@@ -11,11 +11,11 @@ description: Awards and Grants
 <p>
 <ul>
 
-<li> <b>Nagroda Prezesa Rady Ministrów</b> za wysoko ocenione osiagniecia bedace podstawa nadania stopnia doktora habilitowanego, 2018.</li>
+<li> <b>Prime Minister of Poland Scientific Award for habilitation dissertation (pl. Nagroda Prezesa Rady Ministrów</b> za wysoko ocenione osiagniecia bedace podstawa nadania stopnia doktora habilitowanego), 2018.</li>
 
-<li> Finalista <b>Nagród Naukowych</b> tygodnika <b>Polityka</b> 2017.</li>
+<li> Finalist of Polityka Journal Scientific Award (pl. Finalista <b>Nagród Naukowych</b> tygodnika <b>Polityka</b>), 2017.</li>
 
-<li> <b>Stypendium MNiSW</b> dla wybitnych mlodych naukowców, 2014-2017.</li>
+<li> Ministry of Science and Higher Education Scholarship for Outstanding Young Scientists (pl. <b>Stypendium MNiSW</b> dla wybitnych mlodych naukowców), 2014-2017.</li>
 
 <li> Towarzystwo Naukowe Warszawskie: grant konferencyjny, 2011. </li>
 

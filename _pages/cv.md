@@ -25,6 +25,10 @@ description: #
 
 <li> Feb 2018 - Short research visit, Department of Economics, Arizona State University, USA</li>
 
+<li> June 2015 - Short research visit, Department of Economics, Universite Paris 1 Pantheon Sorbonne, France</li>
+
+<li> Dec 2015 - Short research visit, Department of Economics, Universitat Autonoma de Barcelona, Barcelona</li>
+
 <li> 2012 - Visiting Professor, Department of Economics, Oxford University, UK</li>
 
 <li> Feb 2014 - Short research visit, Department of Economics, Arizona State University, USA</li>

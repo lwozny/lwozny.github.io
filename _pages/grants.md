@@ -1,5 +1,9 @@
-
-
+---
+layout: page
+permalink: /grants/
+title: awards and grants 
+description: Awards / Grants  
+---
 
 
 <h4><a name="coconf">Awards</a></h4>

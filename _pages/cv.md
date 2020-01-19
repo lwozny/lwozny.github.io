@@ -68,10 +68,14 @@ description: #
 </ul>
 </p>
 
-<h4>Editorial positions</h4>
+<h4>Editorial and other positions</h4>
 <p>
 <ul>  
 
+
 <li>Editorial Board of <i> Statistical Review (Przeglad Statystyczny)</i>, since 11.2019, <a href="https://ps.stat.gov.pl/About">Webpage</a></li>
+
+<li>Member of the Prof Andrzej Malawski Award Chapter  (Członek Kapituły Nagrody im. Profesora Andrzeja Malawskiego)</li>
+
 </ul>
 </p>

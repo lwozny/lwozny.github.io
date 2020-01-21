@@ -5,6 +5,8 @@ date:   2020-01-21 16:40:16
 description: 
 ---
 
-Find slides from Sebastian presentation [here]({{ site.baseurl }}/assets/pdf/CNSummary.pdf)
+Find slides from Sebastian's presentation [here]({{ site.baseurl }}/assets/pdf/CNSummary.pdf)
+
+Marek presentation [here]({{ site.baseurl }}/assets/pdf/Prezentacja_GE.pdf)
 
   

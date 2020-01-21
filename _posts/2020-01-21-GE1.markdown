@@ -7,6 +7,6 @@ description:
 
 Find slides from Sebastian's presentation [here]({{ site.baseurl }}/assets/pdf/CNSummary.pdf)
 
-Marek presentation [here]({{ site.baseurl }}/assets/pdf/Prezentacja_GE.pdf)
+Marek presentation [here]({{ site.baseurl }}/assets/pdf/PrezentacjaGE.pdf)
 
   

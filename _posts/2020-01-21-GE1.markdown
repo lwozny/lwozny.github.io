@@ -5,6 +5,6 @@ date:   2020-01-21 16:40:16
 description: 
 ---
 
-Find slides from Sepastian presentation [here]({{ site.baseurl }}/assets/pdf/CNASummary.pdf)
+Find slides from Sepastian presentation [here]({{ site.baseurl }}/assets/pdf/CNSummary.pdf)
 
   

@@ -9,4 +9,6 @@ Find slides from Sebastian's presentation [here]({{ site.baseurl }}/assets/pdf/C
 
 Marek presentation [here]({{ site.baseurl }}/assets/pdf/PrezentacjaGE.pdf)
 
+Louis presentation [here]({{ site.baseurl }}/assets/pdf/EXPO - SGH.pdf)
+
   

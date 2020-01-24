@@ -171,7 +171,7 @@ paper: <i> Strategic interactions in human capital accumulation</i>.  </li>
 <ul>
 
 
-<li> Economic Seminar<b>, University of Minnesota,</b> <br /> paper: <i> Equilibria in Dynamic Behavioral Games with Generalized Discounting</i>, Minneapolis, MN, US 2020.</li>
+<li> Economic Seminar<b>, University of Minnesota,</b> <br /> paper: <i> Equilibria in dynamic games with recursive payoffs and behavioral discounting</i>, Minneapolis, MN, US 2020.</li>
 
 <li> Kansas Workshop in Economic Theory<b>, University of Kansas, </b> <br /> paper: <i> Supermodular comparative statics</i>, Lawrence, KS, US 2019.</li>
 

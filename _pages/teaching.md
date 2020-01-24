@@ -4,8 +4,43 @@ permalink: /teaching/
 title: teaching
 description: Materials for courses I teach. 
 ---
+<h4>Advanced Microeconomics II</h4>
 
-   <h4>QEM</h4>
+<ul>
+
+<li>  Syllabus <a href="/assets/pdf/ADMicroII.pdf">[pdf]</a></li>
+
+<li> <a href="http://www.youtube.com/watch?v=vGse0zADjRw"> lecture by Edi Dekel on Decision Theory</a> </li>
+</ul>
+
+<h4>Game Theory (222940)</h4>
+
+<ul>
+
+<li> Syllabus <a href="/assets/pdf/GT.pdf">[pdf]</a></li>
+
+<li> P.Dasgupta and E. Maskin about elections in France and the US <a href="http://www.scientificamerican.com/article/ranking-candidates-more-accurate/">[link]</a></li>
+
+</ul>
+
+<h4>Mikro II (110510)</h4>
+
+<ul>
+
+<li> Harmonogram zajec <a href="/assets/pdf/MikroII.pdf">[pdf]</a></li>
+
+<li><i> Lecture notes on Microeconomics</i>, 2016 <a href="/assets/pdf/LectureNotes.pdf"> [pdf]</a>.</li> 
+
+<li>Zbiór zadan <a href="/assets/pdf/Lista_zadan.pdf">[pdf]</a></li>
+
+<li>Handout z metodologii ekonomii <a href="/assets/pdf/metodologia.pdf">[pdf]</a></li>
+
+<li>Optymalizacja z ograniczeniami – przypomnienie <a href="/assets/pdf/optymalizacja.pdf">[pdf]</a></li>
+
+</ul>
+
+
+<h4>QEM</h4>
 
 <ul>
 
@@ -72,25 +107,6 @@ description: Materials for courses I teach.
 
 </ul>
 
-<h4>Advanced Microeconomics II</h4>
-
-<ul>
-
-<li>  Syllabus <a href="/assets/pdf/ADMicroII.pdf">[pdf]</a></li>
-
-<li> <a href="http://www.youtube.com/watch?v=vGse0zADjRw"> lecture by Edi Dekel on Decision Theory</a> </li>
-</ul>
-
-<h4>Game Theory (222940)</h4>
-
-<ul>
-
-<li> Syllabus <a href="/assets/pdf/GT.pdf">[pdf]</a></li>
-
-<li> P.Dasgupta and E. Maskin about elections in France and the US <a href="http://www.scientificamerican.com/article/ranking-candidates-more-accurate/">[link]</a></li>
-
-</ul>
-
 <h4>Ekonomia studia doktorackie (KAE)</h4>
 
 <ul>
@@ -101,21 +117,6 @@ description: Materials for courses I teach.
 
 </ul>
 
-<h4>Mikro II (110510)</h4>
-
-<ul>
-
-<li> Harmonogram zajec <a href="/assets/pdf/MikroII.pdf">[pdf]</a></li>
-
-<li><i> Lecture notes on Microeconomics</i>, 2016 <a href="/assets/pdf/LectureNotes.pdf"> [pdf]</a>.</li> 
-
-<li>Zbiór zadan <a href="/assets/pdf/Lista_zadan.pdf">[pdf]</a></li>
-
-<li>Handout z metodologii ekonomii <a href="/assets/pdf/metodologia.pdf">[pdf]</a></li>
-
-<li>Optymalizacja z ograniczeniami – przypomnienie <a href="/assets/pdf/optymalizacja.pdf">[pdf]</a></li>
-
-</ul>
 
 <h4>Modele równowagi ogólnej (233460)</h4>
 

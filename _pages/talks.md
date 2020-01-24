@@ -10,6 +10,8 @@ description: Co-organized conferences / Conference talks / Invited talks
 <p>
 <ul>
 
+<li> 8th Hurwicz Workshop, Warsaw, PL, Nov 20-21, 2020, Organizing and Scientific Committee.</li>
+
 <li> 7th Hurwicz Workshop, Warsaw, PL, Dec 7-8, 2018, <a href="https://www.impan.pl/en/activities/banach-center/conferences/18-hurwiczworkshop"> [link]</a> Organizing and Scientific Committee.</li>
 
 <li> International Society of Dynamic Games (ISDG) Workshop, Warsaw, PL, July 13-15, 2017, <a href="https://www.impan.pl/en/activities/banach-center/conferences/17-isdg

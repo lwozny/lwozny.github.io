@@ -11,7 +11,7 @@ description: Awards and Grants
 <p>
 <ul>
 
-<li> XXX Prime Minister of Poland Scientific Award for habilitation dissertation (pl. <b> Nagroda Prezesa Rady Ministrów</b> za wysoko ocenione osiagniecia bedace podstawa nadania stopnia doktora habilitowanego), 2018.</li>
+<li> Prime Minister of Poland Scientific Award for habilitation dissertation (pl. <b> Nagroda Prezesa Rady Ministrów</b> za wysoko ocenione osiagniecia bedace podstawa nadania stopnia doktora habilitowanego), 2018.</li>
 
 <li> Finalist of Polityka Journal Scientific Award (pl. Finalista <b>Nagród Naukowych</b> tygodnika <b>Polityka</b>), 2017.</li>
 

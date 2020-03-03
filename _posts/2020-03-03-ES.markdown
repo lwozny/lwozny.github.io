@@ -2,7 +2,7 @@
 layout: post
 title:  ekonomia stosowana
 date:   2020-03-03 16:40:16
-description: 
+description: ekonomia stosowana dane
 ---
 
 Dane do przedmiotu ekonomia stosowana [tutaj]({{ site.baseurl }}/assets/pdf/TableF2-2.csv)

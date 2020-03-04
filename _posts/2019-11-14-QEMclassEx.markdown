@@ -2,7 +2,7 @@
 layout: post
 title: class exercise on 14.11.2019
 date: 2019-11-14 11:12:00-0400
-description: an example of a blog post with some math
+description: 
 ---
 Assume $$x_l(p,w)$$ does not depend on $$p_j$$ where $$j\neq l$$ and is homogenous of degree one with $$w$$. $$x_l$$ is also homogenous of degree $$0$$ with prices and income. 
 

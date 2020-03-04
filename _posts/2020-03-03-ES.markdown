@@ -1,11 +1,14 @@
 ---
 layout: post
 title:  ekonomia stosowana
-date:   2020-03-03 16:40:16
-description: ekonomia stosowana dane
+date:   2020-03-04 16:40:16
+description: ekonomia stosowana (konsument)
 ---
 
-Dane do przedmiotu ekonomia stosowana [tutaj]({{ site.baseurl }}/assets/pdf/TableF2-2.csv)
+Dane do wydatkach na paliwo [tutaj]({{ site.baseurl }}/assets/pdf/TableF2-2.csv)
 
+Skrypt Matlab / Octave z zajec [tutaj]({{ site.baseurl }}/assets/pdf/OLSinMatlab.m)
+
+Lista nr 1 [tutaj]({{ site.baseurl }}/assets/pdf/PS1EkStosowana.pdf)
 
   

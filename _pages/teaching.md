@@ -17,6 +17,8 @@ description: Materials for courses I teach.
 
 <ul>
 
+<li> Problem set 1 <a href="/assets/pdf/PS1.pdf">[pdf]</a></li>
+
 <li> Syllabus <a href="/assets/pdf/GT.pdf">[pdf]</a></li>
 
 <li> P.Dasgupta and E. Maskin about elections in France and the US <a href="http://www.scientificamerican.com/article/ranking-candidates-more-accurate/">[link]</a></li>

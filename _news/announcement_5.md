@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2020-01-18 15:59:00-0400
+date: 2020-04-16 15:59:00-0400
 inline: true
 ---
-General equilibrium and Advanced Micro Exam on Tuesday, 28th at 9.50am in room 233G  
+QEM (Models and Methods of Quantitative Economics) [Information-Recruitment Meeting](https://www.facebook.com/QEMSGH/) on April, 16th at 17.10, room 4b C

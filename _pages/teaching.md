@@ -29,6 +29,8 @@ description: Materials for courses I teach.
 
 <ul>
 
+<li> Lista zadan nr 1 <a href="/assets/pdf/MikrZad1.pdf">[pdf]</a></li>
+
 <li> Harmonogram zajec <a href="/assets/pdf/MikroII.pdf">[pdf]</a></li>
 
 <li><i> Lecture notes on Microeconomics</i>, 2016 <a href="/assets/pdf/LectureNotes.pdf"> [pdf]</a>.</li> 

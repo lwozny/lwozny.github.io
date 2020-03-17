@@ -29,7 +29,7 @@ description: Materials for courses I teach.
 
 <ul>
 
-<li> Lista zadan nr 1 <a href="/assets/pdf/MikrZad1.pdf">[pdf]</a></li>
+<li> Lista zadan nr 1 <a href="/assets/pdf/MikroZad1.pdf">[pdf]</a></li>
 
 <li> Harmonogram zajec <a href="/assets/pdf/MikroII.pdf">[pdf]</a></li>
 

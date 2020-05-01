@@ -31,7 +31,7 @@ description: Awards and Grants
 <p>
 <ul>
 
-<li> Doskonala Nauka (Ministry of Science and Higher Education) grant for cenference organization, 2020, PLN 109 100.</li>
+<li> Doskonala Nauka (Ministry of Science and Higher Education) grant for conference organization, 2020, PLN 109 100.</li>
 
 <li> National Science Center Grant: On competitive equilibria with time consistency of decision process (pl. O równowagach gospodarczych w warunkach niespójnosci czasowej decyzji), 2017-2020, <b>grant OPUS 12</b>, wykonawca, PLN 259 350.</li>
 

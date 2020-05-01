@@ -11,8 +11,6 @@ description: Awards and Grants
 <p>
 <ul>
 
-<li> Doskonala Nauka (Ministry of Science and Higher Education) grant for cenference organization, 2020, PLN 109 100.</li>
-
 <li> Prime Minister of Poland Scientific Award for habilitation dissertation (pl. <b> Nagroda Prezesa Rady Ministrów</b> za wysoko ocenione osiagniecia bedace podstawa nadania stopnia doktora habilitowanego), 2018.</li>
 
 <li> Finalist of Polityka Journal Scientific Award (pl. Finalista <b>Nagród Naukowych</b> tygodnika <b>Polityka</b>), 2017.</li>
@@ -28,16 +26,18 @@ description: Awards and Grants
 </ul>
 </p>
 
-<h4><a name="coconf">National Science Center Grants</a></h4>
+<h4><a name="coconf">Grants</a></h4>
 
 <p>
 <ul>
 
-<li> On competitive equilibria with time consistency of decision process (pl. O równowagach gospodarczych w warunkach niespójnosci czasowej decyzji), 2017-2020, <b>grant NCN OPUS 12</b>, wykonawca, PLN 259 350.</li>
+<li> Doskonala Nauka (Ministry of Science and Higher Education) grant for cenference organization, 2020, PLN 109 100.</li>
 
-<li> On the role of temptations and self-control in economic choices (pl. O roli pokus i samokontroli w wyborach ekonomicznych), 2014-2016, <b>grant NCN SONATA 6</b>, kierownik, PLN 118 560.</li>
+<li> National Science Center Grant: On competitive equilibria with time consistency of decision process (pl. O równowagach gospodarczych w warunkach niespójnosci czasowej decyzji), 2017-2020, <b>grant OPUS 12</b>, wykonawca, PLN 259 350.</li>
 
-<li> Constructive methods for analysing equilibria in large stochastic economies (pl. Konstruktywne metody znajdowania rownowag w duzych gospodarkach), 2013-2016, <b>grant NCN SONATA 4</b>, wykonawca, PLN 278 850.</li>
+<li> National Science Center Grant: On the role of temptations and self-control in economic choices (pl. O roli pokus i samokontroli w wyborach ekonomicznych), 2014-2016, <b>grant SONATA 6</b>, kierownik, PLN 118 560.</li>
+
+<li> National Science Center Grant: Constructive methods for analysing equilibria in large stochastic economies (pl. Konstruktywne metody znajdowania rownowag w duzych gospodarkach), 2013-2016, <b>grant SONATA 4</b>, wykonawca, PLN 278 850.</li>
 
 </ul>
 </p>

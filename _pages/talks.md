@@ -43,6 +43,9 @@ paper: <i>  Equilibria in dynamic games with recursive payoff s and behavioral d
 <li> (20th Conference of) <b> Society for Advancement in Economic Theory</b>, Seul, Korea, 2021 <br />
 session: <i> New Methods for Dynamic Games and Economics</i>.</li>
 
+<li> 12th <b> World Congress of the Econometric Society </b>, Milan, Italy, 2020 <br />
+paper: <i> Distributional equilibria in dynamic supermodular games with a measure space of players and no aggregate risk</i>.</li>
+
 <li> <b> Individual Beings, Societies, States and the World</b>, Warsaw, 2020<br />
 paper: <i>  Equilibria in Dynamic Behavioral Games with Generalized Discounting</i>. </li>
 

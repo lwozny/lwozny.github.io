@@ -31,7 +31,7 @@ description: Awards and Grants
 <p>
 <ul>
 
-<li> National Science Center Grant: On competitive equilibria with time consistency of decision process (pl. O równowagach gospodarczych w warunkach niespójnosci czasowej decyzji), 2020-2023, <b>grant OPUS 18</b>, kierownik (principal investigator), PLN 291 960.</li>
+<li> National Science Center Grant: On behavioral discounting and Markov equilibria in stochastic decision problems (pl. O dyskontowaniu behawioralnym i równowagach Markowa w stochastycznych problemach decyzyjnych), 2020-2023, <b>grant OPUS 18</b>, kierownik (principal investigator), PLN 291 960.</li>
 
 <li> <b> Doskonala Nauka</b> (Ministry of Science and Higher Education) <b>grant</b> for conference organization, 2020, PLN 109 100.</li>
 

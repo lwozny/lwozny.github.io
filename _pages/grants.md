@@ -31,11 +31,13 @@ description: Awards and Grants
 <p>
 <ul>
 
+<li> National Science Center Grant: On competitive equilibria with time consistency of decision process (pl. O równowagach gospodarczych w warunkach niespójnosci czasowej decyzji), 2020-2023, <b>grant OPUS 18</b>, kierownik (principal investigator), PLN 291 960.</li>
+
 <li> <b> Doskonala Nauka</b> (Ministry of Science and Higher Education) <b>grant</b> for conference organization, 2020, PLN 109 100.</li>
 
 <li> National Science Center Grant: On competitive equilibria with time consistency of decision process (pl. O równowagach gospodarczych w warunkach niespójnosci czasowej decyzji), 2017-2020, <b>grant OPUS 12</b>, wykonawca, PLN 259 350.</li>
 
-<li> National Science Center Grant: On the role of temptations and self-control in economic choices (pl. O roli pokus i samokontroli w wyborach ekonomicznych), 2014-2016, <b>grant SONATA 6</b>, kierownik, PLN 118 560.</li>
+<li> National Science Center Grant: On the role of temptations and self-control in economic choices (pl. O roli pokus i samokontroli w wyborach ekonomicznych), 2014-2016, <b>grant SONATA 6</b>, kierownik (principal investigator), PLN 118 560.</li>
 
 <li> National Science Center Grant: Constructive methods for analysing equilibria in large stochastic economies (pl. Konstruktywne metody znajdowania rownowag w duzych gospodarkach), 2013-2016, <b>grant SONATA 4</b>, wykonawca, PLN 278 850.</li>
 

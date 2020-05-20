@@ -8,7 +8,7 @@ description: Materials for courses I teach.
 
 <ul>
 
-<li>  Problem Set Principal-Agent <a href="/assets/pdf/ps2.pdf">[pdf]</a></li>
+<li>  Problem Set 3 <a href="/assets/pdf/ps2.pdf">[pdf]</a></li>
 
 <li>  Problem Set 2 <a href="/assets/pdf/ps4AM.pdf">[pdf]</a></li>
 

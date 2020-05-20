@@ -8,6 +8,8 @@ description: Materials for courses I teach.
 
 <ul>
 
+<li>  Problem Set Principal-Agent <a href="/assets/pdf/ps2.pdf">[pdf]</a></li>
+
 <li>  Problem Set 2 <a href="/assets/pdf/ps4AM.pdf">[pdf]</a></li>
 
 <li>  Supermodularity and Complementarity in Economics: An Elementary Survey by Rabah Amir <a href="http://www.laits.utexas.edu/~mbs31415/Amir_Supermodularity_Survey.pdf">[pdf]</a></li>

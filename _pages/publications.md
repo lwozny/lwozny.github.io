@@ -563,7 +563,7 @@ indeterminacy of dynamic equilibrium.</p>
 
 <div id="Balbus2017">
   
-    <span class="title">A Strategic Dynamic Programming Method for Studying Short-Memory Equilibria of Stochastic Games with Uncountable Number of States</span>
+    <span class="title">A strategic dynamic programming method for studying short-memory equilibria of stochastic games with uncountable number of states</span>
     <span class="author">
       
         
@@ -640,7 +640,7 @@ indeterminacy of dynamic equilibrium.</p>
 
 <div id="RePEc:bpj:bejtec:v:16:y:2016:i:2:p:579-598:n:7">
   
-    <span class="title">On the Price of Commitment Assets in a General Equilibrium Model with Credit Constraints and Tempted Consumers</span>
+    <span class="title">On the price of commitment assets in a general equilibrium model with credit constraints and tempted consumers</span>
     <span class="author">
       
         

@@ -1,0 +1,154 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={Egzamin z Mikroekonomii II},
+  pdfauthor={prof. Łukasz Woźny},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{amsfonts}
+
+\usepackage{graphicx}
+\usepackage{epstopdf}
+\usepackage{hyperref}
+\usepackage{float}
+\usepackage{geometry}
+\usepackage{array}
+\usepackage{natbib}
+\usepackage{multirow}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{graphicx,epstopdf}
+\usepackage{setspace}
+\usepackage{threeparttable}
+\usepackage{longtable}
+\usepackage{listings}
+\usepackage{lscape}
+
+\title{Egzamin z Mikroekonomii II}
+\author{prof. Łukasz Woźny}
+\date{18/06/2020}
+
+\begin{document}
+\maketitle
+
+Czas na rozwiązanie zadań to 60 minut.\\
+Proszę przesłać skany rozwiazań do swojego ćwiczeniowca do godziny
+12:50.\\
+Artur Krawczyk:
+\href{mailto:ak56589@student.sgh.waw.pl}{\nolinkurl{ak56589@student.sgh.waw.pl}}\\
+Przemysław Siemaszko:
+\href{mailto:ps50943@doktorant.sgh.waw.pl}{\nolinkurl{ps50943@doktorant.sgh.waw.pl}}\\
+W temacie pracy proszę podać słowo `egzamin'.
+
+\subsection*{Zadanie 1. [5 pkt.]}
+
+Na przykładzie preferencji doskonale substycyjnych graficznie przedstaw
+działanie efektu dochodowego i substytucyjnego. Użyj dekompozycji
+Hicksa.
+
+\subsection*{Zadanie 2. [20 pkt.]}
+
+W tym zadaniu przeanalizujesz międzyokresowy wybór konsumenta żyjącego
+dwa okresy. Załózmy, ze w pierwszym okresie konsument posiada majątek w
+wysokości \(w\), który moze przeznaczyć na konsumpcję \((c_1)\) i
+oszczędności \((s)\). W drugim okresie jego majątek jest równy
+oszczędnościom poczynionym w pierwszym okresie, powiększonym o stałą
+stopę procentową \(r\), który w całosci jest konsumowany. Użyteczność
+konsumenta ma postać \(u(c_1,c_2)=(\alpha_1c_1)(\alpha_2c_2)^\delta\),
+gdzie \(c_1\), \(c_2\) oznaczają odpowiednio poziom konsumpcji w
+pierwszym i drugim okresie.
+
+\begin{itemize}
+\item[(i)] Zapisz problem konsumenta maksymalizującego użyteczność w całym życiu. Zapisz odpowiadającą mu funkcję Lagrange'a.
+\item[(ii)] Rozwiąż problem, okreslając optymalne poziomy konsumpcji $(c_1, c_2)$ i oszczędności $(s)$.
+\item[(iii)] Jakiego rodzaju dobrami jest konsumpcja w pierwszym i drugim okresie? Czym w tym przypadku jest stopa procentowa $r$? Jak od niej zależy decyzja odnosnie konsumpcji w obydwu okresach?
+\end{itemize}
+
+\subsection*{Zadanie 3. [7 pkt.]}
+
+Wyznacz cenę i produkcję monopolisty z funkcją kosztów \(TC(q)=cq\) oraz
+popytem \(D(p)=Ap^{-b}\).
+
+\subsection*{Zadanie 4. [8 pkt.]}
+
+Narysuj macierz 2x2 z wypłatami przedstawiającymi grę z
+komplementarnością strategii. Znajdź wszystkie równowagi Nasha.
+
+\subsection*{Zadanie 5. [20 pkt.]}
+
+Rozpatrujemy wyspę dwóch plemion Westerner i Easterners, które spotykają
+się raz w roku na targu. Na wyspie mieszka 1000 rodzin Westerners, z
+których każda produkuje 30 sztuk X-angów i 200 kwintali Y-amp. Wszystkie
+mają preferencje określone przez funkcję użyteczności o wartosciach
+\(U_w=X_w^{\frac{1}{2}}Y_w^{\frac{1}{2}}\). Jednocześnie na wyspie
+mieszka 2000 rodzin Easterners, z których każda produkuje 25 X-angów i
+300 kwintali Y-amp. Wszystkie mają preferencje określone przez funkcję
+użyteczności o wartościach \(U_e=X_e^{\frac{3}{4}} Y_e^{\frac{1}{4}}\).
+Na wyspie targ działa na zasadzie konkurencji Arrow-Debreu.
+
+\begin{itemize}
+\item Jaki jest stosunek cen Y-amp do X-angów?
+\item Ile każdego z dóbr konsumuje każda z 2 typów rodzin na
+wyspie?
+\end{itemize}
+
+\subsection*{Zadanie 6. [10 pkt.]}
+
+Podaj przykład reprezentujący paradoks Alais. Dlaczego nie spełnia on
+aksjomatów von Neumanna-Morgersterna?
+
+\end{document}

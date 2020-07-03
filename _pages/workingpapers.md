@@ -17,7 +17,7 @@ description: working papers and some older stuff
 <hr />
 
 <h4 id="distributional-equilibria-in-dynamic-supermodular-games-with-a-measure-space-of-players-and-no-aggregate-risk-2019--joint-with-lukasz-balbus-pawel-dziewulski-and-kevin-reffett"><a href="/assets/pdf/LargeSSG2020.pdf">Distributional equilibria in dynamic supermodular games with a measure space of players and no aggregate risk</a>, 2019 <br /> (joint with Lukasz Balbus, Pawel Dziewulski and Kevin Reffett)</h4>
-
+	
 <p>In this one we study a class of discounted infinite horizon stochastic games with
 strategic complementarities with a continuum of players. In order to analyse
 transition of private signals to aggregate distributions, we develop a dynamic law
@@ -39,6 +39,9 @@ approximation of our large game by its small counterparts. We provide
 numerous examples including social dissonance models, dynamic global games,
 keeping up with the Joneses or OLG economies with intergenerational
 interactions.</p>
+
+<h4 ><a href="/assets/pdf/LargeSSGOnlineAppendix.pdf">Online Appendix</a></h4>
+
 <hr />
 
 <h4 id="supermodular-comparative-statics-2019--joint-with-pawel-dziewulski">Supermodular comparative statics, 2019 <br /> (joint with Pawel Dziewulski)</h4>

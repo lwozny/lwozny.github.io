@@ -19,27 +19,8 @@ description: working papers and some older stuff
 <h4 id="distributional-equilibria-in-dynamic-supermodular-games-with-a-measure-space-of-players-and-no-aggregate-risk-2019--joint-with-lukasz-balbus-pawel-dziewulski-and-kevin-reffett"><a href="/assets/pdf/LargeSSG2020SHORT.pdf">Markov distributional equilibrium dynamics in games
 with complementarities and no aggregate risk</a>, 2020 <br /> (joint with Lukasz Balbus, Pawel Dziewulski and Kevin Reffett)</h4>
 	
-<p>In this one we study a class of discounted infinite horizon stochastic games with
-strategic complementarities with a continuum of players. In order to analyse
-transition of private signals to aggregate distributions, we develop a dynamic law
-of large numbers, that implies a.o. no aggregate uncertainty. We define a
-suitable equilibrium concept, namely: Markov Stationary Equilibrium and
-prove its existence under a new set of assumptions, via constructive
-methods. Our construction allows to overcome some problems in characterizing
-beliefs and dynamic complementarities in a class of games recently studied
-by Mensch (2018). In addition, we provide constructive monotone
-comparative dynamics results for ordered perturbations of the space of games
-(extending those of Acemoglu, Jensen (2014) and Light, Weintraub (2019) from steady
-states or invariant measures to dynamic equilibria). For this end, we use
-our new fixed point comparative statics theorem, suitable for comparing
-equilibrium objects in spaces of distributions or measurable functions.
-Finally, we discuss the relation of our result to the literature on
-equilibria in oblivious strategies of e.g. Weintraub, Benkard, Van Roy (2008), Adlakha, Johari, Weintraub (2015) and recent works on
-large but finite dynamic games (Kalai, Shmaya 2018) providing
-approximation of our large game by its small counterparts. We provide
-numerous examples including social dissonance models, dynamic global games,
-keeping up with the Joneses or OLG economies with intergenerational
-interactions.</p>
+<p>In this one we present a new approach for studying equilibrium dynamics in a class of stochastic games with a continuum of players with private types and strategic complementarities. We introduce a suitable equilibrium concept, called Markov
+Stationary Distributional Equilibrium (MSDE), prove its existence, and provide constructive methods for characterizing and comparing equilibrium distributional transitional dynamics. To analyze equilibrium transitions for the distributions of private types, we develop an appropriate dynamic (exact) law of large numbers. Finally, we show that our models can be approximated as idealized limits of games with a large (but finite) number of players. We provide numerous applications of the results including: dynamic models of growth with status concerns, social distance, and paternalistic bequest with endogenous preference for consumption.</p>
 
 <h4 ><a href="/assets/pdf/LargeSSGOnlineAppendix.pdf">Online Appendix</a></h4>
 

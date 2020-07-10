@@ -17,8 +17,7 @@ description: working papers and some older stuff
 <hr />
 
 <h4 id="distributional-equilibria-in-dynamic-supermodular-games-with-a-measure-space-of-players-and-no-aggregate-risk-2019--joint-with-lukasz-balbus-pawel-dziewulski-and-kevin-reffett"><a href="/assets/pdf/LargeSSG2020SHORT.pdf">Markov distributional equilibrium dynamics in games
-with complementarities and no aggregate risk</a>, 2020 <br /> Old title: Distributional equilibria in dynamic supermodular games with a measure space of players and no aggregate risk <br / >
-(joint with Lukasz Balbus, Pawel Dziewulski and Kevin Reffett)</h4>
+with complementarities and no aggregate risk</a>, 2020 <br /> (joint with Lukasz Balbus, Pawel Dziewulski and Kevin Reffett)</h4>
 
 	
 <p>In this one we present a new approach for studying equilibrium dynamics in a class of stochastic games with a continuum of players with private types and strategic complementarities. We introduce a suitable equilibrium concept, called Markov

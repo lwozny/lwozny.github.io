@@ -17,7 +17,9 @@ description: working papers and some older stuff
 <hr />
 
 <h4 id="distributional-equilibria-in-dynamic-supermodular-games-with-a-measure-space-of-players-and-no-aggregate-risk-2019--joint-with-lukasz-balbus-pawel-dziewulski-and-kevin-reffett"><a href="/assets/pdf/LargeSSG2020SHORT.pdf">Markov distributional equilibrium dynamics in games
-with complementarities and no aggregate risk</a>, 2020 <br /> (joint with Lukasz Balbus, Pawel Dziewulski and Kevin Reffett)</h4>
+with complementarities and no aggregate risk</a>, 2020 <br /> Old title: Distributional equilibria in dynamic supermodular games with a measure space of players and no aggregate risk <br / >
+(joint with Lukasz Balbus, Pawel Dziewulski and Kevin Reffett)</h4>
+
 	
 <p>In this one we present a new approach for studying equilibrium dynamics in a class of stochastic games with a continuum of players with private types and strategic complementarities. We introduce a suitable equilibrium concept, called Markov
 Stationary Distributional Equilibrium (MSDE), prove its existence, and provide constructive methods for characterizing and comparing equilibrium distributional transitional dynamics. To analyze equilibrium transitions for the distributions of private types, we develop an appropriate dynamic (exact) law of large numbers. Finally, we show that our models can be approximated as idealized limits of games with a large (but finite) number of players. We provide numerous applications of the results including: dynamic models of growth with status concerns, social distance, and paternalistic bequest with endogenous preference for consumption.</p>

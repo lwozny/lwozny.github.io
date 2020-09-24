@@ -5,9 +5,16 @@ permalink: /working papers/
 description: working papers and some older stuff
 ---
 
-<h4 id="equilibria-in-dynamic-behavioral-games-with-generalized-discounting-2020--joint-with-lukasz-balbus-and-kevin-reffett">Equilibria in dynamic games with recursive payoffs and behavioral discounting, 2020 <br /> (joint with Lukasz Balbus and Kevin Reffett)</h4>
+<h4 id="equilibria-in-dynamic-behavioral-games-with-generalized-discounting-2020--joint-with-lukasz-balbus-and-kevin-reffett">Time consistent equilibria in dynamic models with recursive
+payoffs and behavioral discounting, 2020 <br /> (joint with Lukasz Balbus and Kevin Reffett)</h4>
 
-<p>At least since Ramsey (1928) or Koopmans (1960) the question of discounting in assessing values of future utility streams has played an important role in work in many fields in economics. In particular, discounting affects intertemporal tradeoffs and makes an explicit account of the distant future and therefore encompasses motives related to sustainability, transmission to offsprings and altruism. Many of the analyzed models of preferences over time are normative, i.e. they assume the objective is given by the separable, exponentially discounted utility. Another source of normative representations of preferences over time is proposed by social sciences and include concepts such as ‘‘just savings’’ or ‘‘sustainable development’’. On the contrary, behavioral models try to accommodate behavior that is consistent with empirical or experimental observations (see e.g. models of hyperbolic or quasi-hyperbolic discounting). With a notable exception of exponential discounting, both normative and behavioral models typically lead to time-consistency problems. The question of design and computation of optimal among time consistent plans has received a great attention in economic literature. This also includes important from behavioral (and numerical) perspective short memory decision rules, like Markov ones. In this paper we prove existence of Markov Stationary Equilibrium in a wide class of dynamic models with generalized discounting involving both behavioral and normative applications. In particular we show existence of MSE (and related time-consistent solution) in a deterministic model of consumption-saving with beta-delta discounting and its generalized, semi-hyperbolic versions. We also show existence of MSE (and its approximation) in a model of collective choice for agents with different discount factors.</p>
+<p>
+We prove existence of time consistent equilibria in a wide class of dynamic models with recursive payoffs and generalized discounting involving both behavioral and normative appli-
+cations. Our generalized Bellman equation method identifies and separates both: recursive and strategic aspects of the equilibrium problem and allows to precisely determine the suf-
+ficient assumptions on a stochastic transition to establish existence. In particular we show existence of minimal state space stationary Markov equilibrium (a time-consistent solution)
+in a deterministic model of consumption-saving with beta-delta discounting and its generalized versions involving magnitude effects, non-additive payoffs, semi-hyperbolic or hyperbolic
+discounting (over possibly unbounded state and unbounded above reward space). We also provide an equilibrium approximation method for a hyperbolic discounting model.
+</p>
 <hr />
 
 <h4 id="interim-correlated-rationalizability-in-large-games-2020--joint-with-lukasz-balbus-michael-greinecker-and-kevin-reffett">Interim correlated rationalizability in large games, 2020 <br /> (joint with Lukasz Balbus, Michael Greinecker and Kevin Reffett)</h4>

@@ -30,6 +30,8 @@ description: Materials for courses I teach.
 
 <li>  Syllabus <a href="/assets/pdf/ADMicroQEM.pdf">[pdf]</a></li>
 
+<li> Micro Materials 2019-2020 from Paris <a href="/assets/pdf/QEMMicro2019-2020.zip"> [zip]</a></li>
+
 <li>  Excercises from Paris 2018 (QEM) <a href="/assets/pdf/PS1Micro2018.zip">[zip]</a></li>
 
 <li>  Lecture notes from Paris (QEM) <a href="/assets/pdf/1.pdf">[pdf]</a></li>

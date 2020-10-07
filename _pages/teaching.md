@@ -28,6 +28,8 @@ description: Materials for courses I teach.
 
 <ul>
 
+<li>  Problem set 1 <a href="/assets/pdf/PS1_temp.pdf">[pdf]</a></li>
+
 <li>  Syllabus <a href="/assets/pdf/ADMicroQEM.pdf">[pdf]</a></li>
 
 <li> Micro Materials 2019-2020 from Paris <a href="/assets/pdf/QEMMicro2019-2020.zip"> [zip]</a></li>

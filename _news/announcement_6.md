@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2020-01-24 15:59:00-0400
+date: 2020-10-19 15:59:00-0400
 inline: true
 ---
-8th Hurwicz Workshop in Warsaw, PL November 20-21, 2020. [Xcelled]().
+[Short interview on Nobel Prize in Economics 2020](https://forsal.pl/gospodarka/artykuly/7981116,profesor-sgh-noblowska-teoria-aukcji-zminimalizuje-ryzyko-wystapienia-zmow-cenowych.html
+).

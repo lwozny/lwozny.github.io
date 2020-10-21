@@ -860,15 +860,15 @@ We also provide an example showing, when equilibrium allocations of both models 
   
     [<a class="abstract">Abs</a>]
   
-  
-  
+    
     [<a href="https://link.springer.com/article/10.1007/s00182-014-0420-3" target="_blank">HTML</a>]
   
   
     [<a href="/assets/pdf/IJGTPublished.pdf" target="_blank">PDF</a>]
   
   
-  
+   [<a href="/assets/pdf/Corrigendum.pdf" target="_blank">Corrigendum</a>]
+   
   
   
   </span>

@@ -6,7 +6,7 @@ description: working papers and some older stuff
 ---
 
 <h4 id="equilibria-in-dynamic-behavioral-games-with-generalized-discounting-2020--joint-with-lukasz-balbus-and-kevin-reffett"><a href="/assets/pdf/BehavioralDiscounting.pdf">Time consistent equilibria in dynamic models with recursive
-payoffs and behavioral discounting, 2020 <br /> (joint with Lukasz Balbus and Kevin Reffett)</h4>
+payoffs and behavioral discounting</a>, 2020 <br /> (joint with Lukasz Balbus and Kevin Reffett)</h4>
 
 <p>
 We prove existence of time consistent equilibria in a wide class of dynamic models with recursive payoffs and generalized discounting involving both behavioral and normative applications. Our generalized Bellman equation method identifies and separates both: recursive and strategic aspects of the equilibrium problem and allows to precisely determine the sufficient assumptions on a stochastic transition to establish existence. In particular we show existence of minimal state space stationary Markov equilibrium (a time-consistent solution) in a deterministic model of consumption-saving with beta-delta discounting and its generalized versions involving magnitude effects, non-additive payoffs, semi-hyperbolic or hyperbolic discounting (over possibly unbounded state and unbounded above reward space). We also provide an equilibrium approximation method for a hyperbolic discounting model. </p>

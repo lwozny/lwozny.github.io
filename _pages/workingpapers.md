@@ -5,7 +5,7 @@ permalink: /working papers/
 description: working papers and some older stuff
 ---
 
-<h4 id="equilibria-in-dynamic-behavioral-games-with-generalized-discounting-2020--joint-with-lukasz-balbus-and-kevin-reffett">Time consistent equilibria in dynamic models with recursive
+<h4 id="equilibria-in-dynamic-behavioral-games-with-generalized-discounting-2020--joint-with-lukasz-balbus-and-kevin-reffett"><a href="/assets/pdf/BehavioralDiscounting.pdf">Time consistent equilibria in dynamic models with recursive
 payoffs and behavioral discounting, 2020 <br /> (joint with Lukasz Balbus and Kevin Reffett)</h4>
 
 <p>

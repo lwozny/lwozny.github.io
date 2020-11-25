@@ -8,10 +8,10 @@ description: working papers and some older stuff
 <h4 id=""><a href="/assets/pdf/ComplemenetarySymmetry.pdf">On complementary symmetry and reference dependence</a>, 2020 <br /> (joint with M. Lewandowski)</h4>
 
 <p>
-In this paper we reevaluate the validity of complementary symmetry and the supportingexperimental evidence. We first show how to generalize the complementary symmetry hypothesis for arbitrary prospects in Rn. 
-Second, we show how to elicit selling prices that areconsistent with the complementary symmetry hypothesis. This task is new and we refer to it as a short selling price elicitation. 
-Third, we run an experiment to verify the complementarysymmetry hypothesis in this new setting. 
-Our arguments are important as they questionvalidity of previous experimental findings concerning complementary symmetry as well asshed some new light on various models of setting the appropriate reference acts.
+We reevaluate the validity of complementary symmetry and the supporting experimental evidence. We first show how to generalize the complementary symmetry hypothesis for arbitrary prospects in Rn.  
+Second, we show how to elicit selling prices that are consistent with the complementary symmetry hypothesis. This task is new and we refer to it as a short selling price elicitation. 
+Third, we run an experiment to verify the complementary symmetry hypothesis in this new setting. 
+Our arguments are important as they question validity of previous experimental findings concerning complementary symmetry as well asshed some new light on various models of setting the appropriate reference acts.
 </p>
 <hr />
 

@@ -40,7 +40,7 @@ description: Co-organized conferences / Conference talks / Invited talks
 <ul>
 
 <li> 6th <b> World Congress of the Game Theory Society</b>, Budapest, Hungary, 2021 <br />
-paper: <i>  Equilibria in dynamic games with recursive payoff s and behavioral discounting</i>.</li>
+paper: <i>  Time consistent equilibria in dynamic models with recursive payoffs and behavioral discounting</i>.</li>
 
 <li> (20th Conference of) <b> Society for Advancement in Economic Theory</b>, Seul, Korea, 2021 <br />
 session: <i> New Methods for Dynamic Games and Economics</i>.</li>

@@ -8,11 +8,8 @@ description: working papers and some older stuff
 <h4 id=""><a href="/assets/pdf/ComplemenetarySymmetry.pdf">On complementary symmetry and reference dependence</a>, 2020 <br /> (joint with M. Lewandowski)</h4>
 
 <p>
-We reevaluate the validity of complementary symmetry and the supporting experimental evidence. We first show how to generalize the complementary symmetry hypothesis for arbitrary prospects in Rn.  
-Second, we show how to elicit selling prices that are consistent with the complementary symmetry hypothesis. This task is new and we refer to it as a short selling price elicitation. 
-Third, we run an experiment to verify the complementary symmetry hypothesis in this new setting. 
-Our arguments are important as they question validity of previous experimental findings concerning complementary symmetry as well as shed some new light on various models of setting the appropriate reference acts.
-</p>
+We reevaluate the complementary symmetry hypothesis and the supporting experimental evidence. 
+Originally the hypothesis was stated for binary risky prospects. We generalize the hypothesis to arbitrary state-contingent real-valued acts, thus extending the domain from risk to uncertainty/ambiguity and allowing for multiple outcomes. Existing experiments tested the hypothesis using selling and buying prices and found systematic violations. We argue that in order to be consistent with the hypothesis one should replace selling with short-selling. We thus define a new elicitation task and run an experiment to test our conjecture. We replicate previously observed violations in the old setting and find strong support for the hypothesis in the new setting. In addition, our results shed new light on the validity of various reference point setting rules.</p>
 <hr />
 
 

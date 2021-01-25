@@ -68,16 +68,6 @@ description: Materials for courses I teach.
 
 <ul>
 
-<li>  Problem set 5 <a href="/assets/pdf/PS5_2020.pdf">[pdf]</a></li>
-
-<li>  Problem set 4 <a href="/assets/pdf/PS4_2020.pdf">[pdf]</a></li>
-
-<li>  Problem set 3 <a href="/assets/pdf/PS3_2020.pdf">[pdf]</a></li>
-
-<li>  Problem set 2 <a href="/assets/pdf/PS2_2020.pdf">[pdf]</a></li>
-
-<li>  Problem set 1 <a href="/assets/pdf/PS1_temp.pdf">[pdf]</a></li>
-
 <li>  Syllabus <a href="/assets/pdf/ADMicroQEM.pdf">[pdf]</a></li>
 
 <li> Micro Materials 2019-2020 from Paris <a href="/assets/pdf/QEMMicro2019-2020.zip"> [zip]</a></li>

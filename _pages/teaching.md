@@ -11,6 +11,8 @@ description: Materials for courses I teach.
 
 <li>  Supermodularity and Complementarity in Economics: An Elementary Survey by Rabah Amir <a href="http://www.laits.utexas.edu/~mbs31415/Amir_Supermodularity_Survey.pdf">[pdf]</a></li>
 
+<li>  Afriat Thm<a href="/assets/pdf/afriat.pdf">[pdf]</a></li>
+
 <li>  Syllabus <a href="/assets/pdf/ADMicroII.pdf">[pdf]</a></li>
 
 <li> <a href="http://www.youtube.com/watch?v=vGse0zADjRw"> lecture by Edi Dekel on Decision Theory</a> </li>

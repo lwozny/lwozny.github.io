@@ -5,6 +5,30 @@ permalink: /working papers/
 description: working papers and some older stuff
 ---
 
+<h4 id=""><>Intergenerational altruism and time consistency</a>, 2021 <br /> (joint with K. Reffett and L. Balbus)</h4>
+
+<p>
+We consider a class of stochastic, time-variant, non-stationary consumption-savings models with general, recursive, non-paternalistic altruism. 
+As recently shown, such models often lead to time-inconsistency problems. Within this class of economies we propose a novel set-iterative procedure for characterising time-consistent solutions. In particulary, we prove existence of Markov perfect equilibrium of a corresponding intergenerational game in stationary, periodic and also non-stationary strategies.
+Our approach involves both: value functions and policy iterations in space of increasing investments. We provide applications to behavioral discounting models, collective household models and discuss various certainty equivalence operators.
+<hr />
+
+<h4 id=""><>On collective intertemporal choice, time-consistent decision rules and altruism</a>, 2021 <br /> (joint with J-P. Drugeon and L. Balbus)</h4>
+
+<p>
+We consider a dynamic decision problem of a collective-household with heterogeneous discount factors. We prove existence a time-consistent decision rule in Markovian policies. In fact, decision rules we consider are characterized by monotone and Lipschitz continuous investments policies.  
+We provide sufficient conditions for the validity of the (generalized) first-order approach. Finally, we propose a novel method to approximate the constructed decision rule by a sequence of equilibria of bequest games with paternalistic altruism.
+<hr />
+
+<h4 id=""><a href="/assets/pdf/Punktoza.pdf">Efficiency in rewarding academic journal publications. The case of Poland</a>, 2021 <br /> (joint with W. Charemza and M. Lewandowski)</h4>
+
+<p>
+We  consider  the  efficiency  of a mechanism  for incentivising  publication  in  academic  journals where a research supervisory body awards points for papers that appear  in quality publications. 
+Building on the principal-agent literature with hidden types, we assume that such a body wants to maximise the expected prestige of academic disciplines. 
+It sets up a reward system so that researchers who  are aiming to  maximise  their own rewards also maximise the  objective function  of  the research  supervisory body,  through  their  submission decisions.  
+The  model  is calibrated to the reward scheme introduced within the Polish higher education reform in 2018, for which a series of policy recommendations is given.
+<hr />
+
 <h4 id=""><a href="/assets/pdf/ComplemenetarySymmetry.pdf">On complementary symmetry and reference dependence</a>, 2020 <br /> (joint with M. Lewandowski)</h4>
 
 <p>

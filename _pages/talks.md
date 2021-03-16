@@ -183,6 +183,8 @@ paper: <i> Strategic interactions in human capital accumulation</i>.  </li>
 <p>
 <ul>
 
+<li> One World Mathematical Game Theory Seminar<b>, GAMENET,</b> <br /> paper: <i> Time consistent equilibria in dynamic models with recursive payoffs and behavioral discounting</i>, online, 2021.</li>
+
 <li> Seminarium na Wydziale Matematyki, Informatyki i Mechaniki,<b> Uniwersytet Warszawski,</b> <br /> paper: <i>Time consistent equilibria in dynamic models with recursive payoffs and behavioral discounting </i>, Warszawa, 2020.</li>
 
 <li> Economic Seminar<b>, University of Minnesota,</b> <br /> paper: <i> Equilibria in dynamic games with recursive payoffs and behavioral discounting</i>, Minneapolis, MN, US 2020.</li>

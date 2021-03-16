@@ -13,14 +13,14 @@ As recently shown, such models often lead to time-inconsistency problems. Within
 Our approach involves both: value functions and policy iterations in space of increasing investments. We provide applications to behavioral discounting models, collective household models and discuss various certainty equivalence operators.
 <hr />
 
-<h4 id="">On collective intertemporal choice, time-consistent decision rules and altruism, 2021 <br /> (joint with Jean-Pierre Drugeon and Lukasz Balbus)</h4>
+<h4 id="">On collective intertemporal choice, time-consistent decision rules and altruism, 2021 (joint with Jean-Pierre Drugeon and Lukasz Balbus)</h4>
 
 <p>
 We consider a dynamic decision problem of a collective-household with heterogeneous discount factors. We prove existence a time-consistent decision rule in Markovian policies. In fact, decision rules we consider are characterized by monotone and Lipschitz continuous investments policies.  
 We provide sufficient conditions for the validity of the (generalized) first-order approach. Finally, we propose a novel method to approximate the constructed decision rule by a sequence of equilibria of bequest games with paternalistic altruism.
 <hr />
 
-<h4 id=""><a href="/assets/pdf/Punktoza.pdf">Efficiency in rewarding academic journal publications. The case of Poland</a>, 2021 <br /> (joint with Wojciech Charemza and Michal Lewandowski)</h4>
+<h4 id=""><a href="/assets/pdf/Punktoza.pdf">Efficiency in rewarding academic journal publications. The case of Poland</a>, 2021 (joint with Wojciech Charemza and Michal Lewandowski)</h4>
 
 <p>
 We  consider  the  efficiency  of a mechanism  for incentivising  publication  in  academic  journals where a research supervisory body awards points for papers that appear  in quality publications. 

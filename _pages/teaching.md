@@ -9,6 +9,8 @@ description: Materials for courses I teach.
 
 <ul>
 
+<li>  Problem set 1 <a href="/assets/pdf/ps4AM.pdf">[pdf]</a></li>
+
 <li>  Supermodularity and Complementarity in Economics: An Elementary Survey by Rabah Amir <a href="http://www.laits.utexas.edu/~mbs31415/Amir_Supermodularity_Survey.pdf">[pdf]</a></li>
 
 <li>  Afriat Thm<a href="/assets/pdf/afriat.pdf">[pdf]</a></li>
@@ -36,6 +38,7 @@ description: Materials for courses I teach.
 
 <ul>
 
+<li>  Lista zad nr 1 <a href="/assets/pdf/MikroZad1.pdf">[pdf]</a></li>
 
 <li> Harmonogram zajec <a href="/assets/pdf/MikroII.pdf">[pdf]</a></li>
 

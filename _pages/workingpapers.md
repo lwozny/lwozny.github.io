@@ -13,7 +13,7 @@ As recently shown, such models often lead to time-inconsistency problems. Within
 Our approach involves both: value functions and policy iterations in space of increasing investments. We provide applications to behavioral discounting models, collective household models and discuss various certainty equivalence operators.
 <hr />
 
-<h4 id="">On collective intertemporal choice, time-consistent decision rules and altruism, 2021 (joint with Jean-Pierre Drugeon and Lukasz Balbus)</h4>
+<h4 id=""><a href="/assets/pdf/BDW2021.pdf">On collective intertemporal choice, time-consistent decision rules and altruism</a>, 2021 (joint with Jean-Pierre Drugeon and Lukasz Balbus)</h4>
 
 <p>
 We consider a dynamic decision problem of a collective-household with heterogeneous discount factors. We prove existence a time-consistent decision rule in Markovian policies. In fact, decision rules we consider are characterized by monotone and Lipschitz continuous investments policies.  

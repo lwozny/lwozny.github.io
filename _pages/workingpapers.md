@@ -42,6 +42,7 @@ payoffs and behavioral discounting</a>, 2020 <br /> (joint with Lukasz Balbus an
 
 <p>
 We prove existence of time consistent equilibria in a wide class of dynamic models with recursive payoffs and generalized discounting involving both behavioral and normative applications. Our generalized Bellman equation method identifies and separates both: recursive and strategic aspects of the equilibrium problem and allows to precisely determine the sufficient assumptions on a stochastic transition to establish existence. In particular we show existence of minimal state space stationary Markov equilibrium (a time-consistent solution) in a deterministic model of consumption-saving with beta-delta discounting and its generalized versions involving magnitude effects, non-additive payoffs, semi-hyperbolic or hyperbolic discounting (over possibly unbounded state and unbounded above reward space). We also provide an equilibrium approximation method for a hyperbolic discounting model. </p>
+<a href="https://www.youtube.com/watch?v=St32CG27nAI">Presentation at: One World Mathematical Game Theory Seminar, GAMENET</a> 
 <hr />
 
 <h4 id="interim-correlated-rationalizability-in-large-games-2020--joint-with-lukasz-balbus-michael-greinecker-and-kevin-reffett">Interim correlated rationalizability in large games, 2020 <br /> (joint with Lukasz Balbus, Michael Greinecker and Kevin Reffett)</h4>

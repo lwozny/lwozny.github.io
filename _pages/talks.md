@@ -45,6 +45,9 @@ paper: <i>  Time consistent equilibria in dynamic models with recursive payoffs 
 <li> (20th Conference of) <b> Society for Advancement in Economic Theory</b>, Seul, Korea, 2021 <br />
 session: <i> New Methods for Dynamic Games and Economics</i>.</li>
 
+<li> XXIX <b> Europen Workshop on Economic Theory</b>, Akko, Israel, 2021 <br />
+paper: <i>  Time consistent equilibria in dynamic models with recursive payoffs and behavioral discounting</i>.</li>
+
 <li> 12th <b> World Congress of the Econometric Society</b>, Milan, Italy, 2020 <br />
 paper: <i> Distributional equilibria in dynamic supermodular games with a measure space of players and no aggregate risk</i>.</li>
 

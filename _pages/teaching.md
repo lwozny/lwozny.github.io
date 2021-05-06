@@ -38,7 +38,9 @@ description: Materials for courses I teach.
 
 <ul>
 
-<li>  Lista zad nr 2 <a href="/assets/pdf/MikroZad2pdf">[pdf]</a></li>
+<li>  Lista zad nr 3 <a href="/assets/pdf/MikroZad3.pdf">[pdf]</a></li>
+
+<li>  Lista zad nr 2 <a href="/assets/pdf/MikroZad2.pdf">[pdf]</a></li>
 
 <li>  Lista zad nr 1 <a href="/assets/pdf/MikroZad1.pdf">[pdf]</a></li>
 

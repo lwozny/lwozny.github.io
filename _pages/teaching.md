@@ -9,6 +9,8 @@ description: Materials for courses I teach.
 
 <ul>
 
+<li>  Problem set 3 <a href="/assets/pdf/ps5AM.pdf">[pdf]</a></li>
+
 <li>  Problem set 1 <a href="/assets/pdf/ps4AM.pdf">[pdf]</a></li>
 
 <li>  Supermodularity and Complementarity in Economics: An Elementary Survey by Rabah Amir <a href="http://www.laits.utexas.edu/~mbs31415/Amir_Supermodularity_Survey.pdf">[pdf]</a></li>

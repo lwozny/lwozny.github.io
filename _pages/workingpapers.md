@@ -5,12 +5,16 @@ permalink: /working papers/
 description: working papers and some older stuff
 ---
 
-<h4 id="">Intergenerational altruism and time consistency, 2021 <br /> (joint with Kevin Reffett and Lukasz Balbus)</h4>
+<h4 id=""><a href="/assets/pdf/TimeConsistentAltruism.pdf">Intergenerational altruism and time consistency</a>, 2021 <br /> (joint with Kevin Reffett and Lukasz Balbus)</h4>
 
 <p>
-We consider a class of stochastic, time-variant, non-stationary consumption-savings models with general, recursive, non-paternalistic altruism. 
-As recently shown, such models often lead to time-inconsistency problems. Within this class of economies we propose a novel set-iterative procedure for characterising time-consistent solutions. In particulary, we prove existence of Markov perfect equilibrium of a corresponding intergenerational game in stationary, periodic and also non-stationary strategies.
-Our approach involves both: value functions and policy iterations in space of increasing investments. We provide applications to behavioral discounting models, collective household models and discuss various certainty equivalence operators.
+We consider a class of infinite horizon, stochastic, non-stationary dynastic consumption-savings models with a general forms of recursive, time-
+varying altruistic preferences including direct and indirect pure altruism as well as paternalistic altruism.
+It is well-known such models lead to time-inconsistent dynastic preferences.
+Within this class of economies, we propose a novel set-iterative procedure for characterizing all Markov perfect time-consistent solutions in the space of increasing investments.
+Our approach involves both: value functions and policy iterations. We prove existence of Markov Perfect equilibria in stationary, periodic and also
+non-stationary strategies. We provide numerous applications to altruistic growth models, behavioral discounting models and collective household
+models and also discuss the role of various certainty equivalence operators.
 <hr />
 
 <h4 id=""><a href="/assets/pdf/BDW2021.pdf">On collective intertemporal choice, time-consistent decision rules and altruism</a>, 2021 (joint with Jean-Pierre Drugeon and Lukasz Balbus)</h4>

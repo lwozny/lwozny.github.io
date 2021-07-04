@@ -61,12 +61,9 @@ years: [2019, 1956, 1950, 1935, 1905]
       <em>Theoretical Economics</em>
     
     
-      accepted 
-    
+      2021, 
 
-    
-      2021
-    
+  	accepted 
     
     
       <br>[IF2019-20 1.631, 140p MNiSW2021]

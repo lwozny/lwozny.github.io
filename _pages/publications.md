@@ -6,9 +6,105 @@ description: Publications by years in reversed chronological order.
 years: [2019, 1956, 1950, 1935, 1905]
 ---
  
+<h3 class="year">2021</h3>
+<ol class="bibliography">
+<li>
+
+
+<div id="BalbusDziewulskiReffettWozny2021TE">
+  
+    <span class="title">Markov distributional equilibrium dynamics in games with complementarities and no aggregate risk</span>
+    <span class="author">
+      
+        
+          
+            
+              
+                <a href="https://ideas.repec.org/f/pba1023.html" target="_blank">Balbus, Łukasz</a>, 
+              
+            
+          
+        
+      
+        
+          
+            
+              
+                <a href="https://www.pawel-dziewulski.com/" target="_blank">Dziewulski, Paweł</a>, 
+              
+            
+          
+        
+      
+        
+          
+            
+              
+                <a href="http://kevin-reffett.com/" target="_blank">Reffett, Kevin</a>, 
+              
+            
+          
+        
+      
+        
+          
+            
+              and <em>Wozny, Łukasz</em>
+            
+          
+        
+      
+    </span>
+
+    <span class="periodical">
+    
+      <em>Theoretical Economics</em>
+    
+    
+      accepted 
+    
+
+    
+      2021
+    
+    
+    
+      <br>[IF2019-20 1.631, 140p MNiSW2021]
+    
+    </span>
+  
+
+  <span class="links">
+  
+    [<a class="abstract">Abs</a>]
+  
+  
+  
+    [<a href="/assets/pdf/LargeSSG2020SHORT.pdf" target="_blank">PDF</a>]
+  
+  
+  
+  
+  
+  </span>
+
+  <!-- Hidden abstract block -->
+  
+  <span class="abstract hidden">
+    <p>We present a new approach to studying equilibrium dynamics in a class of stochastic games with a continuum of
+players with private types and strategic complementarities. We introduce a suitable equilibrium concept, called Markov Stationary Nash Distributional Equilibrium (MSNDE), 
+prove its existence, and determine comparative statics of equilibrium paths and the steady state
+invariant distributions to which they converge. Finally, we provide numerous applications of our results including: dynamic models of growth with status concerns, social distance, and paternalistic bequest with endogenous preference for consumption. </p>
+  </span>
+  
+</div>
+</li>
+</ol>
+
 <h3 class="year">2019</h3>
 <ol class="bibliography">
 <li>
+
 
 <div id="RAAD201998">
   

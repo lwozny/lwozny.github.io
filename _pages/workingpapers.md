@@ -55,17 +55,6 @@ We prove existence of time consistent equilibria in a wide class of dynamic mode
 
 <hr />
 
-<h4 id="distributional-equilibria-in-dynamic-supermodular-games-with-a-measure-space-of-players-and-no-aggregate-risk-2019--joint-with-lukasz-balbus-pawel-dziewulski-and-kevin-reffett"><a href="/assets/pdf/LargeSSG2020SHORT.pdf">Markov distributional equilibrium dynamics in games
-with complementarities and no aggregate risk</a>, 2020 <br /> (joint with Lukasz Balbus, Pawel Dziewulski and Kevin Reffett)</h4>
-
-	
-<p>In this one we present a new approach for studying equilibrium dynamics in a class of stochastic games with a continuum of players with private types and strategic complementarities. We introduce a suitable equilibrium concept, called Markov
-Stationary Distributional Equilibrium (MSDE), prove its existence, and provide constructive methods for characterizing and comparing equilibrium distributional transitional dynamics. To analyze equilibrium transitions for the distributions of private types, we develop an appropriate dynamic (exact) law of large numbers. Finally, we show that our models can be approximated as idealized limits of games with a large (but finite) number of players. We provide numerous applications of the results including: dynamic models of growth with status concerns, social distance, and paternalistic bequest with endogenous preference for consumption.</p>
-
-<h4 ><a href="/assets/pdf/LargeSSGOnlineAppendix.pdf">Online Appendix</a></h4>
-
-<hr />
-
 <h4 id="supermodular-comparative-statics-2019--joint-with-pawel-dziewulski">Supermodular comparative statics, 2019 <br /> (joint with Pawel Dziewulski)</h4>
 
 <p>An important set of questions in economics concern how changes in the model’s exogenous parameters (income, wealth, productivity, distortions, information, etc.)

@@ -31,6 +31,10 @@ description: Awards and Grants
 <p>
 <ul>
 
+<li> NCBiR Grant: POIR.01.01.01-00-0616/20 for NEUROGAMES LAB z o.o. (Opracowanie innowacyjnego systemu rekrutacyjnego GameHR opartego o autorskie narzędzia do selekcji pracowników w działach sprzedaży) 
+<b> Programu Operacyjnego Inteligentny Rozwój 2014- 2020 działanie 1.1/poddziałanie 1.1.1</b>, kierownik B+R (R&D principal investigator), funding PLN 4.4m.</li>
+
+
 <li> National Science Center Grant: On behavioral discounting and Markov equilibria in stochastic decision problems (pl. O dyskontowaniu behawioralnym i równowagach Markowa w stochastycznych problemach decyzyjnych), 2020-2023, <b>grant OPUS 18</b>, kierownik (principal investigator), PLN 291 960.</li>
 
 <li> <b> Doskonala Nauka</b> (Ministry of Science and Higher Education) <b>grant</b> for conference organization, 2020, PLN 109 100.</li>

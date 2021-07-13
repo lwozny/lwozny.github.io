@@ -5,65 +5,13 @@ title: teaching
 description: Materials for courses I teach. 
 ---
 
-<h4>Advanced Microeconomics II</h4>
-
-<ul>
-
-<li>  Problem set 3 <a href="/assets/pdf/ps5AM.pdf">[pdf]</a></li>
-
-<li>  Problem set 1 <a href="/assets/pdf/ps4AM.pdf">[pdf]</a></li>
-
-<li>  Supermodularity and Complementarity in Economics: An Elementary Survey by Rabah Amir <a href="http://www.laits.utexas.edu/~mbs31415/Amir_Supermodularity_Survey.pdf">[pdf]</a></li>
-
-<li>  Afriat Thm<a href="/assets/pdf/afriat.pdf">[pdf]</a></li>
-
-<li>  Syllabus <a href="/assets/pdf/ADMicroII.pdf">[pdf]</a></li>
-
-<li> <a href="http://www.youtube.com/watch?v=vGse0zADjRw"> lecture by Edi Dekel on Decision Theory</a> </li>
-</ul>
-
-<h4>Game Theory (222940)</h4>
-
-<ul>
-
-<li>  Problem set 1 <a href="/assets/pdf/PS1.pdf">[pdf]</a></li>
-
-<li>  Supermodularity and Complementarity in Economics: An Elementary Survey by Rabah Amir <a href="http://www.laits.utexas.edu/~mbs31415/Amir_Supermodularity_Survey.pdf">[pdf]</a></li>
-
-<li> Syllabus <a href="/assets/pdf/GT.pdf">[pdf]</a></li>
-
-<li> P.Dasgupta and E. Maskin about elections in France and the US <a href="http://www.scientificamerican.com/article/ranking-candidates-more-accurate/">[link]</a></li>
-
-</ul>
-
-<h4>Mikro II (110510)</h4>
-
-<ul>
-
-<li>  Lista zad nr 4 <a href="/assets/pdf/MikroZad5.pdf">[pdf]</a></li>
-
-<li>  Lista zad nr 3 <a href="/assets/pdf/MikroZad3.pdf">[pdf]</a></li>
-
-<li>  Lista zad nr 2 <a href="/assets/pdf/MikroZad2.pdf">[pdf]</a></li>
-
-<li>  Lista zad nr 1 <a href="/assets/pdf/MikroZad1.pdf">[pdf]</a></li>
-
-<li> Harmonogram zajec <a href="/assets/pdf/MikroII.pdf">[pdf]</a></li>
-
-<li><i> Lecture notes on Microeconomics</i>, 2016 <a href="/assets/pdf/LectureNotes.pdf"> [pdf]</a>.</li> 
-
-<li>Zbiór zadan <a href="/assets/pdf/Lista_zadan.pdf">[pdf]</a></li>
-
-<li>Handout z metodologii ekonomii <a href="/assets/pdf/metodologia.pdf">[pdf]</a></li>
-
-<li>Optymalizacja z ograniczeniami – przypomnienie <a href="/assets/pdf/optymalizacja.pdf">[pdf]</a></li>
-
-</ul>
-
-
 <h4>QEM</h4>
 
 <ul>
+
+<li> QEM 2021 Exams: P&S Dec 7th, Opt Dec 9th, Micro Dec 10th</li>
+
+<li> QEM exams 2020 <a href="/assets/pdf/2020Exams.zip"> [zip]</a></li>
 
 <li> QEM midterms 2019 <a href="/assets/pdf/2019Midterms.zip"> [zip]</a></li>
 
@@ -119,6 +67,51 @@ description: Materials for courses I teach.
 <li> <a href="http://www.youtube.com/watch?v=FfztV7HQf_8"> prof G.Debreu lecture on GE</a> </li>
 
 </ul>
+
+
+<h4>Advanced Microeconomics II</h4>
+
+<ul>
+
+
+<li>  Supermodularity and Complementarity in Economics: An Elementary Survey by Rabah Amir <a href="http://www.laits.utexas.edu/~mbs31415/Amir_Supermodularity_Survey.pdf">[pdf]</a></li>
+
+<li>  Afriat Thm<a href="/assets/pdf/afriat.pdf">[pdf]</a></li>
+
+<li>  Syllabus <a href="/assets/pdf/ADMicroII.pdf">[pdf]</a></li>
+
+<li> <a href="http://www.youtube.com/watch?v=vGse0zADjRw"> lecture by Edi Dekel on Decision Theory</a> </li>
+</ul>
+
+<h4>Game Theory (222940)</h4>
+
+<ul>
+
+<li>  Supermodularity and Complementarity in Economics: An Elementary Survey by Rabah Amir <a href="http://www.laits.utexas.edu/~mbs31415/Amir_Supermodularity_Survey.pdf">[pdf]</a></li>
+
+<li> Syllabus <a href="/assets/pdf/GT.pdf">[pdf]</a></li>
+
+<li> P.Dasgupta and E. Maskin about elections in France and the US <a href="http://www.scientificamerican.com/article/ranking-candidates-more-accurate/">[link]</a></li>
+
+</ul>
+
+<h4>Mikro II (110510)</h4>
+
+<ul>
+
+
+<li> Harmonogram zajec <a href="/assets/pdf/MikroII.pdf">[pdf]</a></li>
+
+<li><i> Lecture notes on Microeconomics</i>, 2016 <a href="/assets/pdf/LectureNotes.pdf"> [pdf]</a>.</li> 
+
+<li>Zbiór zadan <a href="/assets/pdf/Lista_zadan.pdf">[pdf]</a></li>
+
+<li>Handout z metodologii ekonomii <a href="/assets/pdf/metodologia.pdf">[pdf]</a></li>
+
+<li>Optymalizacja z ograniczeniami – przypomnienie <a href="/assets/pdf/optymalizacja.pdf">[pdf]</a></li>
+
+</ul>
+
 
 
 <h4>Ekonomia studia doktorackie (KAE)</h4>

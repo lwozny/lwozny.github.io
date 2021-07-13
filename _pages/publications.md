@@ -75,12 +75,11 @@ years: [2019, 1956, 1950, 1935, 1905]
   
     [<a class="abstract">Abs</a>]
   
-  
+    
+    [<a href="https://econtheory.org/ojs/index.php/te/article/viewForthcomingFile/4624/31330/1" target="_blank">HTML</a>]
   
     [<a href="/assets/pdf/LargeSSG2020SHORT.pdf" target="_blank">PDF</a>]
-  
-  
-  
+
   
   
   </span>

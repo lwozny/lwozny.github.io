@@ -11,6 +11,10 @@ description: Materials for courses I teach.
 
 <li> QEM 2021 Exams: P&S Dec 7th, Opt Dec 9th, Micro Dec 10th</li>
 
+<li> QEM: P&S prerequisites <a href="https://sites.google.com/view/chorro-christophe/qem-2020-2021"> [link]</a></li> 
+
+<li> QEM: Optimization prerequisites <a href="/assets/pdf/2021OptPre.zip"> [zip]</a></li> 
+
 <li> QEM exams 2020 <a href="/assets/pdf/2020Exams.zip"> [zip]</a></li>
 
 <li> QEM midterms 2019 <a href="/assets/pdf/2019Midterms.zip"> [zip]</a></li>

@@ -33,11 +33,11 @@ It sets up a reward system so that researchers who  are aiming to  maximise  the
 The  model  is calibrated to the reward scheme introduced within the Polish higher education reform in 2018, for which a series of policy recommendations is given.
 <hr />
 
-<h4 id=""><a href="/assets/pdf/ComplemenetarySymmetry.pdf">On complementary symmetry and reference dependence</a>, 2020 <br /> (joint with Michal Lewandowski)</h4>
+<h4 id=""><a href="/assets/pdf/ComplemenetarySymmetry.pdf">On complementary symmetry and reference dependence</a>, 2021 <br /> (joint with Michal Lewandowski)</h4>
 
 <p>
-We reevaluate the complementary symmetry hypothesis and the supporting experimental evidence. 
-Originally the hypothesis was stated for binary risky prospects. We generalize the hypothesis to arbitrary state-contingent real-valued acts, thus extending the domain from risk to uncertainty/ambiguity and allowing for multiple outcomes. Existing experiments tested the hypothesis using selling and buying prices and found systematic violations. We argue that in order to be consistent with the hypothesis one should replace selling with short-selling. We thus define a new elicitation task and run an experiment to test our conjecture. We replicate previously observed violations in the old setting and find strong support for the hypothesis in the new setting. In addition, our results shed new light on the validity of various reference point setting rules.</p>
+We reevaluate the complementary symmetry property and the corresponding experimental evidence. Originally the property was stated for binary risky prospects. We generalize it to arbitrary state-contingent real-valued outcomes, thus extending the domain of choice from risk to uncertainty/ambiguity and allowing for multiple outcomes. We consider various observable tasks related to the elicitation of buying and selling prices. In particular, for selected reference point models, we derive relevant definitions of gains and losses, and identify pairs of prices satisfying the complementary symmetry property. We then run an experiment to test these new predictions, and find that while some reference point models can be refuted based on our data, others perform reasonably well.
+</p>
 <hr />
 
 

@@ -145,7 +145,7 @@ invariant distributions to which they converge. Finally, we provide numerous app
     
     
     
-      <br>[IF2018 0.634, 70p MNiSW2019]
+      <br>[IF2019 0.725, 70p MNiSW2019]
     
     </span>
   
@@ -243,7 +243,7 @@ invariant distributions to which they converge. Finally, we provide numerous app
     
     
     
-      <br>[IF2018 0.961, 140p MNiSW2019]
+      <br>[IF2019 1.051, 140p MNiSW2019]
     
     </span>
   

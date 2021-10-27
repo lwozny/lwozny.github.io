@@ -36,6 +36,8 @@ description: Materials for courses I teach.
 
 <ul>
 
+<li>  Problem Set 2 <a href="/assets/pdf/PS3_2021.pdf">[pdf]</a></li>
+
 <li>  Problem Set 1 <a href="/assets/pdf/PS1_2021.pdf">[pdf]</a></li>
 
 <li>  Syllabus <a href="/assets/pdf/ADMicroQEM.pdf">[pdf]</a></li>

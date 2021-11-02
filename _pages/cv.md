@@ -16,7 +16,7 @@ description: #
 
 <p>
 
-Download my latest CV, 2021,<a href="/assets/img/cv.pdf">CV</a>
+Download my latest CV, 2021,<a href="/assets/pdf/cv.pdf">CV</a>
 
 </p>
 

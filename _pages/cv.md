@@ -14,7 +14,13 @@ description: #
     
 </div>
 
-<h4>Vists </h4>
+<p>
+
+Download my latest CV, 2021,<a href="/assets/img/cv.pdf">CV</a>
+
+</p>
+
+<h4>Visits </h4>
 
 <p>
 <ul>  

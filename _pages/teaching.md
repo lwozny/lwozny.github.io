@@ -9,7 +9,7 @@ description: Materials for courses I teach.
 
 <ul>
 
-<li> QEM 2021 Exams: P&S Dec 7th, Opt Dec 9th, Micro Dec 10th</li>
+<li> QEM 2021 Exams: P&S Dec 7th 4A bud. C, Opt Dec 9th 4A bud. C, Micro Dec 10th 2A bud. C</li>
 
 <li> QEM: P&S prerequisites <a href="https://sites.google.com/view/chorro-christophe/qem-2020-2021"> [link]</a></li> 
 

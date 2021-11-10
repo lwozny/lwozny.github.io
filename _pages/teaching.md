@@ -36,6 +36,8 @@ description: Materials for courses I teach.
 
 <ul>
 
+<li>  Problem Set 4 <a href="/assets/pdf/PS3.pdf">[pdf]</a></li>
+
 <li>  Problem Set 3 <a href="/assets/pdf/PS5.pdf">[pdf]</a></li>
 
 <li>  Problem Set 2 <a href="/assets/pdf/PS3_2021.pdf">[pdf]</a></li>

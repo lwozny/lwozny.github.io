@@ -17,11 +17,28 @@ non-stationary strategies. We provide numerous applications to altruistic growth
 models and also discuss the role of various certainty equivalence operators.
 <hr />
 
+<h4 id="equilibria-in-dynamic-behavioral-games-with-generalized-discounting-2020--joint-with-lukasz-balbus-and-kevin-reffett"><a href="/assets/pdf/BehavioralDiscounting.pdf">Time consistent equilibria in dynamic models with recursive
+payoffs and behavioral discounting</a>, 2021 <br /> (joint with Lukasz Balbus and Kevin Reffett)</h4>
+
+<p>
+We prove existence of time consistent equilibria in a wide class of dynamic models with recursive payoffs and generalized discounting involving both behavioral and normative applications. Our generalized Bellman equation method identifies and separates both: recursive and strategic aspects of the equilibrium problem and allows to precisely determine the sufficient assumptions on a stochastic transition to establish existence. In particular we show existence of minimal state space stationary Markov equilibrium (a time-consistent solution) in a deterministic model of consumption-saving with beta-delta discounting and its generalized versions involving magnitude effects, non-additive payoffs, semi-hyperbolic or hyperbolic discounting (over possibly unbounded state and unbounded above reward space). We also provide an equilibrium approximation method for a hyperbolic discounting model. </p>
+<a href="https://www.youtube.com/watch?v=St32CG27nAI">Presentation at: One World Mathematical Game Theory Seminar, GAMENET</a> 
+<hr />
+
+
 <h4 id=""><a href="/assets/pdf/BDW2021.pdf">On collective intertemporal choice, time-consistent decision rules and altruism</a>, 2021 (joint with Jean-Pierre Drugeon and Lukasz Balbus)</h4>
 
 <p>
 We consider a dynamic decision problem of a collective-household with heterogeneous discount factors. We prove existence a time-consistent decision rule in Markovian policies. In fact, decision rules we consider are characterized by monotone and Lipschitz continuous investments policies.  
 We provide sufficient conditions for the validity of the (generalized) first-order approach. Finally, we propose a novel method to approximate the constructed decision rule by a sequence of equilibria of bequest games with paternalistic altruism.
+<hr />
+
+
+<h4 id=""><a href="/assets/pdf/ComplemenetarySymmetry.pdf">On complementary symmetry and reference dependence</a>, 2021 <br /> (joint with Michal Lewandowski)</h4>
+
+<p>
+We reevaluate the complementary symmetry property and the corresponding experimental evidence. Originally the property was stated for binary risky prospects. We generalize it to arbitrary state-contingent real-valued outcomes, thus extending the domain of choice from risk to uncertainty/ambiguity and allowing for multiple outcomes. We consider various observable tasks related to the elicitation of buying and selling prices. In particular, for selected reference point models, we derive relevant definitions of gains and losses, and identify pairs of prices satisfying the complementary symmetry property. We then run an experiment to test these new predictions, and find that while some reference point models can be refuted based on our data, others perform reasonably well.
+</p>
 <hr />
 
 <h4 id=""><a href="/assets/pdf/Punktoza.pdf">Efficiency in rewarding academic journal publications. The case of Poland</a>, 2021 (joint with Wojciech Charemza and Michal Lewandowski)</h4>
@@ -31,22 +48,6 @@ We  consider  the  efficiency  of a mechanism  for incentivising  publication  i
 Building on the principal-agent literature with hidden types, we assume that such a body wants to maximise the expected prestige of academic disciplines. 
 It sets up a reward system so that researchers who  are aiming to  maximise  their own rewards also maximise the  objective function  of  the research  supervisory body,  through  their  submission decisions.  
 The  model  is calibrated to the reward scheme introduced within the Polish higher education reform in 2018, for which a series of policy recommendations is given.
-<hr />
-
-<h4 id=""><a href="/assets/pdf/ComplemenetarySymmetry.pdf">On complementary symmetry and reference dependence</a>, 2021 <br /> (joint with Michal Lewandowski)</h4>
-
-<p>
-We reevaluate the complementary symmetry property and the corresponding experimental evidence. Originally the property was stated for binary risky prospects. We generalize it to arbitrary state-contingent real-valued outcomes, thus extending the domain of choice from risk to uncertainty/ambiguity and allowing for multiple outcomes. We consider various observable tasks related to the elicitation of buying and selling prices. In particular, for selected reference point models, we derive relevant definitions of gains and losses, and identify pairs of prices satisfying the complementary symmetry property. We then run an experiment to test these new predictions, and find that while some reference point models can be refuted based on our data, others perform reasonably well.
-</p>
-<hr />
-
-
-<h4 id="equilibria-in-dynamic-behavioral-games-with-generalized-discounting-2020--joint-with-lukasz-balbus-and-kevin-reffett"><a href="/assets/pdf/BehavioralDiscounting.pdf">Time consistent equilibria in dynamic models with recursive
-payoffs and behavioral discounting</a>, 2020 <br /> (joint with Lukasz Balbus and Kevin Reffett)</h4>
-
-<p>
-We prove existence of time consistent equilibria in a wide class of dynamic models with recursive payoffs and generalized discounting involving both behavioral and normative applications. Our generalized Bellman equation method identifies and separates both: recursive and strategic aspects of the equilibrium problem and allows to precisely determine the sufficient assumptions on a stochastic transition to establish existence. In particular we show existence of minimal state space stationary Markov equilibrium (a time-consistent solution) in a deterministic model of consumption-saving with beta-delta discounting and its generalized versions involving magnitude effects, non-additive payoffs, semi-hyperbolic or hyperbolic discounting (over possibly unbounded state and unbounded above reward space). We also provide an equilibrium approximation method for a hyperbolic discounting model. </p>
-<a href="https://www.youtube.com/watch?v=St32CG27nAI">Presentation at: One World Mathematical Game Theory Seminar, GAMENET</a> 
 <hr />
 
 <h4 id="interim-correlated-rationalizability-in-large-games-2020--joint-with-lukasz-balbus-michael-greinecker-and-kevin-reffett">Interim correlated rationalizability in large games, 2020 <br /> (joint with Lukasz Balbus, Michael Greinecker and Kevin Reffett)</h4>

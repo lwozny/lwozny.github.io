@@ -39,6 +39,9 @@ description: Co-organized conferences / Conference talks / Invited talks
 <p>
 <ul>
 
+<li> <b> Time, Uncertainties and Strategies VII</b>, Paris, France, 2021<br />
+paper: <i>  Intergenerational altruism and time consistency</i>.</li>
+
 <li> 6th <b> World Congress of the Game Theory Society</b>, Budapest, Hungary, 2021 <br />
 paper: <i>  Time consistent equilibria in dynamic models with recursive payoffs and behavioral discounting</i>.</li>
 

@@ -10,7 +10,7 @@ description: Co-organized conferences / Conference talks / Invited talks
 <p>
 <ul>
 
-<li> XXX European Workshop in Economic Theory, EWET, Warsaw, PL, 2022, <a href="https://https://sites.google.com/view/ewet2022/"> [link]</a> Organizing and Scientific Committee.</li>
+<li> XXX European Workshop in Economic Theory, EWET, Warsaw, PL, 2022, <a href="https://sites.google.com/view/ewet2022/"> [link]</a> Organizing and Scientific Committee.</li>
 
 <li> 7th Hurwicz Workshop, Warsaw, PL, Dec 7-8, 2018, <a href="https://www.impan.pl/en/activities/banach-center/conferences/18-hurwiczworkshop"> [link]</a> Organizing and Scientific Committee.</li>
 

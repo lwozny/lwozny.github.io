@@ -9,8 +9,6 @@ description: Materials for courses I teach.
 
 <ul>
 
-<li> QEM 2021 Exams: P&S Dec 7th 4A bud. C, Opt Dec 9th 4A bud. C, Micro Dec 10th 2A bud. C</li>
-
 <li> QEM: P&S prerequisites <a href="https://sites.google.com/view/chorro-christophe/qem-2020-2021"> [link]</a></li> 
 
 <li> QEM: Optimization prerequisites <a href="/assets/pdf/2021OptPre.zip"> [zip]</a></li> 
@@ -32,45 +30,11 @@ description: Materials for courses I teach.
 
 </ul>
 
-<h4>Advanced Microeconomics</h4>
-
-<ul>
-
-<li>  Problem Set 4 <a href="/assets/pdf/PS3.pdf">[pdf]</a></li>
-
-<li>  Problem Set 3 <a href="/assets/pdf/PS5.pdf">[pdf]</a></li>
-
-<li>  Problem Set 2 <a href="/assets/pdf/PS3_2021.pdf">[pdf]</a></li>
-
-<li>  Problem Set 1 <a href="/assets/pdf/PS1_2021.pdf">[pdf]</a></li>
-
-<li>  Syllabus <a href="/assets/pdf/ADMicroQEM.pdf">[pdf]</a></li>
-
-<li> Micro Materials 2019-2020 from Paris <a href="/assets/pdf/QEMMicro2019-2020.zip"> [zip]</a></li>
-
-<li>  Excercises from Paris 2018 (QEM) <a href="/assets/pdf/PS1Micro2018.zip">[zip]</a></li>
-
-<li>  Lecture notes from Paris (QEM) <a href="/assets/pdf/1.pdf">[pdf]</a></li>
-
-<li>  Math Appendix from Paris (QEM) <a href="/assets/pdf/2.pdf">[pdf]</a></li>
-
-<li> QEM Micro Exams (old) <a href="/assets/pdf/MicroExamsQEM.pdf"> [pdf]</a></li>
-
-<li> Excercises from Barcelona 2016 <a href="/assets/pdf/PSMicro2016.pdf"> [pdf]</a></li>
-
-<li> Excercises from Barcelona 2015 <a href="/assets/pdf/QEMMicro2015.zip"> [zip]</a></li>
-
-<li>  Excercises from Paris 2014 (QEM) <a href="/assets/pdf/3.pdf">[pdf]</a></li>
-
-<li>  Syllabi from Barcelona 2015 (QEM) <a href="/assets/pdf/6.pdf">[pdf]</a></li>
-
-<li>  Syllabi from Paris 2014 (QEM) <a href="/assets/pdf/4.pdf">[pdf]</a></li>
-
-</ul>
-
 <h4> General Equilibrium (233460)</h4>
 
 <ul>
+
+<li>  Problem Set 4 <a href="/assets/pdf/PS4GE.pdf">[pdf]</a></li>
 
 <li>  Problem Set 3 <a href="/assets/pdf/PS3GE.pdf">[pdf]</a></li>
 
@@ -105,9 +69,9 @@ description: Materials for courses I teach.
 
 <ul>
 
-<li>  Supermodularity and Complementarity in Economics: An Elementary Survey by Rabah Amir <a href="http://www.laits.utexas.edu/~mbs31415/Amir_Supermodularity_Survey.pdf">[pdf]</a></li>
-
 <li> Syllabus <a href="/assets/pdf/GT.pdf">[pdf]</a></li>
+
+<li>  Supermodularity and Complementarity in Economics: An Elementary Survey by Rabah Amir <a href="http://www.laits.utexas.edu/~mbs31415/Amir_Supermodularity_Survey.pdf">[pdf]</a></li>
 
 <li> P.Dasgupta and E. Maskin about elections in France and the US <a href="http://www.scientificamerican.com/article/ranking-candidates-more-accurate/">[link]</a></li>
 
@@ -130,6 +94,34 @@ description: Materials for courses I teach.
 
 </ul>
 
+
+<h4>Advanced Microeconomics</h4>
+
+<ul>
+
+<li>  Syllabus <a href="/assets/pdf/ADMicroQEM.pdf">[pdf]</a></li>
+
+<li> Micro Materials 2019-2020 from Paris <a href="/assets/pdf/QEMMicro2019-2020.zip"> [zip]</a></li>
+
+<li>  Excercises from Paris 2018 (QEM) <a href="/assets/pdf/PS1Micro2018.zip">[zip]</a></li>
+
+<li>  Lecture notes from Paris (QEM) <a href="/assets/pdf/1.pdf">[pdf]</a></li>
+
+<li>  Math Appendix from Paris (QEM) <a href="/assets/pdf/2.pdf">[pdf]</a></li>
+
+<li> QEM Micro Exams (old) <a href="/assets/pdf/MicroExamsQEM.pdf"> [pdf]</a></li>
+
+<li> Excercises from Barcelona 2016 <a href="/assets/pdf/PSMicro2016.pdf"> [pdf]</a></li>
+
+<li> Excercises from Barcelona 2015 <a href="/assets/pdf/QEMMicro2015.zip"> [zip]</a></li>
+
+<li>  Excercises from Paris 2014 (QEM) <a href="/assets/pdf/3.pdf">[pdf]</a></li>
+
+<li>  Syllabi from Barcelona 2015 (QEM) <a href="/assets/pdf/6.pdf">[pdf]</a></li>
+
+<li>  Syllabi from Paris 2014 (QEM) <a href="/assets/pdf/4.pdf">[pdf]</a></li>
+
+</ul>
 
 
 <h4>Ekonomia studia doktorackie (KAE)</h4>

@@ -61,7 +61,7 @@ years: [2019, 1956, 1950, 1935, 1905]
   <!-- Hidden abstract block -->
   
   <span class="abstract hidden">
-    <p>We reevaluate the complementary symmetry property and the corresponding experimental evidence. Originally the property was stated for binary risky prospects. We generalize it to arbitrary state-contingent real-valued outcomes, thus extending the domain of choice from risk to uncertainty/ambiguity and allowing for multiple outcomes. We consider various observable tasks related to the elicitation of buying and selling prices. In particular, for selected reference point models, we derive relevant definitions of gains and losses, and identify pairs of prices satisfying the complementary symmetry property. We then run an experiment to test these new predictions, and find that while some reference point models can be refuted based on our data, others perform reasonably well. 
+    <p>We reevaluate the complementary symmetry property and the corresponding experimental evidence. Originally the property was stated for binary risky prospects. We generalize it to arbitrary state-contingent real-valued outcomes, thus extending the domain of choice from risk to uncertainty/ambiguity and allowing for multiple outcomes. We consider various observable tasks related to the elicitation of buying and selling prices. In particular, for selected reference point models, we derive relevant definitions of gains and losses, and identify pairs of prices satisfying the complementary symmetry property. We then run an experiment to test these new predictions, and find that while some reference point models can be refuted based on our data, others perform reasonably well. </p>
 </span>
   
 </div>

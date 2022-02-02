@@ -34,12 +34,6 @@ We provide sufficient conditions for the validity of the (generalized) first-ord
 <hr />
 
 
-<h4 id=""><a href="/assets/pdf/ComplemenetarySymmetry.pdf">On complementary symmetry and reference dependence</a>, 2021 <br /> (joint with Michal Lewandowski)</h4>
-
-<p>
-We reevaluate the complementary symmetry property and the corresponding experimental evidence. Originally the property was stated for binary risky prospects. We generalize it to arbitrary state-contingent real-valued outcomes, thus extending the domain of choice from risk to uncertainty/ambiguity and allowing for multiple outcomes. We consider various observable tasks related to the elicitation of buying and selling prices. In particular, for selected reference point models, we derive relevant definitions of gains and losses, and identify pairs of prices satisfying the complementary symmetry property. We then run an experiment to test these new predictions, and find that while some reference point models can be refuted based on our data, others perform reasonably well.
-</p>
-<hr />
 
 <h4 id=""><a href="/assets/pdf/Punktoza.pdf">Efficiency in rewarding academic journal publications. The case of Poland</a>, 2021 (joint with Wojciech Charemza and Michal Lewandowski)</h4>
 

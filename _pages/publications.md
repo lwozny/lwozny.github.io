@@ -5,6 +5,69 @@ title: publications
 description: Publications by years in reversed chronological order.
 years: [2019, 1956, 1950, 1935, 1905]
 ---
+
+<h3 class="year">2022</h3>
+<ol class="bibliography">
+<li>
+
+
+<div id="LewandowskiWozny2022JMP">
+  
+    <span class="title">On reference dependence and complementary symmetry</span>
+    <span class="author">
+      
+        
+          
+            
+              
+                <a href="http://www.mlewandowski.waw.pl/" target="_blank">Lewandowski, Łukasz</a>, 
+              
+            
+  
+            
+              and <em>Wozny, Łukasz</em>
+            
+          
+        
+      
+    </span>
+
+    <span class="periodical">
+    
+      <em>Journal of Mathematical Psychology</em>
+    
+    
+      2022, 
+
+  	accepted
+    
+    
+      <br>[IF2020 2.223, 100p MNiSW2021]
+    
+    </span>
+  
+
+  <span class="links">
+  
+    [<a class="abstract">Abs</a>]
+  
+
+    [<a href="" target="_blank">HTML</a>]
+  
+    [<a href="/assets/pdf/ComplemenetarySymmetry.pdf" target="_blank">PDF</a>]
+
+    </span>
+
+  <!-- Hidden abstract block -->
+  
+  <span class="abstract hidden">
+    <p>We reevaluate the complementary symmetry property and the corresponding experimental evidence. Originally the property was stated for binary risky prospects. We generalize it to arbitrary state-contingent real-valued outcomes, thus extending the domain of choice from risk to uncertainty/ambiguity and allowing for multiple outcomes. We consider various observable tasks related to the elicitation of buying and selling prices. In particular, for selected reference point models, we derive relevant definitions of gains and losses, and identify pairs of prices satisfying the complementary symmetry property. We then run an experiment to test these new predictions, and find that while some reference point models can be refuted based on our data, others perform reasonably well. 
+</span>
+  
+</div>
+</li>
+</ol>
+
  
 <h3 class="year">2021</h3>
 <ol class="bibliography">

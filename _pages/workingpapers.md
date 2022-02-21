@@ -9,14 +9,14 @@ description: working papers and some older stuff
 
 <p>
 For an increasing upper order hemi-continuous correspondence F selfmapping sigma-complete lattice A, we first provide tight fixed-point bounds for sufficiently large
-iterations on Fstarting from any initial point a in A. We use this result for conducting iterative fixed-point comparative statics, and
+iterations on F starting from any initial point a in A. We use this result for conducting iterative fixed-point comparative statics, and
 then apply our results to monotone games and economies. For games of strategic
 complementarities, we improve the correspondence principle based results of Echenique (2002) by allowing for divergent learning processes, unstable
 fixed points, equilibrium indeterminacies, and unordered perturbations. We also apply our results to the comparative statics of stationary equilibria in large economies and the set of recursive equilibria in macroeconomic models with indeterminacies.
 <hr />
 
 
-<h4 id=""><a href="/assets/pdf/TimeConsistentAltruism.pdf">Intergenerational altruism and time consistency</a>, 2021 <br /> (joint with Kevin Reffett and Lukasz Balbus)</h4>
+<h4 id=""><a href="/assets/pdf/TimeConsistentAltruism.pdf">Intergenerational altruism and time consistency</a>, 2021 <br /> (joint with Lukasz Balbus and Kevin Reffett)</h4>
 
 <p>
 We consider a class of infinite horizon, stochastic, non-stationary dynastic consumption-savings models with a general forms of recursive, time-
@@ -37,7 +37,7 @@ We prove existence of time consistent equilibria in a wide class of dynamic mode
 <hr />
 
 
-<h4 id=""><a href="/assets/pdf/BDW2021.pdf">On collective intertemporal choice, time-consistent decision rules and altruism</a>, 2021 (joint with Jean-Pierre Drugeon and Lukasz Balbus)</h4>
+<h4 id=""><a href="/assets/pdf/BDW2021.pdf">On collective intertemporal choice, time-consistent decision rules and altruism</a>, 2021 (joint with Lukasz Balbus and Jean-Pierre Drugeon)</h4>
 
 <p>
 We consider a dynamic decision problem of a collective-household with heterogeneous discount factors. We prove existence a time-consistent decision rule in Markovian policies. In fact, decision rules we consider are characterized by monotone and Lipschitz continuous investments policies.  

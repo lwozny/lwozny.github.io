@@ -30,26 +30,6 @@ description: Materials for courses I teach.
 
 </ul>
 
-<h4> General Equilibrium (233460)</h4>
-
-<ul>
-
-<li>  Problem Set 4 <a href="/assets/pdf/PS4GE.pdf">[pdf]</a></li>
-
-<li>  Problem Set 3 <a href="/assets/pdf/PS3GE.pdf">[pdf]</a></li>
-
-<li>  Problem Set 2 <a href="/assets/pdf/PS2GE.pdf">[pdf]</a></li>
-
-<li>  Problem Set 1 <a href="/assets/pdf/PS1GE.pdf">[pdf]</a></li>
-
-<li>  Syllabi <a href="/assets/pdf/HarmoGEENG.pdf">[pdf]</a></li>
-
-<li> Some useful Math theorems <a href="/assets/pdf/Theorems.pdf">[pdf]</a></li>
-
-<li> <a href="http://www.youtube.com/watch?v=FfztV7HQf_8"> prof G.Debreu lecture on GE</a> </li>
-
-</ul>
-
 
 <h4>Advanced Microeconomics II</h4>
 
@@ -120,6 +100,19 @@ description: Materials for courses I teach.
 <li>  Syllabi from Barcelona 2015 (QEM) <a href="/assets/pdf/6.pdf">[pdf]</a></li>
 
 <li>  Syllabi from Paris 2014 (QEM) <a href="/assets/pdf/4.pdf">[pdf]</a></li>
+
+</ul>
+
+<h4> General Equilibrium (233460)</h4>
+
+<ul>
+
+
+<li>  Syllabi <a href="/assets/pdf/HarmoGEENG.pdf">[pdf]</a></li>
+
+<li> Some useful Math theorems <a href="/assets/pdf/Theorems.pdf">[pdf]</a></li>
+
+<li> <a href="http://www.youtube.com/watch?v=FfztV7HQf_8"> prof G.Debreu lecture on GE</a> </li>
 
 </ul>
 

@@ -37,9 +37,7 @@ years: [2019, 1956, 1950, 1935, 1905]
       <em>Journal of Mathematical Psychology</em>
     
     
-      2022, 
-
-  	accepted
+      vol. 108, p. 102653, 2022
     
     
       <br>[IF2020 2.223, 100p MNiSW2021]
@@ -52,9 +50,9 @@ years: [2019, 1956, 1950, 1935, 1905]
     [<a class="abstract">Abs</a>]
   
 
-    [<a href="" target="_blank">HTML</a>]
+    [<a href="https://www.sciencedirect.com/science/article/pii/S0022249622000116" target="_blank">HTML</a>]
   
-    [<a href="/assets/pdf/ComplemenetarySymmetry.pdf" target="_blank">PDF</a>]
+    [<a href="/assets/pdf/ComplementarySymmetry.pdf" target="_blank">PDF</a>]
 
     </span>
 

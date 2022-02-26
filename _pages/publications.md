@@ -50,7 +50,7 @@ years: [2019, 1956, 1950, 1935, 1905]
     [<a class="abstract">Abs</a>]
   
 
-    [<a href="https://www.sciencedirect.com/science/article/pii/S0022249622000116" target="_blank">HTML</a>]
+    [<a href="https://authors.elsevier.com/a/1ef5V53naqD7q" target="_blank">HTML</a>]
   
     [<a href="/assets/pdf/ComplementarySymmetry.pdf" target="_blank">PDF</a>]
 

@@ -20,7 +20,7 @@ years: [2019, 1956, 1950, 1935, 1905]
           
             
               
-                <a href="http://www.mlewandowski.waw.pl/" target="_blank">Lewandowski, Łukasz</a>, 
+                <a href="http://www.mlewandowski.waw.pl/" target="_blank">Lewandowski, Michał</a>, 
               
             
   

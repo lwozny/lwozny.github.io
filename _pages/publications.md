@@ -82,6 +82,7 @@ years: [2019, 1956, 1950, 1935, 1905]
   
 </div>
 </li>
+</ol>
 
 <li>
 
@@ -195,9 +196,8 @@ method characterizing non-stationary Markov perfect equilibrium policies.</p>
   
 </div>
 </li>
+
 <li>
-
-
 
 <div id="LewandowskiWozny2022JMP">
   

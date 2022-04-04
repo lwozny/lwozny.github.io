@@ -620,6 +620,7 @@ indeterminacy of dynamic equilibrium.</p>
   
 </div>
 </li>
+
 <li>
 
 <div id="Balbus2016">
@@ -705,11 +706,13 @@ indeterminacy of dynamic equilibrium.</p>
   
 </div>
 </li>
-<li>
+</ol>
 
 
 <h3 class="year">2017</h3>
 <ol class="bibliography"><li>
+
+<li>
 
 <div id="BALBUS2017394">
   

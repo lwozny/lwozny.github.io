@@ -704,14 +704,13 @@ indeterminacy of dynamic equilibrium.</p>
     <p>In this chapter, we survey how the methods of dynamic and stochastic games have been applied in macroeconomic research. In our discussion of methods for constructing dynamic equilibria in such models, we focus on strategic dynamic programming, which has found extensive application for solving macroeconomic models. We first start by presenting some prototypes of dynamic and stochastic games that have arisen in macroeconomics and their main challenges related to both their theoretical and numerical analysis. Then, we discuss the strategic dynamic programming method with states, which is useful for proving existence of sequential or subgame perfect equilibrium of a dynamic game. We then discuss how these methods have been applied to some canonical examples in macroeconomics, varying from sequential equilibria of dynamic nonoptimal economies to time-consistent policies or policy games. We conclude with a brief discussion and survey of alternative methods that are useful for some macroeconomic problems.</p>
   </span>
   
+
 </div>
 </li>
 </ol>
 
-
 <h3 class="year">2017</h3>
-<ol class="bibliography"><li>
-
+<ol class="bibliography">
 <li>
 
 <div id="BALBUS2017394">
@@ -806,13 +805,15 @@ indeterminacy of dynamic equilibrium.</p>
   <span class="abstract hidden">
     <p>In this note, we prove the existence of a Markov perfect equilibrium in a non-stationary version of a paternalistic bequest game. The method we advocate is general and allows to study models with unbounded state space and unbounded utility functions. We cover both, the stochastic and deterministic cases. We provide a characterization of the set of all Markov perfect equilibria by means of a set-valued recursive equation involving the best response operator. In the stationary case, we show that there exists a set of strategies that is invariant under the best response mapping.</p>
   </span>
-  
+
 </div>
-</li></ol>
+</li>
+</ol>
 
 <h3 class="year">2016</h3>
 <ol class="bibliography">
 <li>
+  
 
 <div id="Balbus2017">
   

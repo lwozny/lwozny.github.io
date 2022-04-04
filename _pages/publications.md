@@ -11,6 +11,193 @@ years: [2019, 1956, 1950, 1935, 1905]
 <li>
 
 
+<div id="JET2022">
+  
+    <span class="title">Time consistent equilibria in dynamic models with recursive payoffs and behavioral discounting</span>
+    <span class="author">
+      
+        
+          
+            
+              
+                <a href="https://ideas.repec.org/f/pba1023.html" target="_blank">Balbus, Łukasz</a>, 
+              
+            
+          
+        
+      
+        
+          
+            
+              
+                <a href="http://kevin-reffett.com/" target="_blank">Reffett, Kevin</a>, 
+              
+            
+          
+        
+      
+        
+          
+            
+              and <em>Wozny, Łukasz</em>
+            
+          
+        
+      
+    </span>
+
+    <span class="periodical">
+    
+      <em>Journal of Economic Theory</em>
+    
+    conditionally accepted
+     
+     
+      <br>[IF2020 1.458, 200p MEiN]
+    
+    </span>
+  
+
+  <span class="links">
+  
+    [<a class="abstract">Abs</a>]
+  
+  
+    [<a href="" target="_blank">HTML</a>]
+  
+  
+    [<a href="/assets/pdf/BehavioralDiscounting.pdf" target="_blank">PDF</a>]
+  
+  
+  
+  
+  
+  </span>
+
+  <!-- Hidden abstract block -->
+  
+  <span class="abstract hidden">
+    <p>We prove existence of time consistent equilibria in a wide class of dynamic models with recursive payoffs and generalized discounting involving both behavioral and normative applications. Our generalized Bellman equation method identifies and separates both: recursive and strategic aspects of the equilibrium problem and allows to precisely determine the sufficient assumptions on a stochastic transition to establish existence. In particular we show existence of minimal state space stationary Markov equilibrium (a time-consistent solution) in a deterministic model of consumption-saving with beta-delta discounting and its generalized versions involving magnitude effects, non-additive payoffs, semi-hyperbolic or hyperbolic discounting (over possibly unbounded state and unbounded above reward space). We also provide an equilibrium approximation method for a hyperbolic discounting model.</p>
+  </span>
+  
+</div>
+</li>
+</ol>
+
+<div id="Oxford2022">
+  
+    <span class="title">Time Consistent Policies and Quasi-Hyperbolic Discounting</span>
+    <span class="author">
+      
+        
+          
+            
+              
+                <a href="https://ideas.repec.org/f/pba1023.html" target="_blank">Balbus, Łukasz</a>, 
+              
+            
+          
+        
+      
+        
+          
+            
+              
+                <a href="http://kevin-reffett.com/" target="_blank">Reffett, Kevin</a>, 
+              
+            
+          
+        
+      
+        
+          
+            
+              and <em>Wozny, Łukasz</em>
+            
+          
+        
+      
+    </span>
+
+    <span class="periodical">
+    
+      <em>Oxford Research Encyclopedia of Economics and Finance</em>
+    
+       
+conditionally accepted,    
+    
+      Oxford
+    
+
+    
+      2022
+    
+    
+      <br> [ed. Hamilton, J.H.]
+    
+    
+    </span>
+  
+
+  <span class="links">
+  
+    [<a class="abstract">Abs</a>]
+  
+  
+    [<a href="https://oxfordre.com/economics" target="_blank">HTML</a>]
+  
+  
+    [<a href="/assets/pdf/OxfordChapter.pdf" target="_blank">PDF</a>]
+  
+  
+  
+  
+  
+  </span>
+
+  <!-- Hidden abstract block -->
+  
+  <span class="abstract hidden">
+    <p>
+Since the seminal paper of Strotz (1956), the study of dynamic choice
+for agents with dynamically inconsistent preferences has been the focal point
+of much work in behavioral economics. Experimental and empirical literatures
+both point to the importance of such models that allow for various forms of
+present-bias. This includes research in such diverse areas as
+consumption/savings models, dynastic choice with altruism, normative models of
+distributive justice with intergenerational conflict, social discounting and
+environmental cost-benefit models, dynamic collective household models, among others.
+
+These models often lead to time-inconsistency of the optimal solution. That
+is: optimal plans, under such preferences over time, are time-inconsistent and
+decision maker has no incentive to follow the optimal plan in the future. Out
+of many interesting problems economists have studied, the question of design
+and computation of optimal among time consistent plans (so the one that will
+be actually followed) has received a great attention in economic literature.
+This also includes important from behavioral but also numerical perspective
+short memory decision rules, like Markov or semi-Markov ones.
+
+We present results on the existence, uniqueness, and
+characterization of Time Consistent Policies (TCPs) as Stationary Markov
+Perfect Equilibria (SMPE) in a class of consumption-savings problems with
+quasi-hyperbolic discounting, as well as some of their extensions. In doing
+so, we develop a powerful generalized Bellman equation operator
+approach that facilitates the construction of TCPs. We also give sufficient
+conditions for the validity of the first order approach to characterizing
+equilibrium policies via generalized Euler equation, discuss the
+existence of monotone comparative statics in interesting deep parameters of
+the decision environment. We then present generalizations of our results
+allowing to cover unbounded returns, general certainty equivalents and
+multi-dimensional states. We conclude by presenting a general self-generation
+method characterizing non-stationary Markov perfect equilibrium policies.</p>
+  </span>
+  
+</div>
+</li>
+<li>
+
+
+
 <div id="LewandowskiWozny2022JMP">
   
     <span class="title">On reference dependence and complementary symmetry</span>
@@ -526,90 +713,6 @@ indeterminacy of dynamic equilibrium.</p>
 </li>
 <li>
 
-<div id="BALBUS2018293">
-  
-    <span class="title">On uniqueness of time-consistent Markov policies for quasi-hyperbolic consumers under uncertainty</span>
-    <span class="author">
-      
-        
-          
-            
-              
-                <a href="https://ideas.repec.org/f/pba1023.html" target="_blank">Balbus, Łukasz</a>, 
-              
-            
-          
-        
-      
-        
-          
-            
-              
-                <a href="http://kevin-reffett.com/" target="_blank">Reffett, Kevin</a>, 
-              
-            
-          
-        
-      
-        
-          
-            
-              and <em>Wozny, Łukasz</em>
-            
-          
-        
-      
-    </span>
-
-    <span class="periodical">
-    
-      <em>Journal of Economic Theory</em>
-    
-    
-      vol. 176
-    
-    
-    
-      p. 293 - 310, 
-    
-    
-
-    
-      2018
-    
-    
-    
-      <br>[IF2018 1.181, 30p MNiSW]
-    
-    </span>
-  
-
-  <span class="links">
-  
-    [<a class="abstract">Abs</a>]
-  
-  
-  
-    [<a href="http://www.sciencedirect.com/science/article/pii/S0022053118300991" target="_blank">HTML</a>]
-  
-  
-    [<a href="/assets/pdf/JET2018.pdf" target="_blank">PDF</a>]
-  
-  
-  
-  
-  
-  </span>
-
-  <!-- Hidden abstract block -->
-  
-  <span class="abstract hidden">
-    <p>We give a set of sufficient conditions for uniqueness of a time-consistent stationary Markov consumption policy for a quasi-hyperbolic household under uncertainty. To the best of our knowledge, this uniqueness result is the first presented in the literature for general settings, i.e. under standard assumptions on preferences, as well as some new condition on a transition probability. This paper advocates a generalized Bellman equation method to overcome some predicaments of the known methods and also extends our recent existence result. Our method also works for returns unbounded from above. We provide a few natural extensions of optimal policy uniqueness: convergent and accurate computational algorithm, monotone comparative statics result and generalized Euler equation.</p>
-  </span>
-  
-</div>
-</li>
-</ol>
 
 <h3 class="year">2017</h3>
 <ol class="bibliography"><li>

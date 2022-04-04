@@ -1,4 +1,4 @@
----
+	---
 layout: page
 permalink: /publications/
 title: publications
@@ -82,7 +82,8 @@ years: [2019, 1956, 1950, 1935, 1905]
   
 </div>
 </li>
-</ol>
+
+<li>
 
 <div id="Oxford2022">
   

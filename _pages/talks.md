@@ -55,7 +55,7 @@ paper: <i>  Time consistent equilibria in dynamic models with recursive payoffs 
 paper: <i> Time consistent equilibria in dynamic models with recursive payoffs and behavioral discounting</i>.</li>
 
 <li> (20th Conference of) <b> Society for Advancement in Economic Theory</b>, Seul, Korea, 2021 <br />
-session organizer: <i> New Methods for Dynamic Games and Economies</i>
+session organizer: <i> New Methods for Dynamic Games and Economies</i><br />
 paper: <i>  Intergenerational altruism and time consistency</i>.
 </li>
 

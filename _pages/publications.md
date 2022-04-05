@@ -86,7 +86,7 @@ years: [2019, 1956, 1950, 1935, 1905]
 
 <div id="Oxford2022">
   
-    <span class="title">Time Consistent Policies and Quasi-Hyperbolic Discounting</span>
+    <span class="title">Time consistent policies and quasi-hyperbolic discounting</span>
     <span class="author">
       
         

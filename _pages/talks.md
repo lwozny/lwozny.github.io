@@ -100,7 +100,8 @@ paper: <i> Distributional equilibria in dynamic supermodular games with a measur
 
 <li> (17th Conference of) <b> Society for Advancement in Economic Theory</b>, Faro, Portugal, 2017 <br />
 session organizer: <i> Advances in Dynamic General Equilibrium</i> <br />
-session organizer: <i> Complementarities and Games</i>.
+session organizer: <i> Complementarities and Games</i><br />
+paper: <i>Markov equilibria in dynamic supermodular economies with a measure space of player</i>.
 </li>
 
 <li> <b> Europen Workshop in General Equilibrium Theory</b>, Salamanca, Spain, 2017<br />

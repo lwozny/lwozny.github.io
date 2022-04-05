@@ -35,7 +35,15 @@ description: Co-organized conferences / Conference talks / Invited talks
 <h4><a name="conf">Conference talks</a></h4>
 
 <p>
-<ul>
+<ul>	
+
+<li> (21th Conference of) <b> Society for Advancement in Economic Theory</b>, Canberra, Australia, 2022 <br />
+session organizer: <i> Recursive Methods for Dynamic Games and Economies</i> <br />
+paper: <i>  Iterative monotone comparative statics</i>.
+</li>
+
+<li> <b> Mediterranean Workshop in Economic Theory</b>, Porto, Portugal, 2022<br />
+paper: <i>  Intergenerational altruism and time consistency</i>.</li>
 
 <li> <b> Time, Uncertainties and Strategies VII</b>, Paris, France, 2021<br />
 paper: <i>  Intergenerational altruism and time consistency</i>.</li>
@@ -47,7 +55,9 @@ paper: <i>  Time consistent equilibria in dynamic models with recursive payoffs 
 paper: <i> Time consistent equilibria in dynamic models with recursive payoffs and behavioral discounting</i>.</li>
 
 <li> (20th Conference of) <b> Society for Advancement in Economic Theory</b>, Seul, Korea, 2021 <br />
-session: <i> New Methods for Dynamic Games and Economics</i>.</li>
+session organizer: <i> New Methods for Dynamic Games and Economies</i>
+paper: <i>  Intergenerational altruism and time consistency</i>.
+</li>
 
 <li> XXIX <b> Europen Workshop on Economic Theory</b>, Akko, Israel, 2021 <br />
 paper: <i>  Time consistent equilibria in dynamic models with recursive payoffs and behavioral discounting</i>.</li>
@@ -65,6 +75,8 @@ paper: <i>  Equilibria in Dynamic Behavioral Games with Generalized Discounting<
 paper: <i> Distributional equilibria in dynamic supermodular games with a measure space of players and no aggregate risk</i>.</li>
 
 <li> (19th Conference of) <b> Society for Advancement in Economic Theory</b>, Ischia, Italy, 2019 <br />
+session organizer: <i> New Methods in Dynamic General Equilibrium Theory</i><br />
+session organizer: <i> New Methods in Game Theory</i><br />
 paper: <i> Supermodular comparative statics for dynamic games</i>.</li>
 
 <li> <b> Europen Workshop on Economic Theory</b>, Berlin, Germany, 2019<br />
@@ -77,6 +89,7 @@ tekst: <i> Supermodular comparative statics</i>.</li>
 paper: <i> Lipschitz Recursive Equilibrium with a Minimal State Space and Heterogenous Agents</i>.</li>
 
 <li> (18th Conference of) <b> Society for Advancement in Economic Theory</b>, Taipei, Taiwan, 2018 <br />
+session organizer: <i> Dynamic Equilibrium Theory</i><br />
 paper: <i> Supermodular comparative statics</i>.</li>
 
 <li> <b> Time, Uncertainties and Strategies IV</b>, Paris, France, 2017 <br />
@@ -86,7 +99,9 @@ paper: <i> Supermodular comparative statics</i>.</li>
 paper: <i> Distributional equilibria in dynamic supermodular games with a measure space of players and no aggregate risk</i>.</li>
 
 <li> (17th Conference of) <b> Society for Advancement in Economic Theory</b>, Faro, Portugal, 2017 <br />
-session: <i> Complementarities and Games</i>.</li>
+session organizer: <i> Advances in Dynamic General Equilibrium</i> <br />
+session organizer: <i> Complementarities and Games</i>.
+</li>
 
 <li> <b> Europen Workshop in General Equilibrium Theory</b>, Salamanca, Spain, 2017<br />
 paper: <i> Distributional equilibria in dynamic supermodular games with a measure space of players and no aggregate risk </i>.</li>
@@ -95,6 +110,7 @@ paper: <i> Distributional equilibria in dynamic supermodular games with a measur
 paper: <i> An experiment on temptation and attitude towards paternalism </i></li>
 
 <li> (16th Conference of) <b> Society for Advancement in Economic Theory</b>, Rio de Janeiro, Brasil, 2016 <br />
+session organizer: <i> Advances in Dynamic General Equilibrium</i> <br />
 paper: <i> Repeated moral hazard with costly self control</i>.</li>
 
 <li> <b> Summer Workshop in Economic Theory</b>, Paris, France, 2016<br />
@@ -113,7 +129,8 @@ paper: <i> Repeated moral hazard with costly self control</i>.</li>
 paper: <i> On the price of commitment assets in a general equilibrium model with credit constraints and tempted consumers</i>.</li>
 
 <li> (15th Conference of) <b> Society for Advancement in Economic Theory</b>, Cambridge, UK, 2015 <br />
-paper: <i> Markov equilibria in dynamic supermodular economies with a measure space of players and no aggregate risk</i>.</li>
+session organizer: <i> Dynamic and Stochastic Games</i> <br />
+paper: <i> Equilibria in large stochastic games with complementarities</i>.</li>
 
 <li> <b> Europen Workshop in General Equilibrium Theory</b>, Naples, Italy 2015<br />
 paper: <i> Markov equilibria in dynamic supermodular economies with a measure space of players and no aggregate risk</i>.</li>

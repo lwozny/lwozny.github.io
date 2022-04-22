@@ -707,6 +707,92 @@ indeterminacy of dynamic equilibrium.</p>
 
 </div>
 </li>
+
+<li>
+
+<div id="BALBUS2018293">
+  
+    <span class="title">On uniqueness of time-consistent Markov policies for quasi-hyperbolic consumers under uncertainty</span>
+    <span class="author">
+      
+        
+          
+            
+              
+                <a href="https://ideas.repec.org/f/pba1023.html" target="_blank">Balbus, Łukasz</a>, 
+              
+            
+          
+        
+      
+        
+          
+            
+              
+                <a href="http://kevin-reffett.com/" target="_blank">Reffett, Kevin</a>, 
+              
+            
+          
+        
+      
+        
+          
+            
+              and <em>Wozny, Łukasz</em>
+            
+          
+        
+      
+    </span>
+
+    <span class="periodical">
+    
+      <em>Journal of Economic Theory</em>
+    
+    
+      vol. 176
+    
+    
+    
+      p. 293 - 310, 
+    
+    
+
+    
+      2018
+    
+    
+    
+      <br>[IF2018 1.181, 30p MNiSW]
+    
+    </span>
+  
+
+  <span class="links">
+  
+    [<a class="abstract">Abs</a>]
+  
+  
+  
+    [<a href="http://www.sciencedirect.com/science/article/pii/S0022053118300991" target="_blank">HTML</a>]
+  
+  
+    [<a href="/assets/pdf/JET2018.pdf" target="_blank">PDF</a>]
+  
+  
+  
+  
+  
+  </span>
+
+  <!-- Hidden abstract block -->
+  
+  <span class="abstract hidden">
+    <p>We give a set of sufficient conditions for uniqueness of a time-consistent stationary Markov consumption policy for a quasi-hyperbolic household under uncertainty. To the best of our knowledge, this uniqueness result is the first presented in the literature for general settings, i.e. under standard assumptions on preferences, as well as some new condition on a transition probability. This paper advocates a generalized Bellman equation method to overcome some predicaments of the known methods and also extends our recent existence result. Our method also works for returns unbounded from above. We provide a few natural extensions of optimal policy uniqueness: convergent and accurate computational algorithm, monotone comparative statics result and generalized Euler equation.</p>
+  </span>
+  
+</div>
+</li>
 </ol>
 
 <h3 class="year">2017</h3>

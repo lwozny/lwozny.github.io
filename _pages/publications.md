@@ -245,11 +245,6 @@ method characterizing non-stationary Markov perfect equilibrium policies.</p>
   
 </div>
 </li>
-</ol>
-
- 
-<h3 class="year">2021</h3>
-<ol class="bibliography">
 <li>
 
 
@@ -303,10 +298,7 @@ method characterizing non-stationary Markov perfect equilibrium policies.</p>
       <em>Theoretical Economics</em>
     
     
-      2021, 
-
-  	in print
-    
+      2022, vol. 17 No. 2.    
     
       <br>[IF2019-20 1.631, 140p MNiSW2021]
     

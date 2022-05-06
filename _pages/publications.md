@@ -298,7 +298,7 @@ method characterizing non-stationary Markov perfect equilibrium policies.</p>
       <em>Theoretical Economics</em>
     
     
-	vol. 17 No. 2, 2022.    
+	vol. 17 No. 2, p. 725–762, 2022.    
     
       <br>[IF2019-20 1.631, 140p MNiSW2021]
     
@@ -310,9 +310,9 @@ method characterizing non-stationary Markov perfect equilibrium policies.</p>
     [<a class="abstract">Abs</a>]
   
     
-    [<a href="https://econtheory.org/ojs/index.php/te/article/viewForthcomingFile/4624/31330/1" target="_blank">HTML</a>]
+    [<a href="https://econtheory.org/ojs/index.php/te/article/view/20220725" target="_blank">HTML</a>]
   
-    [<a href="/assets/pdf/LargeSSG2020SHORT.pdf" target="_blank">PDF</a>]
+    [<a href="https://econtheory.org/ojs/index.php/te/article/viewFile/20220725/33811/985" target="_blank">PDF</a>]
 
   
   

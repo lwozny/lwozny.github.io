@@ -231,7 +231,7 @@ method characterizing non-stationary Markov perfect equilibrium policies.</p>
     [<a class="abstract">Abs</a>]
   
 
-    [<a href="https://authors.elsevier.com/a/1ef5V53naqD7q" target="_blank">HTML</a>]
+    [<a href="https://doi.org/10.1016/j.jmp.2022.102653" target="_blank">HTML</a>]
   
     [<a href="/assets/pdf/ComplementarySymmetry.pdf" target="_blank">PDF</a>]
 

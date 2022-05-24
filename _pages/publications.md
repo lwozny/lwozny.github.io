@@ -50,7 +50,7 @@ years: [2019, 1956, 1950, 1935, 1905]
     
       <em>Journal of Economic Theory</em>,
     
-    conditionally accepted
+    forthcoming
      
      
       <br>[IF2020 1.458, 200p MEiN]

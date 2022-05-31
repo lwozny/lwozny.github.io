@@ -50,7 +50,7 @@ years: [2019, 1956, 1950, 1935, 1905]
     
       <em>Journal of Economic Theory</em>,
     
-    forthcoming
+    in-print
      
      
       <br>[IF2020 1.458, 200p MEiN]
@@ -63,7 +63,7 @@ years: [2019, 1956, 1950, 1935, 1905]
     [<a class="abstract">Abs</a>]
   
   
-    [<a href="" target="_blank">HTML</a>]
+    [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022053122000837" target="_blank">HTML</a>]
   
   
     [<a href="/assets/pdf/BehavioralDiscounting.pdf" target="_blank">PDF</a>]

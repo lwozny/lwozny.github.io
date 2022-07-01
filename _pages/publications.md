@@ -121,7 +121,7 @@ years: [2019, 1956, 1950, 1935, 1905]
     <span class="periodical">
     
       <em>Oxford Research Encyclopedia of Economics and Finance</em>,
-    conditionally accepted,    
+    forthcoming,    
     
       Oxford,
    

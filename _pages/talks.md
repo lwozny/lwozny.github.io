@@ -42,6 +42,11 @@ session organizer: <i> Recursive Methods for Dynamic Games and Economies</i> <br
 paper: <i>  Iterative monotone comparative statics</i>.
 </li>
 
+<li> <b> Summer Workshop in Economic Theory</b>, Paris, France, 2022 <br />
+paper: <i> Dynastic preferences, recursive utility and time consistency</i>.
+</li>
+
+
 <li> Association for Public Economic Theory International Meeting<b>, PET22 </b>, Marseille, France 2022 <br />
 paper: <i>  Intergenerational altruism and time consistency</i>.</li>
 

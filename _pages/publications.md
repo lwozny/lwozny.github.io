@@ -48,9 +48,9 @@ years: [2019, 1956, 1950, 1935, 1905]
 
     <span class="periodical">
     
-      <em>Journal of Economic Theory</em>,
+      <em>Journal of Economic Theory</em>
     
-    in-print, p. 105493, 2022. 
+    vol. 204, p. 105493, 2022. 
      
       <br>[IF2021 1.790, 200p MEiN]
     

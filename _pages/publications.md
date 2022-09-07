@@ -123,7 +123,7 @@ years: [2019, 1956, 1950, 1935, 1905]
       <em>Oxford Research Encyclopedia of Economics and Finance</em>,
     forthcoming,    
     
-      Oxford,
+      Oxford University Press
    
     
       <br> [ed. Hamilton, J.H.]

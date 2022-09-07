@@ -30,6 +30,48 @@ description: Materials for courses I teach.
 
 </ul>
 
+<h4>Advanced Microeconomics</h4>
+
+<ul>
+
+<li>  Syllabus <a href="/assets/pdf/ADMicroQEM.pdf">[pdf]</a></li>
+
+<li> Micro Materials 2019-2020 from Paris <a href="/assets/pdf/QEMMicro2019-2020.zip"> [zip]</a></li>
+
+<li>  Excercises from Paris 2018 (QEM) <a href="/assets/pdf/PS1Micro2018.zip">[zip]</a></li>
+
+<li>  Lecture notes from Paris (QEM) <a href="/assets/pdf/1.pdf">[pdf]</a></li>
+
+<li>  Math Appendix from Paris (QEM) <a href="/assets/pdf/2.pdf">[pdf]</a></li>
+
+<li> QEM Micro Exams (old) <a href="/assets/pdf/MicroExamsQEM.pdf"> [pdf]</a></li>
+
+<li> Excercises from Barcelona 2016 <a href="/assets/pdf/PSMicro2016.pdf"> [pdf]</a></li>
+
+<li> Excercises from Barcelona 2015 <a href="/assets/pdf/QEMMicro2015.zip"> [zip]</a></li>
+
+<li>  Excercises from Paris 2014 (QEM) <a href="/assets/pdf/3.pdf">[pdf]</a></li>
+
+<li>  Syllabi from Barcelona 2015 (QEM) <a href="/assets/pdf/6.pdf">[pdf]</a></li>
+
+<li>  Syllabi from Paris 2014 (QEM) <a href="/assets/pdf/4.pdf">[pdf]</a></li>
+
+</ul>
+
+
+<h4> General Equilibrium (233460)</h4>
+
+<ul>
+
+
+<li>  Syllabi <a href="/assets/pdf/HarmoGEENG.pdf">[pdf]</a></li>
+
+<li> Some useful Math theorems <a href="/assets/pdf/Theorems.pdf">[pdf]</a></li>
+
+<li> <a href="http://www.youtube.com/watch?v=FfztV7HQf_8"> prof G.Debreu lecture on GE</a> </li>
+
+</ul>
+
 
 <h4>Advanced Microeconomics II</h4>
 
@@ -75,46 +117,6 @@ description: Materials for courses I teach.
 </ul>
 
 
-<h4>Advanced Microeconomics</h4>
-
-<ul>
-
-<li>  Syllabus <a href="/assets/pdf/ADMicroQEM.pdf">[pdf]</a></li>
-
-<li> Micro Materials 2019-2020 from Paris <a href="/assets/pdf/QEMMicro2019-2020.zip"> [zip]</a></li>
-
-<li>  Excercises from Paris 2018 (QEM) <a href="/assets/pdf/PS1Micro2018.zip">[zip]</a></li>
-
-<li>  Lecture notes from Paris (QEM) <a href="/assets/pdf/1.pdf">[pdf]</a></li>
-
-<li>  Math Appendix from Paris (QEM) <a href="/assets/pdf/2.pdf">[pdf]</a></li>
-
-<li> QEM Micro Exams (old) <a href="/assets/pdf/MicroExamsQEM.pdf"> [pdf]</a></li>
-
-<li> Excercises from Barcelona 2016 <a href="/assets/pdf/PSMicro2016.pdf"> [pdf]</a></li>
-
-<li> Excercises from Barcelona 2015 <a href="/assets/pdf/QEMMicro2015.zip"> [zip]</a></li>
-
-<li>  Excercises from Paris 2014 (QEM) <a href="/assets/pdf/3.pdf">[pdf]</a></li>
-
-<li>  Syllabi from Barcelona 2015 (QEM) <a href="/assets/pdf/6.pdf">[pdf]</a></li>
-
-<li>  Syllabi from Paris 2014 (QEM) <a href="/assets/pdf/4.pdf">[pdf]</a></li>
-
-</ul>
-
-<h4> General Equilibrium (233460)</h4>
-
-<ul>
-
-
-<li>  Syllabi <a href="/assets/pdf/HarmoGEENG.pdf">[pdf]</a></li>
-
-<li> Some useful Math theorems <a href="/assets/pdf/Theorems.pdf">[pdf]</a></li>
-
-<li> <a href="http://www.youtube.com/watch?v=FfztV7HQf_8"> prof G.Debreu lecture on GE</a> </li>
-
-</ul>
 
 
 <h4>Ekonomia studia doktorackie (KAE)</h4>

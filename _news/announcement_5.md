@@ -1,6 +1,7 @@
 ---
 layout: post
-date: 2022-01-03 15:59:00-0400
+date: 2022-09-07 15:59:00-0400
 inline: true
 ---
-[XXX European Workshop in Economic Theory](https://sites.google.com/view/ewet2022/), EWET, Warsaw, PL, 2022.
+[8th Hurwicz Workshop](), Warsaw, PL, Nov 4-5, 2022.
+

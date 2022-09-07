@@ -10,6 +10,8 @@ description: Co-organized conferences / Conference talks / Invited talks
 <p>
 <ul>
 
+<li> 8th Hurwicz Workshop, Warsaw, PL, Nov 4-5, 2022, <a href=""> [link]</a> Organizing and Scientific Committee.</li>
+
 <li> XXX European Workshop in Economic Theory, EWET, Warsaw, PL, 2022, <a href="https://sites.google.com/view/ewet2022/"> [link]</a> Organizing and Scientific Committee.</li>
 
 <li> 7th Hurwicz Workshop, Warsaw, PL, Dec 7-8, 2018, <a href="https://www.impan.pl/en/activities/banach-center/conferences/18-hurwiczworkshop"> [link]</a> Organizing and Scientific Committee.</li>
@@ -36,6 +38,10 @@ description: Co-organized conferences / Conference talks / Invited talks
 
 <p>
 <ul>	
+
+<li> <b> L Ogólnopolska Konferencja Zastosowań Matematyki, IM PAN</b>, Zakopane, Poland, 2022 <br />
+paper: <i>  Iterative monotone comparative statics</i>.
+</li>
 
 <li> (21th Conference of) <b> Society for Advancement in Economic Theory</b>, Canberra, Australia, 2022 <br />
 session organizer: <i> Recursive Methods for Dynamic Games and Economies</i> <br />

@@ -10,7 +10,7 @@ description: Co-organized conferences / Conference talks / Invited talks
 <p>
 <ul>
 
-<li> 8th Hurwicz Workshop, Warsaw, PL, Nov 4-5, 2022, <a href=""> [link]</a> Organizing and Scientific Committee.</li>
+<li> 8th Hurwicz Workshop, Warsaw, PL, Nov 4-5, 2022, <a href="https://sites.google.com/view/hurwicz2022"> [link]</a> Organizing and Scientific Committee.</li>
 
 <li> XXX European Workshop in Economic Theory, EWET, Warsaw, PL, 2022, <a href="https://sites.google.com/view/ewet2022/"> [link]</a> Organizing and Scientific Committee.</li>
 

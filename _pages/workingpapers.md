@@ -10,8 +10,8 @@ description: working papers and some older stuff
 
 <p>
 For a strong set order increasing (resp., strongly monotone) upper order hemicontinuous correspondence mapping a complete lattice A into itself
-(resp., a σ-complete lattice into itself), we provide conditions for tight fixed-point bounds for sufficiently large iterations starting from any point
-intial in A. Our results prove a local version of the Veinott-Zhou generalization of Tarski’s theorem, as well as provide a new global version of the Tarski-Kantorovich principle for correspondences.<hr />
+(resp., a σ-complete lattice into itself), we provide conditions for tight fixed-point bounds for sufficiently large iterations starting from any initial point
+in A. Our results prove a local version of the Veinott-Zhou generalization of Tarski’s theorem, as well as provide a new global version of the Tarski-Kantorovich principle for correspondences.<hr />
 
 
 <h4 id=""><a href="/assets/pdf/BORW.pdf">Iterative monotone comparative statics</a>, 2022 <br /> (joint with Lukasz Balbus and Wojciech Olszewski and Kevin Reffett)</h4>

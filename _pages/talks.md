@@ -39,6 +39,10 @@ description: Co-organized conferences / Conference talks / Invited talks
 <p>
 <ul>	
 
+<li> <b> 8th Hurwicz Workshop</b>, Warsaw, Poland, 2022 <br />
+paper: <i> Intergenerational altruism and time consistency</i>.
+</li>
+
 <li> <b> L Ogólnopolska Konferencja Zastosowań Matematyki, IM PAN</b>, Zakopane, Poland, 2022 <br />
 paper: <i>  Iterative monotone comparative statics</i>.
 </li>

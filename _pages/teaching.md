@@ -13,6 +13,8 @@ description: Materials for courses I teach.
 
 <li> QEM: Optimization prerequisites <a href="/assets/pdf/2021OptPre.zip"> [zip]</a></li> 
 
+<li> QEM exams 2021 <a href="/assets/pdf/2021Exams.zip"> [zip]</a></li>
+
 <li> QEM exams 2020 <a href="/assets/pdf/2020Exams.zip"> [zip]</a></li>
 
 <li> QEM midterms 2019 <a href="/assets/pdf/2019Midterms.zip"> [zip]</a></li>

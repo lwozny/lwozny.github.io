@@ -39,6 +39,9 @@ description: Co-organized conferences / Conference talks / Invited talks
 <p>
 <ul>	
 
+<li> <b> Time, Uncertainties and Strategies VIII</b>, Paris, France, 2022<br />
+paper: <i>  Local versions of Tarski’s theorem for correspondences</i>.</li>
+
 <li> <b> 8th Hurwicz Workshop</b>, Warsaw, Poland, 2022 <br />
 paper: <i> Intergenerational altruism and time consistency</i>.
 </li>

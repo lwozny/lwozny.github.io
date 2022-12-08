@@ -1258,7 +1258,7 @@ equilibrium comparative statics in the model’s deep parameters.</p>
     
     
     
-      <br>[IF2015 1.137, 25p MNiSW]
+      <br>[IF2015 0.344, 25p MNiSW]
     
     </span>
   

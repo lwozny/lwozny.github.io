@@ -115,6 +115,8 @@ method characterizing non-stationary Markov perfect equilibrium policies.</p>
   
 </div>
 </li>
+</ol>
+
 
 <h3 class="year">2022</h3>
 <ol class="bibliography">

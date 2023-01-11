@@ -6,81 +6,9 @@ description: Publications by years in reversed chronological order.
 years: [2019, 1956, 1950, 1935, 1905]
 ---
 
-<h3 class="year">2022</h3>
+<h3 class="year">2023</h3>
 <ol class="bibliography">
-<li>
 
-
-<div id="JET2022">
-  
-    <span class="title">Time consistent equilibria in dynamic models with recursive payoffs and behavioral discounting</span>
-    <span class="author">
-      
-        
-          
-            
-              
-                <a href="https://ideas.repec.org/f/pba1023.html" target="_blank">Balbus, Łukasz</a>, 
-              
-            
-          
-        
-      
-        
-          
-            
-              
-                <a href="http://kevin-reffett.com/" target="_blank">Reffett, Kevin</a>, 
-              
-            
-          
-        
-      
-        
-          
-            
-              and <em>Wozny, Łukasz</em>
-            
-          
-        
-      
-    </span>
-
-    <span class="periodical">
-    
-      <em>Journal of Economic Theory</em>
-    
-    vol. 204, p. 105493, 2022. 
-     
-      <br>[IF2021 1.790, 200p MEiN]
-    
-    </span>
-  
-
-  <span class="links">
-  
-    [<a class="abstract">Abs</a>]
-  
-  
-    [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022053122000837" target="_blank">HTML</a>]
-  
-  
-    [<a href="/assets/pdf/BehavioralDiscounting.pdf" target="_blank">PDF</a>]
-  
-  
-  
-  
-  
-  </span>
-
-  <!-- Hidden abstract block -->
-  
-  <span class="abstract hidden">
-    <p>We prove existence of time consistent equilibria in a wide class of dynamic models with recursive payoffs and generalized discounting involving both behavioral and normative applications. Our generalized Bellman equation method identifies and separates both: recursive and strategic aspects of the equilibrium problem and allows to precisely determine the sufficient assumptions on a stochastic transition to establish existence. In particular we show existence of minimal state space stationary Markov equilibrium (a time-consistent solution) in a deterministic model of consumption-saving with beta-delta discounting and its generalized versions involving magnitude effects, non-additive payoffs, semi-hyperbolic or hyperbolic discounting (over possibly unbounded state and unbounded above reward space). We also provide an equilibrium approximation method for a hyperbolic discounting model.</p>
-  </span>
-  
-</div>
-</li>
 <li>
 
 <div id="Oxford2022">
@@ -187,6 +115,83 @@ method characterizing non-stationary Markov perfect equilibrium policies.</p>
   
 </div>
 </li>
+
+<h3 class="year">2022</h3>
+<ol class="bibliography">
+<li>
+
+
+<div id="JET2022">
+  
+    <span class="title">Time consistent equilibria in dynamic models with recursive payoffs and behavioral discounting</span>
+    <span class="author">
+      
+        
+          
+            
+              
+                <a href="https://ideas.repec.org/f/pba1023.html" target="_blank">Balbus, Łukasz</a>, 
+              
+            
+          
+        
+      
+        
+          
+            
+              
+                <a href="http://kevin-reffett.com/" target="_blank">Reffett, Kevin</a>, 
+              
+            
+          
+        
+      
+        
+          
+            
+              and <em>Wozny, Łukasz</em>
+            
+          
+        
+      
+    </span>
+
+    <span class="periodical">
+    
+      <em>Journal of Economic Theory</em>
+    
+    vol. 204, p. 105493, 2022. 
+     
+      <br>[IF2021 1.790, 200p MEiN]
+    
+    </span>
+  
+
+  <span class="links">
+  
+    [<a class="abstract">Abs</a>]
+  
+  
+    [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022053122000837" target="_blank">HTML</a>]
+  
+  
+    [<a href="/assets/pdf/BehavioralDiscounting.pdf" target="_blank">PDF</a>]
+  
+  
+  
+  
+  
+  </span>
+
+  <!-- Hidden abstract block -->
+  
+  <span class="abstract hidden">
+    <p>We prove existence of time consistent equilibria in a wide class of dynamic models with recursive payoffs and generalized discounting involving both behavioral and normative applications. Our generalized Bellman equation method identifies and separates both: recursive and strategic aspects of the equilibrium problem and allows to precisely determine the sufficient assumptions on a stochastic transition to establish existence. In particular we show existence of minimal state space stationary Markov equilibrium (a time-consistent solution) in a deterministic model of consumption-saving with beta-delta discounting and its generalized versions involving magnitude effects, non-additive payoffs, semi-hyperbolic or hyperbolic discounting (over possibly unbounded state and unbounded above reward space). We also provide an equilibrium approximation method for a hyperbolic discounting model.</p>
+  </span>
+  
+</div>
+</li>
+
 
 <li>
 

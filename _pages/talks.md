@@ -229,6 +229,8 @@ paper: <i> Strategic interactions in human capital accumulation</i>.  </li>
 <p>
 <ul>
 
+<li> Economic Seminar<b>, University of Wisconsin-Madison,</b> <br /> paper: <i> Dynastic preferences, recursive utility and time consistency<i> </i>, Madison, WI, US 2023.</li>
+
 <li> One World Mathematical Game Theory Seminar<b>, GAMENET,</b> <br /> paper: <i> Time consistent equilibria in dynamic models with recursive payoffs and behavioral discounting</i>, <a href="https://www.youtube.com/watch?v=St32CG27nAI"> online</a>, 2021.</li>
 
 <li> Seminarium na Wydziale Matematyki, Informatyki i Mechaniki,<b> Uniwersytet Warszawski,</b> <br /> paper: <i>Time consistent equilibria in dynamic models with recursive payoffs and behavioral discounting </i>, Warszawa, 2020.</li>

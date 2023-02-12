@@ -25,6 +25,8 @@ Download my latest CV, 2021,<a href="/assets/pdf/cv.pdf">CV</a>
 <p>
 <ul>  
 
+<li> Feb 2023 - Short research visit, Department of Economics, University of Wisconsin, Madison and Department of Economics, Arizona State University, USA</li>
+
 <li> Feb 2020 - Short research visit, Department of Economics University of Minnesota and Department of Economics, Arizona State University, USA</li>
 
 <li> Feb 2019 - Short research visit, Department of Economics, Ca' Foscari, Venice, Italy</li>

@@ -20,7 +20,7 @@ years: [2019, 1956, 1950, 1935, 1905]
           
             
               
-                <a href="https://ideas.repec.org/f/pba1023.html" target="_blank">Balbus, Łukasz</a>, 
+                <a href="https://lbalbus.github.io/Start/" target="_blank">Balbus, Łukasz</a>, 
               
             
           

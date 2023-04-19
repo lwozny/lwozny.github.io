@@ -10,6 +10,8 @@ description: Co-organized conferences / Conference talks / Invited talks
 <p>
 <ul>
 
+<li> XXXI European Workshop in Economic Theory, EWET, Naples, Italy, 2023, <a href="https://www.mathematical-economics-naples.eu/"> [link]</a>. Scientific Committee</li>
+
 <li> 8th Hurwicz Workshop, Warsaw, PL, Nov 4-5, 2022, <a href="https://sites.google.com/view/hurwicz2022"> [link]</a> Organizing and Scientific Committee.</li>
 
 <li> XXX European Workshop in Economic Theory, EWET, Warsaw, PL, 2022, <a href="https://sites.google.com/view/ewet2022/"> [link]</a> Organizing and Scientific Committee.</li>
@@ -24,7 +26,7 @@ description: Co-organized conferences / Conference talks / Invited talks
 
 <li> XXIVth European Workshop on General Equilibrium Theory, Naples, Italy, 2015, <a href="http://www.mathematical-economics-naples.org/"> [link]</a>. Scientific Committee</li>
 
-<li> 5th Hurwicz Workshop, Warsaw, PL, 2014, <a href="http://bcc.impan.pl/14VHurwicz/"> [link]</a>Organizing and Scientific Committee. </li>
+<li> 5th Hurwicz Workshop, Warsaw, PL, 2014, <a href="http://bcc.impan.pl/14VHurwicz/"> [link]</a> Organizing and Scientific Committee. </li>
 
 <li> 25 Years of the Poland's transition to a Market Economy, Warsaw, PL, 2014, <a href="http://25yearsoftransformation.pl/"> [link]</a> Organizing  Committee. </li>
 
@@ -38,6 +40,15 @@ description: Co-organized conferences / Conference talks / Invited talks
 
 <p>
 <ul>	
+
+<li> (22nd Conference of) <b> Society for Advancement in Economic Theory</b>, Paris, France, 2023 <br />
+session co-organizer & chair: <i> New Methods for Dynamic Economies: 1 & 2 </i> <br />
+paper: <i>  Iterative monotone comparative statics</i>.
+</li>
+
+<li> XXIX <b> Europen Workshop on Economic Theory</b>, Naples, Italy, 2023 <br />
+paper: <i>  Interim Correlated Rationalizability in Large Games</i>.</li>
+
 
 <li> <b> Time, Uncertainties and Strategies VIII</b>, Paris, France, 2022<br />
 paper: <i>  Global version of Tarski-Kantorovich theorem for correspondences and iterative monotone comparative statics</i>.</li>

@@ -49,6 +49,8 @@ paper: <i>  Iterative monotone comparative statics</i>.
 <li> XXIX <b> Europen Workshop on Economic Theory</b>, Naples, Italy, 2023 <br />
 paper: <i>  Interim Correlated Rationalizability in Large Games</i>.</li>
 
+<li> 11th <b> Summer Workshop on Macroeconomics and Finance</b>, Warsaw, Poland, 2023 <br />
+paper: <i>  Dynastic preferences, recursive utility and time consistency</i>.</li>
 
 <li> <b> Time, Uncertainties and Strategies VIII</b>, Paris, France, 2022<br />
 paper: <i>  Global version of Tarski-Kantorovich theorem for correspondences and iterative monotone comparative statics</i>.</li>

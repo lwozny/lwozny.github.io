@@ -41,6 +41,9 @@ description: Co-organized conferences / Conference talks / Invited talks
 <p>
 <ul>	
 
+<li> <b> Spanish-Polish Mathematical Meeting</b>, Lodz, Poland, 2023 <br />
+paper: <i> A Tarski-Kantorovich Theorem for Correspondences </i>.</li>
+
 <li> (22nd Conference of) <b> Society for Advancement in Economic Theory</b>, Paris, France, 2023 <br />
 session co-organizer & chair: <i> New Methods for Dynamic Economies: 1 & 2 </i> <br />
 paper: <i>  Iterative monotone comparative statics</i>.

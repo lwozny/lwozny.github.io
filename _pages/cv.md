@@ -25,6 +25,8 @@ Download my latest CV, 2023,<a href="/assets/pdf/cv.pdf">CV</a>
 <p>
 <ul>  
 
+<li> 2023/24  (1 month) - Visiting Professor, Adam Smith Business School, University of Glasgow, UK</li>
+
 <li> March 2023 - Short research visit, Department of Economics, University of Sussex, Brighton, UK</li>
 
 <li> Feb 2023 - Short research visit, Department of Economics, University of Wisconsin, Madison and Department of Economics, Arizona State University, USA</li>

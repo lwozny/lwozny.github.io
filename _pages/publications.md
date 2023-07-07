@@ -164,7 +164,7 @@ method characterizing non-stationary Markov perfect equilibrium policies.</p>
     
     vol. 204, p. 105493, 2022. 
      
-      <br>[IF2021 1.790, 200p MEiN]
+      <br>[IF2022 1.6, 200p MEiN]
     
     </span>
   
@@ -227,7 +227,7 @@ method characterizing non-stationary Markov perfect equilibrium policies.</p>
       vol. 108, p. 102653, 2022
     
     
-      <br>[IF2020 2.223, 100p MEiN2021]
+      <br>[IF2022 1.8, 100p MEiN2021]
     
     </span>
   
@@ -306,7 +306,7 @@ method characterizing non-stationary Markov perfect equilibrium policies.</p>
     
 	vol. 17 No. 2, p. 725–762, 2022.    
     
-      <br>[IF2020 1.313, 140p MEiN2021]
+      <br>[IF2022 1.671, 140p MEiN2021]
     
     </span>
   

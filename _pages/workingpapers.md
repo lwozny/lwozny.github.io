@@ -21,15 +21,11 @@ in A.  Our results, hence, prove a generalization of the Tarski-Kantorovich prin
 <hr />
 
 
-<h4 id=""><a href="/assets/pdf/BORW.pdf">Iterative monotone comparative statics</a>, 2022 <br /> (joint with Lukasz Balbus and Wojciech Olszewski and Kevin Reffett)</h4>
+<h4 id=""><a href="/assets/pdf/BORW.pdf">Iterative monotone comparative statics</a>, 2023 <br /> (joint with Lukasz Balbus and Wojciech Olszewski and Kevin Reffett)</h4>
 
 <p>
-For an increasing upper order hemi-continuous correspondence F selfmapping sigma-complete lattice A, we first provide tight fixed-point bounds for sufficiently large
-iterations on F starting from any initial point a in A. We use this result for conducting iterative fixed-point comparative statics, and
-then apply our results to monotone games and economies. For games of strategic
-complementarities, we improve the correspondence principle based results of Echenique (2002) by allowing for divergent learning processes, unstable
-fixed points, equilibrium indeterminacies, and unordered perturbations. We also apply our results to the comparative statics of stationary equilibria in large economies and the set of recursive equilibria in macroeconomic models with indeterminacies.
-<hr />
+We propose a novel approach to equilibrium comparative statics in economic environments where complementarities play a critical role, including
+environments in which the existing methods for obtaining monotone comparative statics appear inadequate. Our approach is dynamic and, methodologically, in the spirit of the celebrated ''correspondence principle'', a concept first presented in the work of Samuelson (1947). It applies even to: (a) environments with a continuum of equilibria (b) environments in which all equilibria are unstable; and (c) chaotic environments, in which adaptive learning sequences may not converge. Finally, our propositions extend several previously existing results.<hr />
 
 
 <h4 id=""><a href="/assets/pdf/TimeConsistentAltruism.pdf">Intergenerational altruism and time consistency</a>, 2021 <br /> (joint with Lukasz Balbus and Kevin Reffett)</h4>

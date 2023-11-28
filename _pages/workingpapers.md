@@ -27,14 +27,12 @@ in A.  Our results, hence, prove a generalization of the Tarski-Kantorovich prin
 <hr />
 
 
-<h4 id=""><a href="/assets/pdf/TimeConsistentAltruism.pdf">Intergenerational altruism and time consistency</a>, 2021 <br /> (joint with Lukasz Balbus and Kevin Reffett)</h4>
+<h4 id=""><a href="/assets/pdf/TimeConsistentAltruism.pdf">Dynastic preferences, recursive utility and time consistency</a>, 2023 <br /> (joint with Lukasz Balbus and Kevin Reffett)</h4>
 
 <p>
-We consider a class of infinite horizon, stochastic, non-stationary dynastic consumption-savings models with a general forms of recursive, time-
-varying altruistic preferences including direct and indirect pure altruism as well as paternalistic altruism.
+We consider a class of infinite horizon, stochastic, non-stationary dynastic consumption-savings models with a general forms of recursive, time-varying altruistic preferences including direct and indirect pure altruism as well as paternalistic altruism.
 It is well-known such models lead to time-inconsistent dynastic preferences.
-Within this class of economies, we propose a novel set-iterative procedure for characterizing all Markov perfect time-consistent solutions in the space of increasing investments.
-Our approach involves both: value functions and policy iterations. We prove existence of Markov Perfect equilibria in stationary, periodic and also
+Within this class of economies, we propose a novel set-iterative procedure for characterizing all Markov perfect time-consistent solutions in the space of increasing investments. Our approach involves both: value functions and policy iterations. We prove existence of Markov Perfect equilibria in stationary, periodic and also
 non-stationary strategies. We provide numerous applications to altruistic growth models, behavioral discounting models and collective household
 models and also discuss the role of various certainty equivalence operators.
 <hr />

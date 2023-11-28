@@ -49,7 +49,7 @@ years: [2019, 1956, 1950, 1935, 1905]
     <span class="periodical">
     
       <em>Oxford Research Encyclopedia of Economics and Finance</em>,
-    forthcoming,    
+    Nov 2023,    
     
       Oxford University Press
    
@@ -65,7 +65,7 @@ years: [2019, 1956, 1950, 1935, 1905]
     [<a class="abstract">Abs</a>]
   
   
-    [<a href="https://oxfordre.com/economics" target="_blank">HTML</a>]
+    [<a href="https://doi.org/10.1093/acrefore/9780190625979.013.851" target="_blank">HTML</a>]
   
   
     [<a href="/assets/pdf/OxfordChapter.pdf" target="_blank">PDF</a>]
@@ -80,37 +80,17 @@ years: [2019, 1956, 1950, 1935, 1905]
   
   <span class="abstract hidden">
     <p>
-Since the seminal paper of Strotz (1956), the study of dynamic choice
-for agents with dynamically inconsistent preferences has been the focal point
-of much work in behavioral economics. Experimental and empirical literatures
-both point to the importance of such models that allow for various forms of
-present-bias. This includes research in such diverse areas as
-consumption/savings models, dynastic choice with altruism, normative models of
-distributive justice with intergenerational conflict, social discounting and
-environmental cost-benefit models, dynamic collective household models, among others.
+In dynamic choice models, dynamic inconsistency of preferences is a situation in which a decision-maker’s preferences change over time. Optimal plans under such preferences are time inconsistent if a decision-maker has no incentive to follow in the future the (previously chosen) optimal plan. A typical example of dynamic inconsistency is the case of present bias preferences, where there is a repeated preference toward smaller present rewards versus larger future rewards.
 
-These models often lead to time-inconsistency of the optimal solution. That
-is: optimal plans, under such preferences over time, are time-inconsistent and
-decision maker has no incentive to follow the optimal plan in the future. Out
-of many interesting problems economists have studied, the question of design
-and computation of optimal among time consistent plans (so the one that will
-be actually followed) has received a great attention in economic literature.
-This also includes important from behavioral but also numerical perspective
-short memory decision rules, like Markov or semi-Markov ones.
+The study of dynamic choice of decision-makers who possess dynamically inconsistent preferences has long been the focal point of much work in behavioral economics. Experimental and empirical literatures both point to the importance of various forms of present-bias. The canonical model of dynamically inconsistent preferences exhibiting present-bias is a model of quasi-hyperbolic discounting. A quasi-hyperbolic discounting model is a dynamic choice model, in which the standard exponential discounting is modified by adding an impatience parameter that additionally discounts the immediately succeeding period.
 
-We present results on the existence, uniqueness, and
-characterization of Time Consistent Policies (TCPs) as Stationary Markov
-Perfect Equilibria (SMPE) in a class of consumption-savings problems with
-quasi-hyperbolic discounting, as well as some of their extensions. In doing
-so, we develop a powerful generalized Bellman equation operator
-approach that facilitates the construction of TCPs. We also give sufficient
-conditions for the validity of the first order approach to characterizing
-equilibrium policies via generalized Euler equation, discuss the
-existence of monotone comparative statics in interesting deep parameters of
-the decision environment. We then present generalizations of our results
-allowing to cover unbounded returns, general certainty equivalents and
-multi-dimensional states. We conclude by presenting a general self-generation
-method characterizing non-stationary Markov perfect equilibrium policies.</p>
+A central problem with the analytical study of decision-makers who possess dynamically inconsistent preferences is how to model their choices in sequential decision problems. One general answer to this problem is to characterize and compute (if they exist) constrained optimal plans that are optimal among the set of time consistent sequential plans. Time consistent plans are those among the set of feasible plans that will actually be followed, or not reoptimized, by agents whose preferences change over time. These are called time consistent plans or policies (TCPs).
+
+Many results of the existence, uniqueness, and characterization of stationary, or time invariant, TCPs in a class of consumption-savings problems with quasi-hyperbolic discounting, as well as provide some discussion of how to compute TCPs in some extensions of the model are presented, and the role of the generalized Bellman equation operator approach is central. This approach provides sufficient conditions for the existence of time consistent solutions and facilitates their computation.
+
+Importantly, the generalized Bellman approach can also be related to a common first-order approach in the literature known as the generalized Euler equation approach. By constructing sufficient conditions for continuously differentiable TCPs on the primitives of the model, sufficient conditions under which a generalized Euler equation approach is valid can be provided.
+
+There are other important facets of TCP, including sufficient conditions for the existence of monotone comparative statics in interesting parameters of the decision environment, as well as generalizations of the generalized Bellman approach to allow for unbounded returns and general certainty equivalents. In addition, the case of multidimensional state space, as well as a general self generation method for characterizing nonstationary TCPs must be considered as well..</p>
   </span>
   
 </div>

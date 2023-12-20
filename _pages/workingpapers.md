@@ -22,7 +22,7 @@ Over the last few years, ranking lists of academic journals have become one of t
 
 <p>
 For a strong set order increasing (resp., strongly increasing) upper order hemicontinuous correspondence mapping a complete lattice A into itself
-(resp., a σ-complete lattice into itself), we provide conditions for tight fixed-point bounds for sufficiently large iterations starting from any initial point
+(resp., a sigma-complete lattice into itself), we provide conditions for tight fixed-point bounds for sufficiently large iterations starting from any initial point
 in A.  Our results, hence, prove a generalization of the Tarski-Kantorovich principle. We provide an application of our results to a class of social learning models on networks.
 <hr />
 

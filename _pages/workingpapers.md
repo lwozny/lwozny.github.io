@@ -18,7 +18,7 @@ environments in which the existing methods for obtaining monotone comparative st
 Over the last few years, ranking lists of academic journals have become one of the key indicators for evaluating individual researchers, departments and universities. How to optimally design such rankings? What can we learn from commonly used journal ranking lists? To answer these questions, we propose a simple model of optimal rewards for publication in academic journals. Based on a principal-agent model with researchers' hidden abilities, we characterize the second-best journal reward system, where all available journals are assigned to one of several categories or ranks. We provide a tractable example that has a closed-form solution and allows numerical applications. Finally, we show how to calibrate the distribution of researchers' ability levels from the observed journal ranking schemes.
 <hr />
 
-<h4 id=""><a href="/assets/pdf/JETNoteOctober2022.pdf">A Tarski-Kantorovich theorem for correspondences</a>, 2023 <br /> (joint with Lukasz Balbus and Wojciech Olszewski and Kevin Reffett)</h4>
+<h4 id=""><a href="/assets/pdf/Tarski.pdf">A Tarski-Kantorovich theorem for correspondences</a>, 2023 <br /> (joint with Lukasz Balbus and Wojciech Olszewski and Kevin Reffett)</h4>
 
 <p>
 For a strong set order increasing (resp., strongly monotone) upper order hemicontinuous correspondence mapping a complete lattice A into itself

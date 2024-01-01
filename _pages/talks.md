@@ -41,6 +41,11 @@ description: Co-organized conferences / Conference talks / Invited talks
 <p>
 <ul>	
 
+<li> (23rd Conference of) <b> Society for Advancement in Economic Theory</b>, Santiago, Chile, 2024 <br />
+session co-organizer & chair: <i> New Methods for Dynamic Economies </i> <br />
+paper: <i>  Monotone Recursive Equilibrium Implicit Programming for Stochastic OLG Economies</i>.
+</li>
+
 <li> <b> Spanish-Polish Mathematical Meeting</b>, Lodz, Poland, 2023 <br />
 paper: <i> A Tarski-Kantorovich Theorem for Correspondences</i>.</li>
 

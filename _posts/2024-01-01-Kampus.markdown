@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Naukąt SGH w radiu Kampus
+title:  Naukąt SGH w Radiu Kampus
 date:   2024-01-01 16:40:16
 description: Audycje o tematyce ekonomicznej w Radiu Kampus
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  SGcHat: Po Prostu Ekonomia
+title:  SGcHat Po Prostu Ekonomia
 date:   2024-03-27 21:47:00
 description: Seria podcastow o tematyce ekonomicznej, które współprowadzę z prof. Igą Magdą na SGH
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  Naukąt SGH w Radiu Kampus
 date:   2024-01-01 16:40:16
-description: Audycje o tematyce ekonomicznej w Radiu Kampus
+description: Audycje o tematyce ekonomicznej w Radiu Kampus, które współkoordynuje
 ---
 
 Nobel z ekonomii, czyli jak wygląda sytuacja kobiet na rynku pracy (prof. Iga Magda) [Youtube](https://youtu.be/AKr5lw1BK0M?feature=shared)

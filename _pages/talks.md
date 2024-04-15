@@ -8,7 +8,9 @@ description: Co-organized conferences / Conference talks / Invited talks
 <h4><a name="coconf">Co-organized conferences</a></h4>
 
 <p>
-<ul>
+<ul>	
+
+<li> XXXII European Workshop in Economic Theory, EWET, Manchester, UK, 2024, <a href="https://sites.google.com/view/ewet2024/welcome"> [link]</a>. Scientific Committee</li>
 
 <li> XXXI European Workshop in Economic Theory, EWET, Naples, Italy, 2023, <a href="https://www.mathematical-economics-naples.eu/"> [link]</a>. Scientific Committee</li>
 
@@ -41,6 +43,12 @@ description: Co-organized conferences / Conference talks / Invited talks
 <p>
 <ul>	
 
+<li> International Conference on Public Economic Theory<b>, PET24 </b>, Lyon, France 2024 <br />
+paper: <i>  Interim Correlated Rationalizability in Large Games</i>.</li>
+
+<li> XXXII <b> Europen Workshop on Economic Theory</b>, Manchester, UK, 2024 <br />
+paper: <i>  Recursive Equilibria in Stochastic Heterogenous Agents OLG Economies</i>.
+
 <li> (23rd Conference of) <b> Society for Advancement in Economic Theory</b>, Santiago, Chile, 2024 <br />
 session co-organizer & chair: <i> New Methods for Dynamic Economies </i> <br />
 paper: <i>  Monotone Recursive Equilibrium Implicit Programming for Stochastic OLG Economies</i>.
@@ -54,7 +62,7 @@ session co-organizer & chair: <i> New Methods for Dynamic Economies: 1 & 2 </i> 
 paper: <i>  Iterative monotone comparative statics</i>.
 </li>
 
-<li> XXIX <b> Europen Workshop on Economic Theory</b>, Naples, Italy, 2023 <br />
+<li> XXXI <b> Europen Workshop on Economic Theory</b>, Naples, Italy, 2023 <br />
 paper: <i>  Interim Correlated Rationalizability in Large Games</i>.</li>
 
 <li> 11th <b> Summer Workshop on Macroeconomics and Finance</b>, Warsaw, Poland, 2023 <br />

@@ -43,6 +43,12 @@ description: Co-organized conferences / Conference talks / Invited talks
 <p>
 <ul>	
 
+<li> <b> Summer Workshop in Economic Theory</b>, Venice, Italy, 2024 <br />
+paper: <i>  Interim Correlated Rationalizability in Large Games</i>.</li>
+
+<li> 12th <b> Summer Workshop on Macroeconomics and Finance</b>, Warsaw, Poland, 2024 <br />
+paper: <i>  Recursive Equilibria in Stochastic Heterogenous Agents OLG Economies</i>.
+
 <li> International Conference on Public Economic Theory<b>, PET24 </b>, Lyon, France 2024 <br />
 paper: <i>  Interim Correlated Rationalizability in Large Games</i>.</li>
 

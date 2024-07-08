@@ -52,7 +52,9 @@ Download my latest CV, 2023,<a href="/assets/pdf/cv.pdf">CV</a>
 <p>
 <ul>  
 
-<li> since Sept 2017 - Associate Professor, Department of Quantitative Economics, SGH</li>
+<li> since July 2024 - Full Professor, Department of Quantitative Economics, SGH</li>
+
+<li> 2017 - 2024 - Associate Professor, Department of Quantitative Economics, SGH</li>
 
 <li> 2014 - 2017  - Assistant Professor, Department of Quantitative Economics, SGH</li>
 

@@ -6,6 +6,65 @@ description: Publications by years in reversed chronological order.
 years: [2019, 1956, 1950, 1935, 1905]
 ---
 
+<h3 class="year">2024</h3>
+<ol class="bibliography">
+
+<li>
+
+<div id="CharemzaLewandowskiWozny2024JOI">
+  
+    <span class="title">On journal rankings and researchers' abilities</span>
+    <span class="author">
+      
+        
+            <a href="https://scholar.google.pl/citations?user=bJzHPzoAAAAJ&hl=pl" target="_blank">Charemza, Wojciech</a>, 
+              
+            
+              
+                <a href="http://www.mlewandowski.waw.pl/" target="_blank">Lewandowski, Michał</a>, 
+              
+            
+  
+            
+              and <em>Wozny, Łukasz</em>
+            
+          
+        
+      
+    </span>
+
+    <span class="periodical">
+    
+      <em>Journal of Informetrics</em>
+    
+    
+      in print, 2024
+    
+    
+      <br>[IF2023 3.4, 140p MEiN2024]
+    
+    </span>
+  
+
+  <span class="links">
+  
+    [<a class="abstract">Abs</a>]
+  
+  
+    [<a href="/assets/pdf/Punktoza_theory.pdf" target="_blank">PDF</a>]
+
+    </span>
+
+  <!-- Hidden abstract block -->
+  
+  <span class="abstract hidden">
+    <p>Over the last few years, ranking lists of academic journals have become one of the key indicators for evaluating individual researchers, departments and universities. How to optimally design such rankings? What can we learn from commonly used journal ranking lists? To answer these questions, we propose a simple model of optimal rewards for publication in academic journals. Based on a principal-agent model with researchers' hidden abilities, we characterize the second-best journal reward system, where all available journals are assigned to one of several categories or ranks. We provide a tractable example that has a closed-form solution and allows numerical applications. Finally, we show how to calibrate the distribution of researchers' ability levels from the observed journal ranking schemes. </p>
+</span>
+  
+</div>
+</li>
+
+
 <h3 class="year">2023</h3>
 <ol class="bibliography">
 

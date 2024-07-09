@@ -5,23 +5,13 @@ permalink: /working papers/
 description: working papers and some older stuff
 ---
 
-<h4 id=""><a href="/assets/pdf/Punktoza_theory.pdf">On journal rankings and researchers' abilities</a>, 2024 (joint with Wojciech Charemza and Michal Lewandowski)</h4>
-
-<p>
-Over the last few years, ranking lists of academic journals have become one of the key indicators for evaluating individual researchers, departments and universities. How to optimally design such rankings? What can we learn from commonly used journal ranking lists? To answer these questions, we propose a simple model of optimal rewards for publication in academic journals. Based on a principal-agent model with researchers' hidden abilities, we characterize the second-best journal reward system, where all available journals are assigned to one of several categories or ranks. We provide a tractable example that has a closed-form solution and allows numerical applications. Finally, we show how to calibrate the distribution of researchers' ability levels from the observed journal ranking schemes.
-<hr />
-
-<h4 id="interim-correlated-rationalizability-in-large-games-2020--joint-with-lukasz-balbus-michael-greinecker-and-kevin-reffett">Interim correlated rationalizability in large games, 2024 <br /> (joint with Lukasz Balbus, Michael Greinecker and Kevin Reffett)</h4>
-
-<p>In this paper we provide general theoretical foundations for modeling strategic uncertainty in large distributional Bayesian games with general type spaces (with aggregate uncertainty) in terms of a version of interim correlated rationalizability. We then focus on the case that payoff functions are supermodular in actions as in much literature on global games. This allows us to identify extremal interim correlated rationalizable solutions with extremal interim Bayes-Nash equilibria. No order structure on types is used. We prove the existence of a universal type space. We provide an example of a large version of the email game and an application to large global games without common prior.</p>
-
-<hr />
 
 <h4 id=""><a href="/assets/pdf/BORW.pdf">Iterative monotone comparative statics</a>, 2023 <br /> (joint with Lukasz Balbus and Wojciech Olszewski and Kevin Reffett)</h4>
 
 <p>
 We propose a novel approach to equilibrium comparative statics in economic environments where complementarities play a critical role, including
 environments in which the existing methods for obtaining monotone comparative statics appear inadequate. Our approach is dynamic and, methodologically, in the spirit of the celebrated ''correspondence principle'', a concept first presented in the work of Samuelson (1947). It applies even to: (a) environments with a continuum of equilibria (b) environments in which all equilibria are unstable; and (c) chaotic environments, in which adaptive learning sequences may not converge. Finally, our propositions extend several previously existing results.<hr />
+
 
 <h4 id=""><a href="/assets/pdf/Tarski.pdf">A Tarski-Kantorovich theorem for correspondences</a>, 2023 <br /> (joint with Lukasz Balbus and Wojciech Olszewski and Kevin Reffett)</h4>
 
@@ -31,6 +21,11 @@ For a strong set order increasing (resp., strongly increasing) upper order hemic
 in A.  Our results, hence, prove a generalization of the Tarski-Kantorovich principle. We provide an application of our results to a class of social learning models on networks.
 <hr />
 
+<h4 id="interim-correlated-rationalizability-in-large-games-2020--joint-with-lukasz-balbus-michael-greinecker-and-kevin-reffett">Interim correlated rationalizability in large games, 2024 <br /> (joint with Lukasz Balbus, Michael Greinecker and Kevin Reffett)</h4>
+
+<p>In this paper we provide general theoretical foundations for modeling strategic uncertainty in large distributional Bayesian games with general type spaces (with aggregate uncertainty) in terms of a version of interim correlated rationalizability. We then focus on the case that payoff functions are supermodular in actions as in much literature on global games. This allows us to identify extremal interim correlated rationalizable solutions with extremal interim Bayes-Nash equilibria. No order structure on types is used. We prove the existence of a universal type space. We provide an example of a large version of the email game and an application to large global games without common prior.</p>
+
+<hr />
 
 <h4 id=""><a href="/assets/pdf/TimeConsistentAltruism.pdf">Dynastic preferences, recursive utility and time consistency</a>, 2023 <br /> (joint with Lukasz Balbus and Kevin Reffett)</h4>
 

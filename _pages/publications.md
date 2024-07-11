@@ -21,7 +21,7 @@ years: [2019, 1956, 1950, 1935, 1905]
               
             
               
-                <a href="http://www.mlewandowski.waw.pl/" target="_blank">Lewandowski, Michał</a>, 
+                <a href="https://scholar.google.com/citations?user=c4VTqNsAAAAJ&hl=pl" target="_blank">Lewandowski, Michał</a>, 
               
             
   
@@ -247,7 +247,7 @@ There are other important facets of TCP, including sufficient conditions for the
           
             
               
-                <a href="http://www.mlewandowski.waw.pl/" target="_blank">Lewandowski, Michał</a>, 
+                <a href="https://scholar.google.com/citations?user=c4VTqNsAAAAJ&hl=pl" target="_blank">Lewandowski, Michał</a>, 
               
             
   

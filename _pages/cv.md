@@ -70,6 +70,8 @@ Download my latest CV, 2023,<a href="/assets/pdf/cv.pdf">CV</a>
 <p>
 <ul>  
 
+<li> 2024 - Full Professor </li>
+
 <li> 2017 - Habilitation degree</li>
 
 <li> 2008 - Ph.D. defence, <i>Strategic interactions in public good games</i>, Warsaw School of Economics</li>

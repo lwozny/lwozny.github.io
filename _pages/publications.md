@@ -56,6 +56,8 @@ years: [2019, 1956, 1950, 1935, 1905]
 
     [<a href="/assets/pdf/JOI.pdf" target="_blank">PDF</a>]
 
+	[<a href="https://ars.els-cdn.com/content/image/1-s2.0-S1751157724000725-mmc1.pdf" target="_blank">Online Appendix</a>]
+
     </span>
 
   <!-- Hidden abstract block -->

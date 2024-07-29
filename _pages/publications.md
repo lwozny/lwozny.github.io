@@ -50,8 +50,11 @@ years: [2019, 1956, 1950, 1935, 1905]
   
     [<a class="abstract">Abs</a>]
   
-  
-    [<a href="/assets/pdf/Punktoza_theory.pdf" target="_blank">PDF</a>]
+
+    [<a href="https://doi.org/10.1016/j.joi.2024.101559">HTML</a>]
+    
+
+    [<a href="/assets/pdf/JOI.pdf" target="_blank">PDF</a>]
 
     </span>
 

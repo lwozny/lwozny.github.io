@@ -38,7 +38,7 @@ years: [2019, 1956, 1950, 1935, 1905]
       <em>Journal of Informetrics</em>
     
     
-      in print, 2024
+      vol. 18, Issue 3, 101559, 2024.
     
     
       <br>[IF2023 3.4, 140p MEiN2024]

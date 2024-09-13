@@ -5,6 +5,17 @@ title: talks
 description: Co-organized conferences / Conference talks / Invited talks 
 ---
 
+<h4><a name="podcasts">Podcasts</a></h4>
+
+<p>
+<ul>	
+
+<li> Podcast GRAPE o niespójności czasowej decyzji [Spotify](https://open.spotify.com/episode/2XKicMYlhLlBcZ8cE91Eow?si=fc1f2d37a6a74423&nd=1&dlsi=43fecd3ab9a943c7) 
+[YouTube](https://www.youtube.com/watch?v=r9cio_P1EUc) [Apple](https://podcasts.apple.com/pl/podcast/podcast-kultury-liberalnej/id1540145568?l=pl&i=1000641571959) </li>
+
+<li> Więcej podcastów, które współprowadzę: <a href="https://lwozny.github.io/blog/">[Link]</a>
+</ul>
+</p>
 <h4><a name="coconf">Co-organized conferences</a></h4>
 
 <p>

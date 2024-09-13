@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-01-15 15:59:00-0400
+date: 2018-01-15 15:59:00-0400
 inline: true
 ---
 Podcast GRAPE o niespojnosci czasowej decyzji [Spotify](https://open.spotify.com/episode/2XKicMYlhLlBcZ8cE91Eow?si=fc1f2d37a6a74423&nd=1&dlsi=43fecd3ab9a943c7) 

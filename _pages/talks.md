@@ -5,7 +5,7 @@ title: talks
 description: Co-organized conferences / Conference talks / Invited talks 
 ---
 
-<h4><a name="podcasts">Podcasts</a></h4>
+<h4><a name="podcasts">Podcasts (in Polish)</a></h4>
 
 <p>
 <ul>	

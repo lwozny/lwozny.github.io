@@ -5,6 +5,11 @@ permalink: /working papers/
 description: working papers and some older stuff
 ---
 
+<h4 id=""><a href="/assets/pdf/Lindhal.pdf">Lindhal meets Condorcet?</a>, 2024 <br /> (joint with Sayantan Ghosal)</h4>
+
+<p>
+Although a Condorcet winner commands a majority in its favor, there is no guarantee of unanimity. In a Lindahl equilibrium, a suitably chosen system of personalized transfers and prices ensures unanimity, but there is no guarantee of a majority vote in its favor. Do Lindahl equilibria decentralize Condorcet winners? In a setting where voters' preferences are satiated, characterized by bliss points, this paper proposes a new balancedness condition which is satisfied when a Condorcet winner lies within the interior of the convex hull of voters' bliss points. We show that such a political compromise between the most preferred policies of different voter types can be decentralized as Lindahl equilibria.<hr />
+
 
 <h4 id=""><a href="/assets/pdf/BORW.pdf">Iterative monotone comparative statics</a>, 2023 <br /> (joint with Lukasz Balbus and Wojciech Olszewski and Kevin Reffett)</h4>
 

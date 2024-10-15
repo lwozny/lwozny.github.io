@@ -273,7 +273,7 @@ paper: <i> Strategic interactions in human capital accumulation</i>.  </li>
 </p>
 
 <h4><a name="IT">Invited talks</a></h4>
-<p>
+
 <ul>
 
 <li> Economic Seminar<b>, University of Glasgow,</b> <br /> paper: <i> Dynastic preferences, recursive utility and time consistency</i>, Glasgow, UK 2024.</li>

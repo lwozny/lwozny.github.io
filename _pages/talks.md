@@ -269,7 +269,6 @@ paper: <i>Constructive Study of Markov Equilibria in Stochastic Games with Compl
 
 <li> <b> Macromodels</b>, Raszyn, 2007 <br />
 paper: <i> Strategic interactions in human capital accumulation</i>.  </li>
-
 </ul>
 </p>
 
@@ -322,7 +321,5 @@ paper: <i> Constructive Study of Markov Equilibria in Stochastic Games with Comp
 paper: <i> Computing time-consistent Markov policies for quasi-hyperbolic consumers under uncertainty</i>, Warszawa, 2011.</li>
 
 <li> <b> Naukowa Akademicka Siec Komputerowa, </b> <br /> paper: <i> Constructive Study of Markov Equilibria in Stochastic Games with Complementarities</i> Warszawa, 2010. </li>
-
-
 </ul>
 </p>

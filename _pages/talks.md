@@ -10,8 +10,11 @@ description: Co-organized conferences / Conference talks / Invited talks
 <p>
 <ul>	
 
+<li> Kiedy dogonimy ZACHÓD? - Stan polskiej nauki. Rozmowa z Bartkiem Urbaniakiem <a href="https://youtu.be/i1Z8jVgxz9c?si=D8EoVfe96MdWDkVJ"> [Youtube] </a> </li>
+
 <li> Podcast GRAPE o niespójności czasowej decyzji <a href="https://open.spotify.com/episode/2XKicMYlhLlBcZ8cE91Eow?si=fc1f2d37a6a74423&nd=1&dlsi=43fecd3ab9a943c7"> [Spotify] </a> 
-<a href="https://www.youtube.com/watch?v=r9cio_P1EUc) [Apple](https://podcasts.apple.com/pl/podcast/podcast-kultury-liberalnej/id1540145568?l=pl&i=1000641571959"> [YouTube] </a></li>
+<a href="https://www.youtube.com/watch?v=r9cio_P1EUc"> [YouTube] </a> 
+<a href="https://podcasts.apple.com/pl/podcast/podcast-kultury-liberalnej/id1540145568?l=pl&i=1000641571959"> [Apple]</a></li>
 
 <li> Więcej podcastów, które współprowadzę: <a href="https://lwozny.github.io/blog/">[Link]</a> </li>
 </ul>

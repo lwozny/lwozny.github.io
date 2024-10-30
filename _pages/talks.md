@@ -270,6 +270,10 @@ paper: <i>Constructive Study of Markov Equilibria in Stochastic Games with Compl
 <li> <b> Macromodels</b>, Raszyn, 2007 <br />
 paper: <i> Strategic interactions in human capital accumulation</i>.  </li>
 
+</ul>
+
+</p>
+
 <h4><a name="IT">Invited talks</a></h4>
 <p>
 <ul>

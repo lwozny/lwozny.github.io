@@ -278,6 +278,9 @@ paper: <i> Strategic interactions in human capital accumulation</i>.  </li>
 <p>
 <ul>
 
+<li> <b> Instytut Podstaw Informatyki Polskiej Akademii Nauk, Seminarium Zespolu Teorii Gier i Decyzji </b> <br /> 
+paper: <i> Interim correlated rationalizability in large games</i>, Warszawa, 2024.</li>
+
 <li> <b> Komitet Statystyki i Ekonometrii Polskiej Akademii Nauk,</b> <br /> referat: <i> O rankingach i miernikach jakosci czasopism. Kogo i do czego motywuja punkty za publikacje?</i>, Warszawa 2024.</li>
 
 <li> Economic Seminar<b>, University of Glasgow,</b> <br /> paper: <i> Dynastic preferences, recursive utility and time consistency</i>, Glasgow, UK 2024.</li>

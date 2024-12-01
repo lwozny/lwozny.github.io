@@ -21,7 +21,7 @@ environments in which the existing methods for obtaining monotone comparative st
 <h4 id=""><a href="/assets/pdf/Tarski.pdf">A Tarski-Kantorovich theorem for correspondences</a>, 2023 <br /> (joint with Lukasz Balbus and Wojciech Olszewski and Kevin Reffett)</h4>
 
 <p>
-For a strong set order increasing (resp., strongly increasing) upper order hemicontinuous correspondence mapping a complete lattice A into itself
+For a weakly monotone (resp., strongly monotone) upper order hemicontinuous correspondence mapping a complete lattice A into itself
 (resp., a sigma-complete lattice into itself), we provide conditions for tight fixed-point bounds for sufficiently large iterations starting from any initial point
 in A.  Our results, hence, prove a generalization of the Tarski-Kantorovich principle. We provide an application of our results to a class of social learning models on networks.
 <hr />

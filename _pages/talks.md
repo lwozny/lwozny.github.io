@@ -113,7 +113,6 @@ paper: <i>  Iterative monotone comparative statics</i>.
 paper: <i> Dynastic preferences, recursive utility and time consistency</i>.
 </li>
 
-
 <li> Association for Public Economic Theory International Meeting<b>, PET22 </b>, Marseille, France 2022 <br />
 paper: <i>  Intergenerational altruism and time consistency</i>.</li>
 
@@ -274,9 +273,8 @@ paper: <i>Constructive Study of Markov Equilibria in Stochastic Games with Compl
 </i>. </li>
 
 <li> <b> Macromodels</b>, Raszyn, 2007 <br />
-paper: <i> Strategic interactions in human capital accumulation</i>.  </li>
-</ul>
-</p>
+paper: <i> Strategic interactions in human capital accumulation</i>.  </li> </ul> </p>
+
 <h4><a name="IT">Invited talks</a></h4>
 <p>
 <ul>

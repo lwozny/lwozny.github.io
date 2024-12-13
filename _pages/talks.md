@@ -66,13 +66,13 @@ paper: <i>  Lindahl meets Condorcet?</i></li>
 paper: <i>  Interim Correlated Rationalizability in Large Games</i>.</li>
 
 <li> 12th <b> Summer Workshop on Macroeconomics and Finance</b>, Warsaw, Poland, 2024 <br />
-paper: <i>  Recursive Equilibria in Stochastic Heterogenous Agents OLG Economies</i>.
+paper: <i>  Recursive Equilibria in Stochastic Heterogenous Agents OLG Economies</i>.</li>
 
 <li> International Conference on Public Economic Theory<b>, PET24 </b>, Lyon, France 2024 <br />
 paper: <i>  Interim Correlated Rationalizability in Large Games</i>.</li>
 
 <li> XXXII <b> Europen Workshop on Economic Theory</b>, Manchester, UK, 2024 <br />
-paper: <i>  Recursive Equilibria in Stochastic Heterogenous Agents OLG Economies</i>.
+paper: <i>  Recursive Equilibria in Stochastic Heterogenous Agents OLG Economies</i>.</li>
 
 <li> (23rd Conference of) <b> Society for Advancement in Economic Theory</b>, Santiago, Chile, 2024 <br />
 session co-organizer & chair: <i> New Methods for Dynamic Economies </i> <br />

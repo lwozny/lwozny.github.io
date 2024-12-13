@@ -59,6 +59,9 @@ description: Co-organized conferences / Conference talks / Invited talks
 <p>
 <ul>	
 
+<li> <b> 9th Hurwicz Workshop on Mechanism Design, Warsaw, Poland, 2024 <br />
+paper: <i>  Lindahl meets Condorcet?</i></li>
+
 <li> <b> Summer Workshop in Economic Theory</b>, Venice, Italy, 2024 <br />
 paper: <i>  Interim Correlated Rationalizability in Large Games</i>.</li>
 

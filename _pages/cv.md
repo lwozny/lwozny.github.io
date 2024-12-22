@@ -89,7 +89,7 @@ Download my latest CV, 2024,<a href="/assets/pdf/cv.pdf">CV</a>
 <ul>  
 
 
-<li>Editorial Board of <i> Statistical Review (Przeglad Statystyczny)</i>, since 11.2019, <a href="https://ps.stat.gov.pl/About">Webpage</a></li>
+<li>Editorial Board of <i> Statistical Review (Przeglad Statystyczny)</i>, 2019-2024 </li>
 
 <li>Member of the Prof Andrzej Malawski Award Chapter  (Członek Kapituły Nagrody im. Profesora Andrzeja Malawskiego), since 2017</li>
 

@@ -18,13 +18,7 @@ We propose a novel approach to equilibrium comparative statics in economic envir
 environments in which the existing methods for obtaining monotone comparative statics appear inadequate. Our approach is dynamic and, methodologically, in the spirit of the celebrated ''correspondence principle'', a concept first presented in the work of Samuelson (1947). It applies even to: (a) environments with a continuum of equilibria (b) environments in which all equilibria are unstable; and (c) chaotic environments, in which adaptive learning sequences may not converge. Finally, our propositions extend several previously existing results.<hr />
 
 
-<h4 id=""><a href="/assets/pdf/Tarski.pdf">A Tarski-Kantorovich theorem for correspondences</a>, 2023 <br /> (joint with Lukasz Balbus and Wojciech Olszewski and Kevin Reffett)</h4>
 
-<p>
-For a weakly monotone (resp., strongly monotone) upper order hemicontinuous correspondence mapping a complete lattice A into itself
-(resp., a sigma-complete lattice into itself), we provide conditions for tight fixed-point bounds for sufficiently large iterations starting from any initial point
-in A.  Our results, hence, prove a generalization of the Tarski-Kantorovich principle. We provide an application of our results to a class of social learning models on networks.
-<hr />
 
 <h4 id="interim-correlated-rationalizability-in-large-games-2020--joint-with-lukasz-balbus-michael-greinecker-and-kevin-reffett">Interim correlated rationalizability in large games, 2024 <br /> (joint with Lukasz Balbus, Michael Greinecker and Kevin Reffett)</h4>
 

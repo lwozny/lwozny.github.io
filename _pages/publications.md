@@ -6,6 +6,75 @@ description: Publications by years in reversed chronological order.
 years: [2019, 1956, 1950, 1935, 1905]
 ---
 
+<h3 class="year">2025</h3>
+<ol class="bibliography">
+
+<li>
+
+<div id="BalbusOlszewskiReffettWozny2025">
+  
+    <span class="title">A Tarski-Kantorovich theorem for correspondences</span>
+    <span class="author">
+      
+               <a href="https://sites.northwestern.edu/wol737/home/" target="_blank">Olszewski, Wojciech</a>,
+         
+                <a href="https://lbalbus.github.io/Start/" target="_blank">Balbus, Łukasz</a>, 
+      
+            
+              
+                <a href="http://kevin-reffett.com/" target="_blank">Reffett, Kevin</a>, 
+              
+              
+            
+  
+            
+              and <em>Wozny, Łukasz</em>
+            
+          
+        
+      
+    </span>
+
+    <span class="periodical">
+    
+      <em>Journal of Mathematical Economics</em>
+    
+    
+      forthcoming, 2025.
+    
+    
+      <br>[IF2024 1.00, 70p MEiN2024]
+    
+    </span>
+  
+
+  <span class="links">
+  
+    [<a class="abstract">Abs</a>]
+  
+
+        [<a href="/assets/pdf/Tarski.pdf" target="_blank">PDF</a>]
+
+    </span>
+
+  <!-- Hidden abstract block -->
+  
+  <span class="abstract hidden">
+    <p>For a weakly monotone (resp., strongly monotone) upper order hemicontinuous correspondence mapping a complete lattice A into itself
+(resp., a sigma-complete lattice into itself), we provide conditions for tight fixed-point bounds for sufficiently large iterations starting from any initial point
+in A.  Our results, hence, prove a generalization of the Tarski-Kantorovich principle. We provide an application of our results to a class of social learning models on networks.
+ </p>
+</span>
+  
+</div>
+</li>
+</ol>
+
+<h4 id=""><a href="/assets/pdf/Tarski.pdf">A Tarski-Kantorovich theorem for correspondences</a>, 2023 <br /> (joint with Lukasz Balbus and Wojciech Olszewski and Kevin Reffett)</h4>
+
+<p>
+<hr />
+
 <h3 class="year">2024</h3>
 <ol class="bibliography">
 

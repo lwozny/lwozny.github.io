@@ -37,7 +37,7 @@ years: [2019, 1956, 1950, 1935, 1905]
 
     <span class="periodical">
     
-      <em>Journal of Mathematical Economics</em>
+      <em>Journal of Mathematical Economics</em>,
     
     
       forthcoming, 2025.
@@ -69,11 +69,6 @@ in A.  Our results, hence, prove a generalization of the Tarski-Kantorovich prin
 </div>
 </li>
 </ol>
-
-<h4 id=""><a href="/assets/pdf/Tarski.pdf">A Tarski-Kantorovich theorem for correspondences</a>, 2023 <br /> (joint with Lukasz Balbus and Wojciech Olszewski and Kevin Reffett)</h4>
-
-<p>
-<hr />
 
 <h3 class="year">2024</h3>
 <ol class="bibliography">

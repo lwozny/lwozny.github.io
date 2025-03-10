@@ -51,6 +51,8 @@ years: [2019, 1956, 1950, 1935, 1905]
   <span class="links">
   
     [<a class="abstract">Abs</a>]
+
+    [<a href="https://doi.org/10.1016/j.jmateco.2025.103106">HTML</a>]
   
 
         [<a href="/assets/pdf/Tarski.pdf" target="_blank">PDF</a>]

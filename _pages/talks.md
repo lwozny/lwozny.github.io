@@ -66,8 +66,9 @@ paper: <i> Loss aversion or preference imprecision? On WTA-WTP disparity without
 session co-organizer & chair: <i> New Methods for Dynamic Economies I and II</i>
 </li>
 
-<li> <b> Modeling and Forecasting of the national economy, Sopot, Poland, 2025 <br />
-paper: <i>  Loss aversion or preference imprecision? On WTA-WTP disparity without endowment effect</i></li>
+<li> <b> Modeling and Forecasting of the national economy</b>, Sopot, Poland, 2025 <br />
+paper: <i>  Loss aversion or preference imprecision? On WTA-WTP disparity without endowment effect</i>
+</li>
 
 <li> <b> 9th Hurwicz Workshop on Mechanism Design, Warsaw, Poland, 2024 <br />
 paper: <i>  Lindahl meets Condorcet?</i></li>

@@ -59,6 +59,16 @@ description: Co-organized conferences / Conference talks / Invited talks
 <p>
 <ul>	
 
+<li> <b> Summer Workshop in Economic Theory</b>, Paris, France, 2025 <br />
+paper: <i> Loss aversion or preference imprecision? On WTA-WTP disparity without endowment effect </i>.</li>
+
+<li> (24th Conference of) <b> Society for Advancement in Economic Theory</b>, Ischia, Italy, 2025 <br />
+session co-organizer & chair: <i> New Methods for Dynamic Economies I and II</i>
+</li>
+
+<li> <b> Modeling and Forecasting of the national economy, Sopot, Poland, 2025 <br />
+paper: <i>  Loss aversion or preference imprecision? On WTA-WTP disparity without endowment effect</i></li>
+
 <li> <b> 9th Hurwicz Workshop on Mechanism Design, Warsaw, Poland, 2024 <br />
 paper: <i>  Lindahl meets Condorcet?</i></li>
 
@@ -278,6 +288,8 @@ paper: <i> Strategic interactions in human capital accumulation</i>.  </li> </ul
 <h4><a name="IT">Invited talks</a></h4>
 <p>
 <ul>
+
+<li> Seminarium na Wydziale Matematyki, Informatyki i Mechaniki,<b> Uniwersytet Warszawski,</b> <br /> paper: <i>Interim correlated rationalizability in large games </i>, Warszawa, 2025.</li>
 
 <li> <b> Instytut Podstaw Informatyki Polskiej Akademii Nauk, Seminarium Zespolu Teorii Gier i Decyzji </b> <br /> 
 paper: <i> Interim correlated rationalizability in large games</i>, Warszawa, 2024.</li>

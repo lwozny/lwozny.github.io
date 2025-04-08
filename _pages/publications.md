@@ -37,10 +37,10 @@ years: [2019, 1956, 1950, 1935, 1905]
 
     <span class="periodical">
     
-      <em>Journal of Mathematical Economics</em>,
+      <em>Journal of Mathematical Economics</em>
     
     
-      forthcoming, 2025.
+vol. 118, 103106, 2025.
     
     
       <br>[IF2024 1.00, 70p MEiN2024]

@@ -25,6 +25,8 @@ Download my latest CV, 2024,<a href="/assets/pdf/cv.pdf">CV</a>
 <p>
 <ul>  
 
+<li> March 2025 - Short research visits in UC Berkeley, Caltech, UC Santa Cruz, UC Davis, US Santa Barbara, CalPoly</li>
+
 <li> 2023/24  (1 month) - Visiting Professor, Adam Smith Business School, University of Glasgow, UK</li>
 
 <li> March 2023 - Short research visit, Department of Economics, University of Sussex, Brighton, UK</li>
@@ -89,7 +91,7 @@ Download my latest CV, 2024,<a href="/assets/pdf/cv.pdf">CV</a>
 <ul>  
 
 
-<li>Editorial Board of <i> Statistical Review (Przeglad Statystyczny)</i>, 2019-2024 </li>
+<li>Editorial Board of <i> Statistical Review (Przeglad Statystyczny)</i>, since 2019 </li>
 
 <li>Member of the Prof Andrzej Malawski Award Chapter  (Członek Kapituły Nagrody im. Profesora Andrzeja Malawskiego), since 2017</li>
 

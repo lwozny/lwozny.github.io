@@ -70,7 +70,10 @@ session co-organizer & chair: <i> New Methods for Dynamic Economies I and II</i>
 paper: <i>  Loss aversion or preference imprecision? On WTA-WTP disparity without endowment effect</i>
 </li>
 
-<li> <b> 9th Hurwicz Workshop on Mechanism Design, Warsaw, Poland, 2024 <br />
+<li> II<b> Międzyuczelnianie warsztaty z ekonomii matematycznej</b>, Warsaw, Poland, 2025 <br />
+paper: <i>  Lindahl meets Condorcet?</i></li>
+
+<li> <b> 9th Hurwicz Workshop on Mechanism Design</b>, Warsaw, Poland, 2024 <br />
 paper: <i>  Lindahl meets Condorcet?</i></li>
 
 <li> <b> Summer Workshop in Economic Theory</b>, Venice, Italy, 2024 <br />
@@ -284,7 +287,11 @@ paper: <i>Constructive Study of Markov Equilibria in Stochastic Games with Compl
 </i>. </li>
 
 <li> <b> Macromodels</b>, Raszyn, 2007 <br />
-paper: <i> Strategic interactions in human capital accumulation</i>.  </li> </ul> </p>
+paper: <i> Strategic interactions in human capital accumulation</i>.  
+</li> 
+
+</ul> 
+</p>
 
 <h4><a name="IT">Invited talks</a></h4>
 <p>

@@ -67,8 +67,9 @@ session co-organizer & chair: <i> New Methods for Dynamic Economies I and II</i>
 </li>
 
 <li> <b> Modeling and Forecasting of the national economy</b>, Sopot, Poland, 2025 <br />
-paper: <i>  Loss aversion or preference imprecision? On WTA-WTP disparity without endowment effect</i>
-</li>
+paper: <i>  Loss aversion or preference imprecision? On WTA-WTP disparity without endowment effect</i> 
+<b>Best presentation award </b>
+</li> 
 
 <li> II<b> Międzyuczelnianie warsztaty z ekonomii matematycznej</b>, Warsaw, Poland, 2025 <br />
 paper: <i>  Lindahl meets Condorcet?</i></li>

@@ -5,6 +5,14 @@ permalink: /working papers/
 description: working papers and some older stuff
 ---
 
+<h4 id=""><a href="/assets/pdf/ICR.pdf">Interim correlated rationalizability in large games</a>, 2025 <br /> (joint with Lukasz Balbus, Michael Greinecker and Kevin Reffett)</h4>
+
+<p>
+We provide general theoretical foundations for modeling strategic uncertainty in large distributional Bayesian games with general type spaces, using a version of interim correlated rationalizability. We then focus on the case in which payoff functions are supermodular in actions, as is common in the literature on global games. This structure allows us to identify extremal interim correlated rationalizable solutions with extremal interim Bayes–Nash equilibria. Notably, no order structure on types is assumed. We illustrate our framework and results using the large versions of the electronic mail game and a global game.
+</p>
+
+<hr />
+
 <h4 id=""><a href="/assets/pdf/Lindhal.pdf">Lindahl meets Condorcet?</a>, 2024 <br /> (joint with Sayantan Ghosal)</h4>
 
 <p>
@@ -17,14 +25,6 @@ Although a Condorcet winner commands a majority in its favor, there is no guaran
 We propose a novel approach to equilibrium comparative statics in economic environments where complementarities play a critical role, including
 environments in which the existing methods for obtaining monotone comparative statics appear inadequate. Our approach is dynamic and, methodologically, in the spirit of the celebrated ''correspondence principle'', a concept first presented in the work of Samuelson (1947). It applies even to: (a) environments with a continuum of equilibria (b) environments in which all equilibria are unstable; and (c) chaotic environments, in which adaptive learning sequences may not converge. Finally, our propositions extend several previously existing results.<hr />
 
-
-
-
-<h4 id="interim-correlated-rationalizability-in-large-games-2020--joint-with-lukasz-balbus-michael-greinecker-and-kevin-reffett">Interim correlated rationalizability in large games, 2024 <br /> (joint with Lukasz Balbus, Michael Greinecker and Kevin Reffett)</h4>
-
-<p>In this paper we provide general theoretical foundations for modeling strategic uncertainty in large distributional Bayesian games with general type spaces (with aggregate uncertainty) in terms of a version of interim correlated rationalizability. We then focus on the case that payoff functions are supermodular in actions as in much literature on global games. This allows us to identify extremal interim correlated rationalizable solutions with extremal interim Bayes-Nash equilibria. No order structure on types is used. We prove the existence of a universal type space. We provide an example of a large version of the email game and an application to large global games without common prior.</p>
-
-<hr />
 
 <h4 id=""><a href="/assets/pdf/TimeConsistentAltruism.pdf">Dynastic preferences, recursive utility and time consistency</a>, 2023 <br /> (joint with Lukasz Balbus and Kevin Reffett)</h4>
 

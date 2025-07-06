@@ -63,7 +63,8 @@ description: Co-organized conferences / Conference talks / Invited talks
 paper: <i> Loss aversion or preference imprecision? On WTA-WTP disparity without endowment effect </i>.</li>
 
 <li> (24th Conference of) <b> Society for Advancement in Economic Theory</b>, Ischia, Italy, 2025 <br />
-session co-organizer & chair: <i> New Methods for Dynamic Economies I and II</i>
+session co-organizer & chair: <i> New Methods for Dynamic Economies I and II</i><br />
+paper: <i>  Lindahl meets Condorcet?</i>
 </li>
 
 <li> <b> Modeling and Forecasting of the national economy</b>, Sopot, Poland, 2025 <br />

@@ -299,6 +299,8 @@ paper: <i> Strategic interactions in human capital accumulation</i>.
 <p>
 <ul>
 
+<li> Economic Seminar<b>, University of Miami,</b> <br /> paper: <i> TBA</i>, Miami, US 2025.</li>
+
 <li> Seminarium na Wydziale Matematyki, Informatyki i Mechaniki,<b> Uniwersytet Warszawski,</b> <br /> paper: <i>Interim correlated rationalizability in large games </i>, Warszawa, 2025.</li>
 
 <li> <b> Instytut Podstaw Informatyki Polskiej Akademii Nauk, Seminarium Zespolu Teorii Gier i Decyzji </b> <br /> 

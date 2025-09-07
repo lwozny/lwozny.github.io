@@ -6,6 +6,93 @@ description: Publications by years in reversed chronological order.
 years: [2019, 1956, 1950, 1935, 1905]
 ---
 
+<h3 class="year">2026</h3>
+<ol class="bibliography">
+<li>
+
+<div id="JNW2026">
+  
+    <span class="title">Stochastic Games of Risk-Sensitive Players with Quasi-Hyperbolic Discounting</span>
+    <span class="author">
+      
+        
+                      
+              
+                <a href="http://prac.im.pwr.wroc.pl/~ajaskiew/" target="_blank">Jaskiewicz, Anna</a>, 
+              
+            
+          
+        
+      
+     
+          
+            
+              
+                <a href="https://ideas.repec.org/f/pno288.html" target="_blank">Nowak, Andrzej S.</a>, 
+              
+            
+          
+        
+      
+        
+          
+            
+              and <em>Wozny, Łukasz</em>
+            
+          
+        
+      
+    </span>
+
+    <span class="periodical">
+    
+      <em>Automatica</em>
+    
+    
+      accepted
+    
+       
+    
+
+    
+   2026
+    
+    
+    
+      <br>[IF2024 5.9, 200p MNiSW]
+    
+    </span>
+  
+
+  <span class="links">
+  
+    [<a class="abstract">Abs</a>]
+  
+  
+  
+    [<a href="" target="_blank">HTML</a>]
+  
+  
+    [<a href="/assets/pdf/JNW2026.pdf" target="_blank">PDF</a>]
+  
+  
+  
+  
+  
+  </span>
+
+  <!-- Hidden abstract block -->
+  
+  <span class="abstract hidden">
+    <p>We study a stochastic game on a countable state space with quasi-hyperbolic discounting. In each period, there are N selves who play a non-cooperative game. It is assumed that an individual player, represented by a sequence of autonomous selves, is equipped with a risk-sensitive coefficient and evaluates their expected payoff using the exponential certainty equivalent. The main objective is to prove the existence of a Markov perfect equilibrium in an infinite-horizon model. If the transition probabilities, one-stage payoff functions, and action sets for the selves do not depend on the period number, then the game possesses a stationary Markov perfect equilibrium. A dynamic game on networks, belonging to the class of stochastic games studied in this paper, is also discussed.</p>
+  </span>
+
+</div>
+</li>
+</ol>
+
+
+
 <h3 class="year">2025</h3>
 <ol class="bibliography">
 

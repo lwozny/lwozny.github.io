@@ -46,16 +46,16 @@ years: [2019, 1956, 1950, 1935, 1905]
 
     <span class="periodical">
     
-      <em>Automatica</em>
+      <em>Automatica</em>,
     
     
-      accepted
+      accepted,
     
        
     
 
     
-   2026
+   2026.
     
     
     

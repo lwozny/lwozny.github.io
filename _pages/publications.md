@@ -89,6 +89,85 @@ years: [2019, 1956, 1950, 1935, 1905]
 
 </div>
 </li>
+
+
+<li>
+
+<div id="BJNW2026">
+  
+    <span class="title">Markov perfect equilibria in stochastic growth models with quasi-hyperbolic discounting and risk-sensitive preferences</span>
+    <span class="author">
+      
+        
+                   <a href="https://lbalbus.github.io/Start/" target="_blank">Balbus, Łukasz</a>, 
+         
+              
+                <a href="http://prac.im.pwr.wroc.pl/~ajaskiew/" target="_blank">Jaskiewicz, Anna</a>, 
+              
+            
+         
+                <a href="https://ideas.repec.org/f/pno288.html" target="_blank">Nowak, Andrzej S.</a>, 
+              
+                     
+            
+              and <em>Wozny, Łukasz</em>
+            
+      
+        
+      
+    </span>
+
+    <span class="periodical">
+    
+      <em>Dynamic Games and Applications</em>,
+    
+    
+      accepted,
+    
+       
+    
+
+    
+   2026.
+    
+    
+    
+      <br>[IF2024 1.5, 70p MNiSW]
+    
+    </span>
+  
+
+  <span class="links">
+  
+    [<a class="abstract">Abs</a>]
+  
+  
+  
+    [<a href="" target="_blank">HTML</a>]
+  
+  
+    [<a href="/assets/pdf/BJNW2026.pdf" target="_blank">PDF</a>]
+  
+  
+  
+  
+  
+  </span>
+
+  <!-- Hidden abstract block -->
+  
+We show the existence of a Markov perfect equilibrium in a non-stationary stochastic growth model with quasi-hyperbolic discounting and risk-sensitive preferences. 
+Our proof  resembles dynamic programming approach and does not involve any fixed point theorem. The risk-sensitive preferences are modeled  via   certainty equivalents for various utility functions including these implying risk-aversion, risk-neutrality as well as risk-loving. Under the additional assumption of stationarity, we are able to prove the existence of a stationary Markov perfect equilibrium using the Schauder fixed point theorem.
+
+  <span class="abstract hidden">
+    <p>
+
+</p>
+  </span>
+
+</div>
+</li>
+
 </ol>
 
 

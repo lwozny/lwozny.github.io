@@ -156,12 +156,10 @@ years: [2019, 1956, 1950, 1935, 1905]
 
   <!-- Hidden abstract block -->
   
-We show the existence of a Markov perfect equilibrium in a non-stationary stochastic growth model with quasi-hyperbolic discounting and risk-sensitive preferences. 
-Our proof  resembles dynamic programming approach and does not involve any fixed point theorem. The risk-sensitive preferences are modeled  via   certainty equivalents for various utility functions including these implying risk-aversion, risk-neutrality as well as risk-loving. Under the additional assumption of stationarity, we are able to prove the existence of a stationary Markov perfect equilibrium using the Schauder fixed point theorem.
-
   <span class="abstract hidden">
     <p>
-
+We show the existence of a Markov perfect equilibrium in a non-stationary stochastic growth model with quasi-hyperbolic discounting and risk-sensitive preferences. 
+Our proof  resembles dynamic programming approach and does not involve any fixed point theorem. The risk-sensitive preferences are modeled  via   certainty equivalents for various utility functions including these implying risk-aversion, risk-neutrality as well as risk-loving. Under the additional assumption of stationarity, we are able to prove the existence of a stationary Markov perfect equilibrium using the Schauder fixed point theorem.
 </p>
   </span>
 

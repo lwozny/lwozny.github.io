@@ -6,7 +6,7 @@ description: profesor dr hab <a href="http://kolegia.sgh.waw.pl/pl/KAE/struktura
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic1.jpg
   address: >
 
 news: true
@@ -18,5 +18,3 @@ social: true
 To contact me write at:
 lukasz wozny @ sgh waw pl 
 
-
-<img class="one" src="prof_pic1.jpg" alt="A descriptive text for this image" />.

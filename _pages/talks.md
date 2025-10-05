@@ -18,7 +18,7 @@ description: Co-organized conferences / Conference talks / Invited talks
 <a href="https://www.youtube.com/watch?v=r9cio_P1EUc"> [YouTube] </a> 
 <a href="https://podcasts.apple.com/pl/podcast/podcast-kultury-liberalnej/id1540145568?l=pl&i=1000641571959"> [Apple]</a></li>
 
-<li> Rozmowa o laureatach Nagrody Nobla z ekonomii z 1994 roku <a href="https://www.facebook.com/watch/?v=502036710524335"> [fB] </a>  /li>
+<li> Rozmowa o laureatach Nagrody Nobla z ekonomii z 1994 roku <a href="https://www.facebook.com/watch/?v=502036710524335"> [fB]</a>/li>
 
 <li> Więcej podcastów, które współprowadzę: <a href="https://lwozny.github.io/blog/">[Link]</a> </li>
 </ul>

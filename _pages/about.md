@@ -6,7 +6,7 @@ description: profesor dr hab <a href="http://kolegia.sgh.waw.pl/pl/KAE/struktura
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic1.jpg
   address: >
 
 news: true

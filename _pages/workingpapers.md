@@ -4,8 +4,11 @@ title: working papers
 permalink: /working papers/
 description: working papers and some older stuff
 ---
+<div class="profile col one right">
+            
 <img class="one" src="/assets/img/research.jpg" >
 
+</div>
 
 <h4 id=""><a href="/assets/pdf/ICR.pdf">Interim correlated rationalizability in large games</a>, 2025 <br /> (joint with Lukasz Balbus, Michael Greinecker and Kevin Reffett)</h4>
 

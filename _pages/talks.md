@@ -10,7 +10,9 @@ description: Co-organized conferences / Conference talks / Invited talks
 <p>
 <ul>	
 
-<li> Rozmowa o teorii gier i jej zastosowaniach z Markiem Ścibiorem z Projektu Pulsar Polityki Insight <a href="https://www.projektpulsar.pl/struktura/2317235,1,podkast-148-lukasz-wozny-obiad-na-stole-a-babci-nie-ma.read"> [www] </a> <a href="https://open.spotify.com/episode/2BrUBZR56p7gTzvEG6Eb59?si=bGVO69X3TjyhZBtjhmfISA"> [Spotify] </a> </li>
+<li> Podcast o laureatach ekonomicznego Nobla z 2025 roku z Hanną Cichy dla Polityki Insight <a href="https://www.youtube.com/watch?v=Vbe73n61_fE"> [Youtube] </a> <a href="https://open.spotify.com/episode/6o0OVYh96CDyGheXN1gsLh?si=NNR-0nENTp6i8F3O7xOtRg"> [Spotify] </a> </li>
+
+<li> Podcast o teorii gier i jej zastosowaniach z Markiem Ścibiorem z Projektu Pulsar Polityki <a href="https://www.projektpulsar.pl/struktura/2317235,1,podkast-148-lukasz-wozny-obiad-na-stole-a-babci-nie-ma.read"> [www] </a> <a href="https://open.spotify.com/episode/2BrUBZR56p7gTzvEG6Eb59?si=bGVO69X3TjyhZBtjhmfISA"> [Spotify] </a> </li>
 
 <li> Kiedy dogonimy ZACHÓD? - Stan polskiej nauki. Rozmowa z Bartkiem Urbaniakiem <a href="https://youtu.be/i1Z8jVgxz9c?si=D8EoVfe96MdWDkVJ"> [Youtube] </a> </li>
 

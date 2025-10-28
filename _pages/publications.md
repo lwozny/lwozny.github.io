@@ -70,7 +70,7 @@ years: [2019, 1956, 1950, 1935, 1905]
   
   
   
-    [<a href="" target="_blank">HTML</a>]
+    [<a href="https://doi.org/10.1016/j.automatica.2025.112656" target="_blank">HTML</a>]
   
   
     [<a href="/assets/pdf/JNW2026.pdf" target="_blank">PDF</a>]

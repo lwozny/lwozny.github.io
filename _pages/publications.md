@@ -49,7 +49,7 @@ years: [2019, 1956, 1950, 1935, 1905]
       <em>Automatica</em>,
     
     
-      accepted,
+      vol. 183, 112656, 2026.
     
        
     

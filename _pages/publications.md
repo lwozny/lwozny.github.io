@@ -119,7 +119,7 @@ years: [2019, 1956, 1950, 1935, 1905]
       <em>Dynamic Games and Applications</em>,
     
     
-      accepted,
+      online first,
     
        
     
@@ -140,7 +140,7 @@ years: [2019, 1956, 1950, 1935, 1905]
   
   
   
-    [<a href="" target="_blank">HTML</a>]
+    [<a href="https://link.springer.com/article/10.1007/s13235-025-00683-x" target="_blank">HTML</a>]
   
   
     [<a href="/assets/pdf/BJNW2026.pdf" target="_blank">PDF</a>]

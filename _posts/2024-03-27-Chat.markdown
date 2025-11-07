@@ -7,6 +7,7 @@ description: Seria podcastow o tematyce ekonomicznej, które współprowadzę z 
 
 Nobel '25: Innowacje napędzające wzrost. Rozmowa z dr. hab. Jakubem Growcem (SGH) [Youtube](https://youtu.be/sIWKEgYFDsU?si=nW0rBJytcdmIHdHd) lub [Spotify](https://open.spotify.com/episode/55kVNfVAFGXKMRwOWzHh3Z?si=RQAsJzGPSH60m08oFBgV3A)
 
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/55kVNfVAFGXKMRwOWzHh3Z?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Kiedy korelacja jest przycznowością? Rozmowa z dr. hab. Andrzejem Torójem (SGH) [Youtube](https://youtu.be/JXrYCZyL0D8?si=ctzD6UKwJ4zsbo1o) lub [Spotify](https://open.spotify.com/episode/29i2GRfVRbPfyMekzKmfBX?si=4EMMCc34RDy0F3iPgOtqog)
 

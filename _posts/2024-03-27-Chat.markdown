@@ -5,6 +5,9 @@ date:   2024-03-26 16:40:16
 description: Seria podcastow o tematyce ekonomicznej, które współprowadzę z prof Igą Magdą
 ---
 
+Nobel '25: Innowacje napędzające wzrost. Rozmowa z dr. hab. Jakubem Growcem (SGH) [Youtube](https://youtu.be/sIWKEgYFDsU?si=nW0rBJytcdmIHdHd) lub [Spotify](https://open.spotify.com/episode/55kVNfVAFGXKMRwOWzHh3Z?si=RQAsJzGPSH60m08oFBgV3A)
+
+
 Kiedy korelacja jest przycznowością? Rozmowa z dr. hab. Andrzejem Torójem (SGH) [Youtube](https://youtu.be/JXrYCZyL0D8?si=ctzD6UKwJ4zsbo1o) lub [Spotify](https://open.spotify.com/episode/29i2GRfVRbPfyMekzKmfBX?si=4EMMCc34RDy0F3iPgOtqog)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/29i2GRfVRbPfyMekzKmfBX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

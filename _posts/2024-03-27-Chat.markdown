@@ -5,11 +5,20 @@ date:   2024-03-26 16:40:16
 description: Seria podcastow o tematyce ekonomicznej, które współprowadzę z prof Igą Magdą
 ---
 
+Michał Kalecki: Geniusz Zapomniany. Rozmowa z prof. Elżbietą Mączyńską (PTE) oraz prof. Janem Toporowskim (King’s College Londyn).
+[Youtube](https://youtu.be/96_h9wjZuAw?si=PJO0cgigcKjAOznt) lub [Spotify](https://open.spotify.com/episode/4wRKTGSz9AtA9EMvEpTzFz?si=gOHBNGZCSFGecVCRfgHJCg)
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/4wRKTGSz9AtA9EMvEpTzFz?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Nobel '23: O sytuacji kobiet na rynku pracy. Rozmowa z prof Igą Magdą oraz dr Magdaleną Smyk-Szymańską (SGH) [Youtube](https://youtu.be/roKzHvrrgd0?si=UpUBP3ZsPO-UJ-wA) lub [Spotify](https://open.spotify.com/episode/5quwwPBqFl6jP2RNoP4GwB?si=iBT4h9SBRwiLB8GwdaAJ3Q)
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/5quwwPBqFl6jP2RNoP4GwB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 Nobel '25: Innowacje napędzające wzrost. Rozmowa z dr. hab. Jakubem Growcem (SGH) [Youtube](https://youtu.be/sIWKEgYFDsU?si=nW0rBJytcdmIHdHd) lub [Spotify](https://open.spotify.com/episode/55kVNfVAFGXKMRwOWzHh3Z?si=RQAsJzGPSH60m08oFBgV3A)
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/55kVNfVAFGXKMRwOWzHh3Z?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Kiedy korelacja jest przycznowością? Rozmowa z dr. hab. Andrzejem Torójem (SGH) [Youtube](https://youtu.be/JXrYCZyL0D8?si=ctzD6UKwJ4zsbo1o) lub [Spotify](https://open.spotify.com/episode/29i2GRfVRbPfyMekzKmfBX?si=4EMMCc34RDy0F3iPgOtqog)
+Nobel '21: Kiedy korelacja jest przycznowością? Rozmowa z dr. hab. Andrzejem Torójem (SGH) [Youtube](https://youtu.be/JXrYCZyL0D8?si=ctzD6UKwJ4zsbo1o) lub [Spotify](https://open.spotify.com/episode/29i2GRfVRbPfyMekzKmfBX?si=4EMMCc34RDy0F3iPgOtqog)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/29i2GRfVRbPfyMekzKmfBX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

@@ -91,6 +91,8 @@ Download my latest CV, 2024,<a href="/assets/pdf/cv.pdf">CV</a>
 <ul>  
 
 
+<li>Associate Editor of <i> Journal of Public Economic Theory</i>, since 2025 </li>
+
 <li>Editorial Board of <i> Statistical Review (Przeglad Statystyczny)</i>, since 2019 </li>
 
 <li>Member of the Prof Andrzej Malawski Award Chapter  (Członek Kapituły Nagrody im. Profesora Andrzeja Malawskiego), since 2017</li>

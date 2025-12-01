@@ -35,6 +35,8 @@ description: Awards and Grants
 
 <li> National Science Center Grant: Deviations from Rationality and their Impact on Future Trajectories: DRIFT (pl. Odchylenia od racjonalności i ich wpływ na przyszłe trajektorie), GRAPE (FAME), 2026-2029, <b>grant OPUS 29</b>, kierownik (principal investigator), PLN 1 299 804.</li>
 
+<li> <b> Wektory Nauki</b> (Ministry of Science and Higher Education) <b>grant </b> for conference organization, SGH Warsaw School of Economics, 2025-2026, PLN 134 500.</li>
+
 <li> National Science Center Grant:  On endogenous discounting and recursive utilities (pl. O endogenicznym dyskontowaniu i rekursywnych użytecznościach), U of Zielona Gora, 2023-2027, <b>grant OPUS 24</b>, wykonawca, PLN 534 360.</li>
 
 <li> National Science Center Grant:   Measuring uncertainty and testing reference point rules using indifference prices: axiomatic and experimental approaches (pl. Pomiar niepewności oraz testowanie reguł ustalania punktów odniesienia przy wykorzystaniu cen obojętności: podejście aksjomatyczne i eksperymentalne), SGH Warsaw School of Economics, 2022-2026, <b>grant OPUS 21</b>, wykonawca, PLN 1 023 946.</li>

@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications by topics and (below) also years.
+description: Publications by topics and (below) publication details by years.
 years: [2019, 1956, 1950, 1935, 1905]
 ---
 <h4>Quasi-hyperbolic discounting</h4>
@@ -20,6 +20,7 @@ years: [2019, 1956, 1950, 1935, 1905]
 
 <li> Dynamic Games in Macroeconomics, <b>Handbook of Dynamic Game Theory</b>, Springer, 2018 (with L.Balbus and K.Reffett)</li>
 
+<li> Time consistent Markov policies in dynamic economies with quasi-hyperbolic consumers, <b>International Journal of Game Theory</b>, 2015 (with L.Balbus and K.Reffett)</li>
 </ul>
 </p>
 
@@ -29,6 +30,10 @@ years: [2019, 1956, 1950, 1935, 1905]
 <ul>  
 
 <li> Markov distributional equilibrium dynamics in games with complementarities and no aggregate risk, <b>Theoretical Economics</b>, 2022 (with L.Balbus, P.Dziewulski and K.Reffett)</li>
+
+<li> Monotone equilibria in nonatomic supermodular games. A comment, <b>Games and Economic Behavior</b>, 2015 (with L.Balbus, P.Dziewulski and K.Reffett) </li>
+
+<li> Differential information in large games with strategic complementarities, <b>Economic Theory</b> 2015 (with L.Balbus, P.Dziewulski and K.Reffett) </li>
 
 </ul>
 </p>
@@ -41,6 +46,27 @@ years: [2019, 1956, 1950, 1935, 1905]
 
 <li> Stochastic Games of Risk-Sensitive Players with Quasi-Hyperbolic Discounting, <b>Automatica</b>, 2026 (with A.Jaskiewicz and A.S.Nowak) </li>
 
+<li> A strategic dynamic programming method for studying short-memory equilibria of stochastic games with uncountable number of states, <b>Dynamic Games and Applications</b>, 2016 (with L.Balbus)</li>
+
+<li> A constructive study of Markov equilibria in stochastic games with strategic complementarities, <b>Journal of Economic Theory</b>, 2014, (with L.Balbus, and K.Reffett) </li>
+
+<li> Markov stationary equilibria in stochastic supermodular games with imperfect private and public information, <b>Dynamic Games and Applications</b>, 2013, (with L.Balbus, and K.Reffett) </li>
+</ul>
+</p>
+
+
+<h4>Bequest games</h4>
+
+<p>
+<ul>  
+
+<li> A note on Markov perfect equilibria in a class of non-stationary stochastic bequest games, <b>Journal of Mathematical Analysis and Applications</b>, 2017 (with L.Balbus, A.Jaskiewicz and A.S.Nowak)</li>
+
+<li> A constructive geometrical approach to the uniqueness of Markov stationary equilibrium in stochastic games of intergenerational altruism, <b>Journal of Economic Dynamics and Control</b> 2013, (with L.Balbus, and K.Reffett) </li>
+
+<li> Intergenerational Interactions in Human Capital Accumulation, <b>B.E. Journal of Theoretical Economics</b> 2012, (with J.Growiec)</li>
+
+<li> Stationary Markovian equilibrium in altruistic stochastic OLG models with limited commitment, <b>Journal of Mathematical Economics</b> 2012, (with L.Balbus, and K.Reffett)   </li>
 </ul>
 </p>
 
@@ -64,17 +90,6 @@ years: [2019, 1956, 1950, 1935, 1905]
 
 </ul>
 </p>
- 
-<h4>Journal rankings</h4>
-
-<p>
-<ul>  
-
-<li> On journal rankings and researchers' abilities, <b>Journal of Informerics</b>, 2024 (with W.Charemza, and M.Lewandowski)
- </li>
-
-</ul>
-</p>
 
 <h4>Recursive competitive equilibrium</h4>
 <p>
@@ -85,6 +100,17 @@ years: [2019, 1956, 1950, 1935, 1905]
 <li> Comparing recursive equilibrium in economies with dynamic complementarities and indeterminacy, <b>Economic Theory</b>, 2018, (with M.Datta and K.Reffett)</li>
 </ul>
 </p>
+ 
+<h4>Journal rankings</h4>
+
+<p>
+<ul>  
+
+<li> On journal rankings and researchers' abilities, <b>Journal of Informetrics</b>, 2024 (with W.Charemza, and M.Lewandowski)
+ </li>
+
+</ul>
+</p>
 
 
 <h4>Costly self control</h4>
@@ -92,8 +118,9 @@ years: [2019, 1956, 1950, 1935, 1905]
 <p>
 <ul>  
 
-<li> </li>
+<li> On the price of commitment assets in a general equilibrium model with credit constraints and tempted consumers, <b>B.E. Journal of Theoretical Economics</b> 2016</li>
 
+<li> On incentives, temptation and self-control, <b>Mathematical Social Sciences</b> 2015</li>
 </ul>
 </p>
 

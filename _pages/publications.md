@@ -23,7 +23,7 @@ years: [2019, 1956, 1950, 1935, 1905]
 <p>
 <ul>  
 
-<li> March 2025 - Short research visits in UC Berkeley, Caltech, UC Santa Cruz, UC Davis, US Santa Barbara, CalPoly</li>
+<li> </li>
 
 </ul>
 </p>
@@ -72,10 +72,24 @@ years: [2019, 1956, 1950, 1935, 1905]
 </p>
 
 <h4>Recursive competitive equilibrium</h4>
+<p>
+<ul>  
+
+<li> </li>
+
+</ul>
+</p>
 
 
 <h4>Costly self control</h4>
 
+<p>
+<ul>  
+
+<li> </li>
+
+</ul>
+</p>
 
 <h3 class="year">2026</h3>
 <ol class="bibliography">

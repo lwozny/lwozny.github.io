@@ -15,6 +15,8 @@ years: [2019, 1956, 1950, 1935, 1905]
 <li> Time consistent policies and quasi-hyperbolic discounting, <b> Oxford Research Encyclopedia of Economics and Finance</b> 2023(with L.Balbus and K.Reffett)</li>
 
 <li> Time consistent equilibria in dynamic models with recursive payoffs and behavioral discounting, <b>Journal of Economic Theory</b>, 2022 (with L.Balbus and K.Reffett)</li>
+
+<li> On uniqueness of time-consistent Markov policies for quasi-hyperbolic consumers under uncertainty, <b>Journal of Economic Theory </b>, 2018 (with L.Balbus and K.Reffett)</li>
 </ul>
 </p>
 

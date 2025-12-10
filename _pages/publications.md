@@ -75,7 +75,7 @@ years: [2019, 1956, 1950, 1935, 1905]
 <p>
 <ul>  
 
-<li> </li>
+<li> Lipschitz recursive equilibrium with a minimal state space and heterogeneous agents, <b>Journal of Mathematical Economics</b>, 2019 (with R.Raad)</li>
 
 </ul>
 </p>

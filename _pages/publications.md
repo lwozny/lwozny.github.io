@@ -12,7 +12,7 @@ years: [2019, 1956, 1950, 1935, 1905]
 
 <li> Markov perfect equilibria in stochastic growth models with quasi-hyperbolic discounting and risk-sensitive preferences, <b>Dynamic Games and Applications </b>, 2026 (with L.Balbus, A.Jaskiewicz and A.S.Nowak)</li>
 
-<li> Time consistent policies and quasi-hyperbolic discounting, <b> Oxford Research Encyclopedia of Economics and Finance</b> 2023(with L.Balbus and K.Reffett)</li>
+<li> Time consistent policies and quasi-hyperbolic discounting, <b> Oxford Research Encyclopedia of Economics and Finance</b>, 2023(with L.Balbus and K.Reffett)</li>
 
 <li> Time consistent equilibria in dynamic models with recursive payoffs and behavioral discounting, <b>Journal of Economic Theory</b>, 2022 (with L.Balbus and K.Reffett)</li>
 
@@ -31,9 +31,11 @@ years: [2019, 1956, 1950, 1935, 1905]
 
 <li> Markov distributional equilibrium dynamics in games with complementarities and no aggregate risk, <b>Theoretical Economics</b>, 2022 (with L.Balbus, P.Dziewulski and K.Reffett)</li>
 
-<li> Monotone equilibria in nonatomic supermodular games. A comment, <b>Games and Economic Behavior</b>, 2015 (with L.Balbus, P.Dziewulski and K.Reffett) </li>
+<li> A qualitative theory of large games with strategic complementarities, <b>Economic Theory</b>, 2019 (with L.Balbus, P.Dziewulski and K.Reffett)</li>
 
-<li> Differential information in large games with strategic complementarities, <b>Economic Theory</b> 2015 (with L.Balbus, P.Dziewulski and K.Reffett) </li>
+<li> Monotone equilibria in nonatomic supermodular games. A comment, <b>Games and Economic Behavior</b>, 2015 (with L.Balbus and K.Reffett) </li>
+
+<li> Differential information in large games with strategic complementarities, <b>Economic Theory</b>, 2015 (with L.Balbus, P.Dziewulski and K.Reffett) </li>
 
 </ul>
 </p>
@@ -48,9 +50,9 @@ years: [2019, 1956, 1950, 1935, 1905]
 
 <li> A strategic dynamic programming method for studying short-memory equilibria of stochastic games with uncountable number of states, <b>Dynamic Games and Applications</b>, 2016 (with L.Balbus)</li>
 
-<li> A constructive study of Markov equilibria in stochastic games with strategic complementarities, <b>Journal of Economic Theory</b>, 2014, (with L.Balbus, and K.Reffett) </li>
+<li> A constructive study of Markov equilibria in stochastic games with strategic complementarities, <b>Journal of Economic Theory</b>, 2014 (with L.Balbus, and K.Reffett) </li>
 
-<li> Markov stationary equilibria in stochastic supermodular games with imperfect private and public information, <b>Dynamic Games and Applications</b>, 2013, (with L.Balbus, and K.Reffett) </li>
+<li> Markov stationary equilibria in stochastic supermodular games with imperfect private and public information, <b>Dynamic Games and Applications</b>, 2013 (with L.Balbus, and K.Reffett) </li>
 </ul>
 </p>
 
@@ -62,11 +64,11 @@ years: [2019, 1956, 1950, 1935, 1905]
 
 <li> A note on Markov perfect equilibria in a class of non-stationary stochastic bequest games, <b>Journal of Mathematical Analysis and Applications</b>, 2017 (with L.Balbus, A.Jaskiewicz and A.S.Nowak)</li>
 
-<li> A constructive geometrical approach to the uniqueness of Markov stationary equilibrium in stochastic games of intergenerational altruism, <b>Journal of Economic Dynamics and Control</b> 2013, (with L.Balbus, and K.Reffett) </li>
+<li> A constructive geometrical approach to the uniqueness of Markov stationary equilibrium in stochastic games of intergenerational altruism, <b>Journal of Economic Dynamics and Control</b>, 2013 (with L.Balbus, and K.Reffett) </li>
 
-<li> Intergenerational Interactions in Human Capital Accumulation, <b>B.E. Journal of Theoretical Economics</b> 2012, (with J.Growiec)</li>
+<li> Intergenerational Interactions in Human Capital Accumulation, <b>B.E. Journal of Theoretical Economics</b>, 2012 (with J.Growiec)</li>
 
-<li> Stationary Markovian equilibrium in altruistic stochastic OLG models with limited commitment, <b>Journal of Mathematical Economics</b> 2012, (with L.Balbus, and K.Reffett)   </li>
+<li> Stationary Markovian equilibrium in altruistic stochastic OLG models with limited commitment, <b>Journal of Mathematical Economics</b>, 2012 (with L.Balbus, and K.Reffett)   </li>
 </ul>
 </p>
 
@@ -85,7 +87,7 @@ years: [2019, 1956, 1950, 1935, 1905]
 <p>
 <ul>  
 
-<li> On reference dependence and complementary symmetry, <b>Journal of Mathematical Psychology</b>, 2022, (with M.Lewandowski)
+<li> On reference dependence and complementary symmetry, <b>Journal of Mathematical Psychology</b>, 2022 (with M.Lewandowski)
 </li>
 
 </ul>
@@ -97,7 +99,7 @@ years: [2019, 1956, 1950, 1935, 1905]
 
 <li> Lipschitz recursive equilibrium with a minimal state space and heterogeneous agents, <b>Journal of Mathematical Economics</b>, 2019 (with R.Raad)</li>
 
-<li> Comparing recursive equilibrium in economies with dynamic complementarities and indeterminacy, <b>Economic Theory</b>, 2018, (with M.Datta and K.Reffett)</li>
+<li> Comparing recursive equilibrium in economies with dynamic complementarities and indeterminacy, <b>Economic Theory</b>, 2018 (with M.Datta and K.Reffett)</li>
 </ul>
 </p>
  

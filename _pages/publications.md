@@ -10,12 +10,15 @@ years: [2019, 1956, 1950, 1935, 1905]
 <p>
 <ul>  
 
-<li> March 2025 - Short research visits in UC Berkeley, Caltech, UC Santa Cruz, UC Davis, US Santa Barbara, CalPoly</li>
+<li> Markov perfect equilibria in stochastic growth models with quasi-hyperbolic discounting and risk-sensitive preferences, <b>Dynamic Games and Applications </b>, 2026 (with L.Balbus, A.Jaskiewicz and A.S.Nowak)</li>
 
+<li> Time consistent policies and quasi-hyperbolic discounting, <b> Oxford Research Encyclopedia of Economics and Finance</b> 2023(with L.Balbus and K.Reffett)
+
+<li> Time consistent equilibria in dynamic models with recursive payoffs and behavioral discounting, <b>Journal of Economic Theory</b>, 2022 (with L.Balbus and K.Reffett)
 </ul>
 </p>
 
-<h4>Stochastic games</h4>
+<h4>Large games</h4>
 
 <p>
 <ul>  
@@ -25,6 +28,53 @@ years: [2019, 1956, 1950, 1935, 1905]
 </ul>
 </p>
 
+
+<h4>Stochastic games</h4>
+
+<p>
+<ul>  
+
+<li> Stochastic Games of Risk-Sensitive Players with Quasi-Hyperbolic Discounting, <b>Automatica</b>, 2026 (with A.Jaskiewicz and A.S.Nowak) </li>
+
+</ul>
+</p>
+
+<h4>Fixed points and comparative statics </h4>
+
+<p>
+<ul>  
+
+<li> A Tarski-Kantorovich theorem for correspondences, <b> Journal of Mathematical Economics</b>, 2025 (with L.Balbus, W.Olszewski, K.Reffett) </li>
+
+</ul>
+</p>
+
+<h4>Indifference prices and preferences over prospects </h4>
+
+<p>
+<ul>  
+
+<li> On reference dependence and complementary symmetry, <b>Journal of Mathematical Psychology</b>, 2022, (with M.Lewandowski)
+</li>
+
+</ul>
+</p>
+ 
+<h4>Journal rankings</h4>
+
+<p>
+<ul>  
+
+<li> On journal rankings and researchers' abilities, <b>Journal of Informerics</b>, 2024 (with W.Charemza, and M.Lewandowski)
+ </li>
+
+</ul>
+</p>
+
+<h4>Recursive competitive equilibrium</h4>
+
+
+<h4>Costly self control</h4>
 
 
 <h3 class="year">2026</h3>

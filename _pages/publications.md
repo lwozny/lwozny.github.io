@@ -2,9 +2,31 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications by years in reversed chronological order.
+description: Publications by topics and (below) also years.
 years: [2019, 1956, 1950, 1935, 1905]
 ---
+<h4>Quasi-hyperbolic discounting</h4>
+
+<p>
+<ul>  
+
+<li> March 2025 - Short research visits in UC Berkeley, Caltech, UC Santa Cruz, UC Davis, US Santa Barbara, CalPoly</li>
+
+</ul>
+</p>
+
+<h4>Stochastic games</h4>
+
+<p>
+<ul>  
+
+<li> March 2025 - Short research visits in UC Berkeley, Caltech, UC Santa Cruz, UC Davis, US Santa Barbara, CalPoly</li>
+
+</ul>
+</p>
+
+
+
 <h3 class="year">2026</h3>
 <ol class="bibliography">
 <li>

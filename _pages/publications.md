@@ -120,9 +120,9 @@ years: [2019, 1956, 1950, 1935, 1905]
 <p>
 <ul>  
 
-<li> On the price of commitment assets in a general equilibrium model with credit constraints and tempted consumers, <b>B.E. Journal of Theoretical Economics</b> 2016</li>
+<li> On the price of commitment assets in a general equilibrium model with credit constraints and tempted consumers, <b>B.E. Journal of Theoretical Economics</b>, 2016</li>
 
-<li> On incentives, temptation and self-control, <b>Mathematical Social Sciences</b> 2015</li>
+<li> On incentives, temptation and self-control, <b>Mathematical Social Sciences</b>, 2015</li>
 </ul>
 </p>
 

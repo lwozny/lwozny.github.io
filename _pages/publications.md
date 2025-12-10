@@ -23,7 +23,7 @@ years: [2019, 1956, 1950, 1935, 1905]
 <p>
 <ul>  
 
-<li> </li>
+<li> Markov distributional equilibrium dynamics in games with complementarities and no aggregate risk, <b>Theoretical Economics</b>, 2022 (with L.Balbus, P.Dziewulski and K.Reffett)</li>
 
 </ul>
 </p>

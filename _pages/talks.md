@@ -30,6 +30,8 @@ description: Co-organized conferences / Conference talks / Invited talks
 <p>
 <ul>	
 
+<li> 10th Hurwicz Workshop on Mechanism Design, Warsaw, PL, Nov / Dec TBA 2026 <a href=""> [link]</a> Organizing and Scientific Committee.</li>
+
 <li> 9th Hurwicz Workshop on Mechanism Design, Warsaw, PL, Dec 5-7, 2024, <a href="https://sites.google.com/view/hurwicz2024"> [link]</a> Organizing and Scientific Committee.</li>
 
 <li> XXXII European Workshop in Economic Theory, EWET, Manchester, UK, 2024, <a href="https://sites.google.com/view/ewet2024/welcome"> [link]</a>. Scientific Committee</li>
@@ -64,6 +66,9 @@ description: Co-organized conferences / Conference talks / Invited talks
 
 <p>
 <ul>	
+
+<li> <b> XI Kongres Ekonomistów Polskich</b>, Poznań, 2025 <br />
+paper: <i> Loss aversion or preference imprecision? On WTA-WTP disparity without endowment effect </i>.</li>
 
 <li> <b> Summer Workshop in Economic Theory</b>, Paris, France, 2025 <br />
 paper: <i> Loss aversion or preference imprecision? On WTA-WTP disparity without endowment effect </i>.</li>

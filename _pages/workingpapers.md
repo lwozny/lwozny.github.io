@@ -55,13 +55,6 @@ The  model  is calibrated to the reward scheme introduced within the Polish high
 <hr />
 
 
-<h4 id="supermodular-comparative-statics-2019--joint-with-pawel-dziewulski">Supermodular comparative statics, 2019 <br /> (joint with Pawel Dziewulski)</h4>
-
-<p>An important set of questions in economics concern how changes in the model’s exogenous parameters (income, wealth, productivity, distortions, information, etc.)
-impact individual choices and market outcomes. In this paper, we develop a theory of supermodular comparative statics that addresses this set of issues. Specifically, we show ordinal and cardinal conditions one should impose on the optimization
-problem so that its solution is a supermodular function or a supermodular correspondence. We illustrate application to industrial organization, diversity and performance, supermodular stochastic orders and extensive form games with strategic complements.</p>
-<hr />
-
 <h4 id="repeated-moral-hazard-with-costly-self-control-2017"><a href="/assets/pdf/DynamicGPPA.pdf">Repeated moral hazard with costly self-control</a>, 2017</h4>
 
 <p>In this paper I solve for the optimal dynamic contract when an agent exhibits costly self control, demonstrating that reduction of agent’s temptations can provide incentives.

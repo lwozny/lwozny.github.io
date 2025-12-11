@@ -32,7 +32,8 @@ years: [2019, 1956, 1950, 1935, 1905]
 <p>
 <ul>  
 
-<li> Markov distributional equilibrium dynamics in games with complementarities and no aggregate risk, <b>Theoretical Economics</b>, 2022 (with L.Balbus, P.Dziewulski and K.Reffett)</li>
+<li> Markov distributional equilibrium dynamics in games with complementarities and no aggregate risk,     [<a href="https://econtheory.org/ojs/index.php/te/article/view/20220725" target="_blank">Theoretical Economics</a>, 2022, (with L.Balbus, P.Dziewulski and K.Reffett),     [<a href="https://econtheory.org/ojs/index.php/te/article/viewFile/20220725/33811/985" target="_blank">PDF</a>].</li>
+  
 
 <li> A qualitative theory of large games with strategic complementarities, <b>Economic Theory</b>, 2019 (with L.Balbus, P.Dziewulski and K.Reffett)</li>
 

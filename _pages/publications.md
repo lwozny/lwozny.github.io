@@ -18,9 +18,16 @@ years: [2019, 1956, 1950, 1935, 1905]
 <li> Time consistent equilibria in dynamic models with recursive payoffs and behavioral discounting, 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022053122000837" target="_blank">Journal of Economic Theory</a>, 2022 (with L.Balbus and K.Reffett),   [<a href="/assets/pdf/BehavioralDiscounting.pdf" target="_blank">PDF</a>]. </li>
   
-<li> On uniqueness of time-consistent Markov policies for quasi-hyperbolic consumers under uncertainty, <b>Journal of Economic Theory </b>, 2018 (with L.Balbus and K.Reffett)</li>
+<li> On uniqueness of time-consistent Markov policies for quasi-hyperbolic consumers under uncertainty, <a href="http://www.sciencedirect.com/science/article/pii/S0022053118300991" target="_blank">Journal of Economic Theory</a>, 2018, (with L.Balbus and K.Reffett),     [<a href="/assets/pdf/JET2018.pdf" target="_blank">PDF</a>]. </li>
 
-<li> Dynamic Games in Macroeconomics, <b>Handbook of Dynamic Game Theory</b>, Springer, 2018 (with L.Balbus and K.Reffett)</li>
+  
+  
+
+
+
+<li> Dynamic Games in Macroeconomics, <a href="https://doi.org/10.1007/978-3-319-27335-8_18-1" target="_blank">Handbook of Dynamic Game Theory</a>, Springer, 2018, (with L.Balbus and K.Reffett),   [<a href="/assets/pdf/DGmacroEcon.pdf" target="_blank">PDF</a>]. </li>
+  
+  
 
 <li> Time consistent Markov policies in dynamic economies with quasi-hyperbolic consumers, <b>International Journal of Game Theory</b>, 2015 (with L.Balbus and K.Reffett)</li>
 </ul>
@@ -34,7 +41,9 @@ years: [2019, 1956, 1950, 1935, 1905]
 <li> Markov distributional equilibrium dynamics in games with complementarities and no aggregate risk,     [<a href="https://econtheory.org/ojs/index.php/te/article/view/20220725" target="_blank">Theoretical Economics</a>, 2022, (with L.Balbus, P.Dziewulski and K.Reffett),     [<a href="https://econtheory.org/ojs/index.php/te/article/viewFile/20220725/33811/985" target="_blank">PDF</a>].</li>
   
 
-<li> A qualitative theory of large games with strategic complementarities, <b>Economic Theory</b>, 2019 (with L.Balbus, P.Dziewulski and K.Reffett)</li>
+<li> A qualitative theory of large games with strategic complementarities,     [<a href="https://link.springer.com/article/10.1007/s00199-017-1075-7" target="_blank">Economic Theory</a>, 2019 (with L.Balbus, P.Dziewulski and K.Reffett),     [<a href="/assets/pdf/BDRWET2017.pdf" target="_blank">PDF</a>]. </li>
+
+  
 
 <li> Monotone equilibria in nonatomic supermodular games. A comment, <b>Games and Economic Behavior</b>, 2015 (with L.Balbus and K.Reffett) </li>
 
@@ -103,10 +112,11 @@ years: [2019, 1956, 1950, 1935, 1905]
 
 <li> Lipschitz recursive equilibrium with a minimal state space and heterogeneous agents,  <a href="http://www.sciencedirect.com/science/article/pii/S0304406819300151" target="_blank">Journal of Mathematical Economics</a>, 2019, (with R.Raad),   [<a href="/assets/pdf/RaadWozny.pdf" target="_blank">PDF</a>]. </li>
 
-
+  
+<li> Comparing recursive equilibrium in economies with dynamic complementarities and indeterminacy, <a href="https://link.springer.com/article/10.1007%2Fs00199-017-1046-z" target="_blank">Economic Theory</a>, 2018, (with M.Datta and K.Reffett),     [<a href="/assets/pdf/onlinefirst.pdf" target="_blank">PDF</a>]. </li>
 
   
-<li> Comparing recursive equilibrium in economies with dynamic complementarities and indeterminacy, <b>Economic Theory</b>, 2018 (with M.Datta and K.Reffett)</li>
+
 </ul>
 </p>
  

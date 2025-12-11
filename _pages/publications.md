@@ -13,11 +13,10 @@ years: [2019, 1956, 1950, 1935, 1905]
 <li> Markov perfect equilibria in stochastic growth models with quasi-hyperbolic discounting and risk-sensitive preferences,     <a href="https://link.springer.com/article/10.1007/s13235-025-00683-x" target="_blank">Dynamic Games and Applications</a>, 2026, (with L.Balbus, A.Jaskiewicz and A.S.Nowak),  [<a href="/assets/pdf/BJNW2026.pdf" target="_blank">PDF</a>].</li>
 
 <li> Time consistent policies and quasi-hyperbolic discounting, <a href="https://doi.org/10.1093/acrefore/9780190625979.013.851" target="_blank">Oxford Research Encyclopedia of Economics and Finance</a>, 2023, (with L.Balbus and K.Reffett),    [<a href="/assets/pdf/OxfordChapter.pdf" target="_blank">PDF</a>].</li>
-	 
-  
+	
 
 <li> Time consistent equilibria in dynamic models with recursive payoffs and behavioral discounting, 
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022053122000837" target="_blank">Journal of Economic Theory</a>, 2022 (with L.Balbus and K.Reffett),   [<a href="/assets/pdf/BehavioralDiscounting.pdf" target="_blank">PDF</a>]. </li>[<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022053122000837" target="_blank">HTML</a>].</li>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022053122000837" target="_blank">Journal of Economic Theory</a>, 2022 (with L.Balbus and K.Reffett),   [<a href="/assets/pdf/BehavioralDiscounting.pdf" target="_blank">PDF</a>]. </li>
   
 <li> On uniqueness of time-consistent Markov policies for quasi-hyperbolic consumers under uncertainty, <b>Journal of Economic Theory </b>, 2018 (with L.Balbus and K.Reffett)</li>
 

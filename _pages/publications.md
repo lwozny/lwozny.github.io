@@ -90,7 +90,7 @@ years: [2019, 1956, 1950, 1935, 1905]
 <p>
 <ul>  
 
-<li> On reference dependence and complementary symmetry,     [<a href="https://doi.org/10.1016/j.jmp.2022.102653" target="_blank">Journal of Mathematical Psychology</a>, 2022, (with M.Lewandowski),     [<a href="/assets/pdf/ComplementarySymmetry.pdf" target="_blank">PDF</a>].</li>
+<li> On reference dependence and complementary symmetry,     <a href="https://doi.org/10.1016/j.jmp.2022.102653" target="_blank">Journal of Mathematical Psychology</a>, 2022, (with M.Lewandowski),     [<a href="/assets/pdf/ComplementarySymmetry.pdf" target="_blank">PDF</a>].</li>
 
 
 
@@ -101,8 +101,11 @@ years: [2019, 1956, 1950, 1935, 1905]
 <p>
 <ul>  
 
-<li> Lipschitz recursive equilibrium with a minimal state space and heterogeneous agents, <b>Journal of Mathematical Economics</b>, 2019 (with R.Raad)</li>
+<li> Lipschitz recursive equilibrium with a minimal state space and heterogeneous agents,  <a href="http://www.sciencedirect.com/science/article/pii/S0304406819300151" target="_blank">Journal of Mathematical Economics</a>, 2019, (with R.Raad),   [<a href="/assets/pdf/RaadWozny.pdf" target="_blank">PDF</a>]. </li>
 
+
+
+  
 <li> Comparing recursive equilibrium in economies with dynamic complementarities and indeterminacy, <b>Economic Theory</b>, 2018 (with M.Datta and K.Reffett)</li>
 </ul>
 </p>

@@ -10,13 +10,13 @@ years: [2019, 1956, 1950, 1935, 1905]
 <p>
 <ul>  
 
-<li> Markov perfect equilibria in stochastic growth models with quasi-hyperbolic discounting and risk-sensitive preferences, <a href="https://doi.org/10.1016/j.automatica.2025.112656" target="_blank">Dynamic Games and Applications</a>, 2026, (with L.Balbus, A.Jaskiewicz and A.S.Nowak),  [<a href="/assets/pdf/JNW2026.pdf" target="_blank">PDF</a>].
+<li> Markov perfect equilibria in stochastic growth models with quasi-hyperbolic discounting and risk-sensitive preferences,     [<a href="https://link.springer.com/article/10.1007/s13235-025-00683-x" target="_blank">Dynamic Games and Applications</a>], 2026, (with L.Balbus, A.Jaskiewicz and A.S.Nowak),  [<a href="/assets/pdf/BJNW2026.pdf" target="_blank">PDF</a>].</li>
 
+<li> Time consistent policies and quasi-hyperbolic discounting, <a href="https://doi.org/10.1093/acrefore/9780190625979.013.851" target="_blank">Oxford Research Encyclopedia of Economics and Finance</a>, 2023(with L.Balbus and K.Reffett),    [<a href="/assets/pdf/OxfordChapter.pdf" target="_blank">PDF</a>].</li>
+
+ 
   
-
-</li>
-
-<li> Time consistent policies and quasi-hyperbolic discounting, <b> Oxford Research Encyclopedia of Economics and Finance</b>, 2023(with L.Balbus and K.Reffett)</li>
+ 
 
 <li> Time consistent equilibria in dynamic models with recursive payoffs and behavioral discounting, <b>Journal of Economic Theory</b>, 2022 (with L.Balbus and K.Reffett)</li>
 
@@ -50,7 +50,7 @@ years: [2019, 1956, 1950, 1935, 1905]
 <p>
 <ul>  
 
-<li> Stochastic Games of Risk-Sensitive Players with Quasi-Hyperbolic Discounting, <b>Automatica</b>, 2026 (with A.Jaskiewicz and A.S.Nowak) </li>
+<li> Stochastic Games of Risk-Sensitive Players with Quasi-Hyperbolic Discounting, <a href="https://doi.org/10.1016/j.automatica.2025.112656" target="_blank">Automatica</a>, 2026 (with A.Jaskiewicz and A.S.Nowak),[<a href="/assets/pdf/JNW2026.pdf" target="_blank">PDF</a>]. </li>
 
 <li> A strategic dynamic programming method for studying short-memory equilibria of stochastic games with uncountable number of states, <b>Dynamic Games and Applications</b>, 2016 (with L.Balbus)</li>
 
@@ -81,7 +81,7 @@ years: [2019, 1956, 1950, 1935, 1905]
 <p>
 <ul>  
 
-<li> A Tarski-Kantorovich theorem for correspondences, <b> Journal of Mathematical Economics</b>, 2025 (with L.Balbus, W.Olszewski, K.Reffett) </li>
+<li> A Tarski-Kantorovich theorem for correspondences,  <a href="https://doi.org/10.1016/j.jmateco.2025.103106">Journal of Mathematical Economics</a>, 2025, (with L.Balbus, W.Olszewski, K.Reffett),         [<a href="/assets/pdf/Tarski.pdf" target="_blank">PDF</a>]. </li>
 
 </ul>
 </p>
@@ -112,8 +112,8 @@ years: [2019, 1956, 1950, 1935, 1905]
 <p>
 <ul>  
 
-<li> On journal rankings and researchers' abilities, <b>Journal of Informetrics</b>, 2024 (with W.Charemza, and M.Lewandowski)
- </li>
+<li> On journal rankings and researchers' abilities,  <a href="https://doi.org/10.1016/j.joi.2024.101559">Journal of Informetrics</a>, 2024 (with W.Charemza, and M.Lewandowski),     [<a href="/assets/pdf/JOI.pdf" target="_blank">PDF</a>],
+	[<a href="https://ars.els-cdn.com/content/image/1-s2.0-S1751157724000725-mmc1.pdf" target="_blank">Online Appendix</a>]. </li>
 
 </ul>
 </p>

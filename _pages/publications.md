@@ -38,13 +38,19 @@ years: [2019, 1956, 1950, 1935, 1905]
 <li> Markov distributional equilibrium dynamics in games with complementarities and no aggregate risk,  <a href="https://econtheory.org/ojs/index.php/te/article/view/20220725" target="_blank">Theoretical Economics</a>, 2022, (with L.Balbus, P.Dziewulski and K.Reffett),     [<a href="https://econtheory.org/ojs/index.php/te/article/viewFile/20220725/33811/985" target="_blank">PDF</a>].</li>
   
 
-<li> A qualitative theory of large games with strategic complementarities,  <a href="https://link.springer.com/article/10.1007/s00199-017-1075-7" target="_blank">Economic Theory</a>, 2019 (with L.Balbus, P.Dziewulski and K.Reffett),     [<a href="/assets/pdf/BDRWET2017.pdf" target="_blank">PDF</a>]. </li>
+<li> A qualitative theory of large games with strategic complementarities,  <a href="https://link.springer.com/article/10.1007/s00199-017-1075-7" target="_blank">Economic Theory</a>, 2019, (with L.Balbus, P.Dziewulski and K.Reffett),     [<a href="/assets/pdf/BDRWET2017.pdf" target="_blank">PDF</a>]. </li>
+
+  
+<li> Monotone equilibria in nonatomic supermodular games. A comment,   [<a href="http://dx.doi.org/10.1016/j.geb.2015.05.010" target="_blank">Games and Economic Behavior</a>, 2015, (with L.Balbus and K.Reffett),   [<a href="/assets/pdf/BRWGEB2015.pdf" target="_blank">PDF</a>]. </li>
+
 
   
 
-<li> Monotone equilibria in nonatomic supermodular games. A comment, <b>Games and Economic Behavior</b>, 2015 (with L.Balbus and K.Reffett) </li>
+  
+<li> Differential information in large games with strategic complementarities,  <a href="http://link.springer.com/article/10.1007/s00199-014-0827-x" target="_blank">Economic Theory</a>, 2015, (with L.Balbus, P.Dziewulski and K.Reffett),     [<a href="/assets/pdf/BDRWET2015.pdf" target="_blank">PDF</a>]. </li>
 
-<li> Differential information in large games with strategic complementarities, <b>Economic Theory</b>, 2015 (with L.Balbus, P.Dziewulski and K.Reffett) </li>
+  
+ 
 
 </ul>
 </p>
@@ -139,7 +145,10 @@ years: [2019, 1956, 1950, 1935, 1905]
 
   
 
-<li> On incentives, temptation and self-control, <b>Mathematical Social Sciences</b>, 2015</li>
+<li> On incentives, temptation and self-control,   <a href="http://www.sciencedirect.com/science/article/pii/S0165489615000025" target="_blank">Mathematical Social Sciences</a>, 2015,     [<a href="/assets/pdf/MSSPublished.pdf" target="_blank">PDF</a>].</li>
+
+  
+
 </ul>
 </p>
 

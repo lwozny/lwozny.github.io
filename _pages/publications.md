@@ -26,7 +26,12 @@ years: [2019, 1956, 1950, 1935, 1905]
   
   
 
-<li> Time consistent Markov policies in dynamic economies with quasi-hyperbolic consumers, <b>International Journal of Game Theory</b>, 2015 (with L.Balbus and K.Reffett)</li>
+<li> Time consistent Markov policies in dynamic economies with quasi-hyperbolic consumers,   [<a href="https://link.springer.com/article/10.1007/s00182-014-0420-3" target="_blank">International Journal of Game Theory</a>, 2015 (with L.Balbus and K.Reffett),
+    [<a href="/assets/pdf/IJGTPublished.pdf" target="_blank">PDF</a>], 
+   [<a href="/assets/pdf/Corrigendum.pdf" target="_blank">Corrigendum</a>].</li>
+
+ 
+
 </ul>
 </p>
 
@@ -41,7 +46,7 @@ years: [2019, 1956, 1950, 1935, 1905]
 <li> A qualitative theory of large games with strategic complementarities,  <a href="https://link.springer.com/article/10.1007/s00199-017-1075-7" target="_blank">Economic Theory</a>, 2019, (with L.Balbus, P.Dziewulski and K.Reffett),     [<a href="/assets/pdf/BDRWET2017.pdf" target="_blank">PDF</a>]. </li>
 
   
-<li> Monotone equilibria in nonatomic supermodular games. A comment,   [<a href="http://dx.doi.org/10.1016/j.geb.2015.05.010" target="_blank">Games and Economic Behavior</a>, 2015, (with L.Balbus and K.Reffett),   [<a href="/assets/pdf/BRWGEB2015.pdf" target="_blank">PDF</a>]. </li>
+<li> Monotone equilibria in nonatomic supermodular games. A comment,   <a href="http://dx.doi.org/10.1016/j.geb.2015.05.010" target="_blank">Games and Economic Behavior</a>, 2015, (with L.Balbus and K.Reffett),   [<a href="/assets/pdf/BRWGEB2015.pdf" target="_blank">PDF</a>]. </li>
 
 
   

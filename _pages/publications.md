@@ -16,7 +16,7 @@ years: [2019, 1956, 1950, 1935, 1905]
 	
 
 <li> Time consistent equilibria in dynamic models with recursive payoffs and behavioral discounting, 
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022053122000837" target="_blank">Journal of Economic Theory</a>, 2022 (with L.Balbus and K.Reffett),   [<a href="/assets/pdf/BehavioralDiscounting.pdf" target="_blank">PDF</a>]. </li>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022053122000837" target="_blank">Journal of Economic Theory</a>, 2022, (with L.Balbus and K.Reffett),   [<a href="/assets/pdf/BehavioralDiscounting.pdf" target="_blank">PDF</a>]. </li>
   
 <li> On uniqueness of time-consistent Markov policies for quasi-hyperbolic consumers under uncertainty, <a href="http://www.sciencedirect.com/science/article/pii/S0022053118300991" target="_blank">Journal of Economic Theory</a>, 2018, (with L.Balbus and K.Reffett),     [<a href="/assets/pdf/JET2018.pdf" target="_blank">PDF</a>]. </li>
 
@@ -26,7 +26,7 @@ years: [2019, 1956, 1950, 1935, 1905]
   
   
 
-<li> Time consistent Markov policies in dynamic economies with quasi-hyperbolic consumers,   [<a href="https://link.springer.com/article/10.1007/s00182-014-0420-3" target="_blank">International Journal of Game Theory</a>, 2015 (with L.Balbus and K.Reffett),
+<li> Time consistent Markov policies in dynamic economies with quasi-hyperbolic consumers,  <a href="https://link.springer.com/article/10.1007/s00182-014-0420-3" target="_blank">International Journal of Game Theory</a>, 2015, (with L.Balbus and K.Reffett),
     [<a href="/assets/pdf/IJGTPublished.pdf" target="_blank">PDF</a>], 
    [<a href="/assets/pdf/Corrigendum.pdf" target="_blank">Corrigendum</a>].</li>
 
@@ -68,7 +68,7 @@ years: [2019, 1956, 1950, 1935, 1905]
 
 <li> Stochastic Games of Risk-Sensitive Players with Quasi-Hyperbolic Discounting, <a href="https://doi.org/10.1016/j.automatica.2025.112656" target="_blank">Automatica</a>, 2026 (with A.Jaskiewicz and A.S.Nowak), [<a href="/assets/pdf/JNW2026.pdf" target="_blank">PDF</a>]. </li>
 
-<li> A strategic dynamic programming method for studying short-memory equilibria of stochastic games with uncountable number of states, <a href="https://doi.org/10.1007/s13235-015-0171-1" target="_blank">Dynamic Games and Applications</a>, 2016 (with L.Balbus),   [<a href="/assets/pdf/BWDGAA.pdf" target="_blank">PDF</a>]. </li>
+<li> A strategic dynamic programming method for studying short-memory equilibria of stochastic games with uncountable number of states, <a href="https://doi.org/10.1007/s13235-015-0171-1" target="_blank">Dynamic Games and Applications</a>, 2016, (with L.Balbus),   [<a href="/assets/pdf/BWDGAA.pdf" target="_blank">PDF</a>]. </li>
 
 <li> A constructive study of Markov equilibria in stochastic games with strategic complementarities, <a href="http://dx.doi.org/10.1016/j.jet.2013.09.005" target="_blank">Journal of Economic Theory</a>, 2014, (with L.Balbus, and K.Reffett),
     [<a href="/assets/pdf/BRWJET2014.pdf" target="_blank">PDF</a>].</li>
@@ -92,7 +92,7 @@ years: [2019, 1956, 1950, 1935, 1905]
 <li> A note on Markov perfect equilibria in a class of non-stationary stochastic bequest games, <a href="http://www.sciencedirect.com/science/article/pii/S0022247X17306819" target="_blank">Journal of Mathematical Analysis and Applications</a>, 2017, (with L.Balbus, A.Jaskiewicz and A.S.Nowak),     [<a href="/assets/pdf/JMAABJNW.pdf" target="_blank">PDF</a>].</li>
 
 
-<li> A constructive geometrical approach to the uniqueness of Markov stationary equilibrium in stochastic games of intergenerational altruism,     [<a href="http://www.sciencedirect.com/science/article/pii/S0165188913000134" target="_blank">Journal of Economic Dynamics and Control</a>, 2013, (with L.Balbus, and K.Reffett),     [<a href="/assets/pdf/BRWJEDC.pdf" target="_blank">PDF</a>]. </li>
+<li> A constructive geometrical approach to the uniqueness of Markov stationary equilibrium in stochastic games of intergenerational altruism,   <a href="http://www.sciencedirect.com/science/article/pii/S0165188913000134" target="_blank">Journal of Economic Dynamics and Control</a>, 2013, (with L.Balbus, and K.Reffett),     [<a href="/assets/pdf/BRWJEDC.pdf" target="_blank">PDF</a>]. </li>
 
   
   

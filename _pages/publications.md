@@ -38,10 +38,10 @@ years: [2019, 1956, 1950, 1935, 1905]
 <p>
 <ul>  
 
-<li> Markov distributional equilibrium dynamics in games with complementarities and no aggregate risk,     [<a href="https://econtheory.org/ojs/index.php/te/article/view/20220725" target="_blank">Theoretical Economics</a>, 2022, (with L.Balbus, P.Dziewulski and K.Reffett),     [<a href="https://econtheory.org/ojs/index.php/te/article/viewFile/20220725/33811/985" target="_blank">PDF</a>].</li>
+<li> Markov distributional equilibrium dynamics in games with complementarities and no aggregate risk,  <a href="https://econtheory.org/ojs/index.php/te/article/view/20220725" target="_blank">Theoretical Economics</a>, 2022, (with L.Balbus, P.Dziewulski and K.Reffett),     [<a href="https://econtheory.org/ojs/index.php/te/article/viewFile/20220725/33811/985" target="_blank">PDF</a>].</li>
   
 
-<li> A qualitative theory of large games with strategic complementarities,     [<a href="https://link.springer.com/article/10.1007/s00199-017-1075-7" target="_blank">Economic Theory</a>, 2019 (with L.Balbus, P.Dziewulski and K.Reffett),     [<a href="/assets/pdf/BDRWET2017.pdf" target="_blank">PDF</a>]. </li>
+<li> A qualitative theory of large games with strategic complementarities,  <a href="https://link.springer.com/article/10.1007/s00199-017-1075-7" target="_blank">Economic Theory</a>, 2019 (with L.Balbus, P.Dziewulski and K.Reffett),     [<a href="/assets/pdf/BDRWET2017.pdf" target="_blank">PDF</a>]. </li>
 
   
 
@@ -74,7 +74,8 @@ years: [2019, 1956, 1950, 1935, 1905]
 <p>
 <ul>  
 
-<li> A note on Markov perfect equilibria in a class of non-stationary stochastic bequest games, <b>Journal of Mathematical Analysis and Applications</b>, 2017 (with L.Balbus, A.Jaskiewicz and A.S.Nowak)</li>
+<li> A note on Markov perfect equilibria in a class of non-stationary stochastic bequest games, <a href="http://www.sciencedirect.com/science/article/pii/S0022247X17306819" target="_blank">Journal of Mathematical Analysis and Applications</a>, 2017, (with L.Balbus, A.Jaskiewicz and A.S.Nowak),     [<a href="/assets/pdf/JMAABJNW.pdf" target="_blank">PDF</a>].</li>
+
 
 <li> A constructive geometrical approach to the uniqueness of Markov stationary equilibrium in stochastic games of intergenerational altruism, <b>Journal of Economic Dynamics and Control</b>, 2013 (with L.Balbus, and K.Reffett) </li>
 

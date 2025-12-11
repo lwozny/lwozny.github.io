@@ -21,9 +21,6 @@ years: [2019, 1956, 1950, 1935, 1905]
 <li> On uniqueness of time-consistent Markov policies for quasi-hyperbolic consumers under uncertainty, <a href="http://www.sciencedirect.com/science/article/pii/S0022053118300991" target="_blank">Journal of Economic Theory</a>, 2018, (with L.Balbus and K.Reffett),     [<a href="/assets/pdf/JET2018.pdf" target="_blank">PDF</a>]. </li>
 
   
-  
-
-
 
 <li> Dynamic Games in Macroeconomics, <a href="https://doi.org/10.1007/978-3-319-27335-8_18-1" target="_blank">Handbook of Dynamic Game Theory</a>, Springer, 2018, (with L.Balbus and K.Reffett),   [<a href="/assets/pdf/DGmacroEcon.pdf" target="_blank">PDF</a>]. </li>
   
@@ -60,7 +57,7 @@ years: [2019, 1956, 1950, 1935, 1905]
 
 <li> Stochastic Games of Risk-Sensitive Players with Quasi-Hyperbolic Discounting, <a href="https://doi.org/10.1016/j.automatica.2025.112656" target="_blank">Automatica</a>, 2026 (with A.Jaskiewicz and A.S.Nowak), [<a href="/assets/pdf/JNW2026.pdf" target="_blank">PDF</a>]. </li>
 
-<li> A strategic dynamic programming method for studying short-memory equilibria of stochastic games with uncountable number of states, <b>Dynamic Games and Applications</b>, 2016 (with L.Balbus)</li>
+<li> A strategic dynamic programming method for studying short-memory equilibria of stochastic games with uncountable number of states, <a href="https://doi.org/10.1007/s13235-015-0171-1" target="_blank">Dynamic Games and Applications</a>, 2016 (with L.Balbus),   [<a href="/assets/pdf/BWDGAA.pdf" target="_blank">PDF</a>]. </li>
 
 <li> A constructive study of Markov equilibria in stochastic games with strategic complementarities, <b>Journal of Economic Theory</b>, 2014 (with L.Balbus, and K.Reffett) </li>
 
@@ -138,7 +135,9 @@ years: [2019, 1956, 1950, 1935, 1905]
 <p>
 <ul>  
 
-<li> On the price of commitment assets in a general equilibrium model with credit constraints and tempted consumers, <b>B.E. Journal of Theoretical Economics</b>, 2016</li>
+<li> On the price of commitment assets in a general equilibrium model with credit constraints and tempted consumers,  <a href="http://dx.doi.org/10.1515/bejte-2015-0019" target="_blank">B.E. Journal of Theoretical Economics</a>, 2016,     [<a href="/assets/pdf/BEPrinted.pdf" target="_blank">PDF</a>]. </li>
+
+  
 
 <li> On incentives, temptation and self-control, <b>Mathematical Social Sciences</b>, 2015</li>
 </ul>
@@ -1365,11 +1364,7 @@ indeterminacy of dynamic equilibrium.</p>
   
   
   
-    [<a href="https://doi.org/10.1007/s13235-015-0171-1" target="_blank">HTML</a>]
-  
-  
-    [<a href="/assets/pdf/BWDGAA.pdf" target="_blank">PDF</a>]
-  
+  +
   
   
   

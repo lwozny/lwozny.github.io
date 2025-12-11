@@ -70,9 +70,16 @@ years: [2019, 1956, 1950, 1935, 1905]
 
 <li> A strategic dynamic programming method for studying short-memory equilibria of stochastic games with uncountable number of states, <a href="https://doi.org/10.1007/s13235-015-0171-1" target="_blank">Dynamic Games and Applications</a>, 2016 (with L.Balbus),   [<a href="/assets/pdf/BWDGAA.pdf" target="_blank">PDF</a>]. </li>
 
-<li> A constructive study of Markov equilibria in stochastic games with strategic complementarities, <b>Journal of Economic Theory</b>, 2014 (with L.Balbus, and K.Reffett) </li>
+<li> A constructive study of Markov equilibria in stochastic games with strategic complementarities, <a href="http://dx.doi.org/10.1016/j.jet.2013.09.005" target="_blank">Journal of Economic Theory</a>, 2014, (with L.Balbus, and K.Reffett),
+    [<a href="/assets/pdf/BRWJET2014.pdf" target="_blank">PDF</a>].</li>
 
-<li> Markov stationary equilibria in stochastic supermodular games with imperfect private and public information, <b>Dynamic Games and Applications</b>, 2013 (with L.Balbus, and K.Reffett) </li>
+ 
+
+<li> Markov stationary equilibria in stochastic supermodular games with imperfect private and public information,  <a href="http://link.springer.com/article/10.1007/s13235-012-0065-4" target="_blank">Dynamic Games and Applications</a>, 2013, (with L.Balbus, and K.Reffett),     [<a href="/assets/pdf/BRWdgaa.pdf" target="_blank">PDF</a>]. </li>
+
+
+ 
+
 </ul>
 </p>
 
@@ -85,11 +92,22 @@ years: [2019, 1956, 1950, 1935, 1905]
 <li> A note on Markov perfect equilibria in a class of non-stationary stochastic bequest games, <a href="http://www.sciencedirect.com/science/article/pii/S0022247X17306819" target="_blank">Journal of Mathematical Analysis and Applications</a>, 2017, (with L.Balbus, A.Jaskiewicz and A.S.Nowak),     [<a href="/assets/pdf/JMAABJNW.pdf" target="_blank">PDF</a>].</li>
 
 
-<li> A constructive geometrical approach to the uniqueness of Markov stationary equilibrium in stochastic games of intergenerational altruism, <b>Journal of Economic Dynamics and Control</b>, 2013 (with L.Balbus, and K.Reffett) </li>
+<li> A constructive geometrical approach to the uniqueness of Markov stationary equilibrium in stochastic games of intergenerational altruism,     [<a href="http://www.sciencedirect.com/science/article/pii/S0165188913000134" target="_blank">Journal of Economic Dynamics and Control</a>, 2013, (with L.Balbus, and K.Reffett),     [<a href="/assets/pdf/BRWJEDC.pdf" target="_blank">PDF</a>]. </li>
 
-<li> Intergenerational Interactions in Human Capital Accumulation, <b>B.E. Journal of Theoretical Economics</b>, 2012 (with J.Growiec)</li>
+  
+  
 
-<li> Stationary Markovian equilibrium in altruistic stochastic OLG models with limited commitment, <b>Journal of Mathematical Economics</b>, 2012 (with L.Balbus, and K.Reffett)   </li>
+<li> Intergenerational Interactions in Human Capital Accumulation,  <a href="http://www.degruyter.com/view/j/bejte.2012.12.issue-1/1935-1704.1877/1935-1704.1877.xml" target="_blank">B.E. Journal of Theoretical Economics</a>, 2012, (with J.Growiec),     [<a href="/assets/pdf/BEJTEPublished.pdf" target="_blank">PDF</a>]. </li>
+
+
+  
+  
+
+<li> Stationary Markovian equilibrium in altruistic stochastic OLG models with limited commitment, <a href="http://www.sciencedirect.com/science/article/pii/S0304406812000080" target="_blank">Journal of Mathematical Economics</a>, 2012, (with L.Balbus, and K.Reffett),    [<a href="/assets/pdf/BRWJMathE2012.pdf" target="_blank">PDF</a>].   </li>
+  
+  
+
+
 </ul>
 </p>
 

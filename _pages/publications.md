@@ -10,7 +10,11 @@ years: [2019, 1956, 1950, 1935, 1905]
 <p>
 <ul>  
 
-<li> Markov perfect equilibria in stochastic growth models with quasi-hyperbolic discounting and risk-sensitive preferences, <b>Dynamic Games and Applications </b>, 2026 (with L.Balbus, A.Jaskiewicz and A.S.Nowak)</li>
+<li> Markov perfect equilibria in stochastic growth models with quasi-hyperbolic discounting and risk-sensitive preferences, <a href="https://doi.org/10.1016/j.automatica.2025.112656" target="_blank">Dynamic Games and Applications</a>, 2026, (with L.Balbus, A.Jaskiewicz and A.S.Nowak),  [<a href="/assets/pdf/JNW2026.pdf" target="_blank">PDF</a>].
+
+  
+
+</li>
 
 <li> Time consistent policies and quasi-hyperbolic discounting, <b> Oxford Research Encyclopedia of Economics and Finance</b>, 2023(with L.Balbus and K.Reffett)</li>
 

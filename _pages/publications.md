@@ -45,7 +45,7 @@ years: [2019, 1956, 1950, 1935, 1905]
 
     <span class="periodical">
     
-      <em>Automatica</em>,
+      <b>Automatica</b>,
     
     
       vol. 183, 112656, 2026.

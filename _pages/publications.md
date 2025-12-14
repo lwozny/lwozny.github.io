@@ -115,7 +115,7 @@ years: [2019, 1956, 1950, 1935, 1905]
 
     <span class="periodical">
     
-      <em>Dynamic Games and Applications</em>,
+      <em><b>Dynamic Games and Applications</b></em>,
     
     
       online first,

@@ -93,14 +93,14 @@ years: [2019, 1956, 1950, 1935, 1905]
     <span class="author">
       
         
-                   <a href="https://lbalbus.github.io/Start/" target="_blank">Balbus, Łukasz</a>, 
+                   Balbus, Łukasz, 
          
               
-                <a href="http://prac.im.pwr.wroc.pl/~ajaskiew/" target="_blank">Jaskiewicz, Anna</a>, 
+Jaskiewicz, Anna, 
               
             
          
-                <a href="https://ideas.repec.org/f/pno288.html" target="_blank">Nowak, Andrzej S.</a>, 
+                Nowak, Andrzej S., 
               
                      
             
@@ -113,7 +113,7 @@ years: [2019, 1956, 1950, 1935, 1905]
 
     <span class="periodical">
     
-      <em><b>Dynamic Games and Applications</b></em>,
+            <a href="https://link.springer.com/article/10.1007/s13235-025-00683-x" target="_blank">Dynamic Games and Applications</a>,,
     
     
       online first,
@@ -136,9 +136,7 @@ years: [2019, 1956, 1950, 1935, 1905]
     [<a class="abstract">Abs</a>]
   
   
-  
-    [<a href="https://link.springer.com/article/10.1007/s13235-025-00683-x" target="_blank">HTML</a>]
-  
+   
   
     [<a href="/assets/pdf/BJNW2026.pdf" target="_blank">PDF</a>]
   
@@ -174,13 +172,13 @@ Our proof  resembles dynamic programming approach and does not involve any fixed
     <span class="title">A Tarski-Kantorovich theorem for correspondences</span>
     <span class="author">
       
-               <a href="https://sites.northwestern.edu/wol737/home/" target="_blank">Olszewski, Wojciech</a>,
+      Olszewski, Wojciech,
          
-                <a href="https://lbalbus.github.io/Start/" target="_blank">Balbus, Łukasz</a>, 
+Balbus, Łukasz, 
       
             
               
-                <a href="http://kevin-reffett.com/" target="_blank">Reffett, Kevin</a>, 
+Reffett, Kevin, 
               
               
             
@@ -195,7 +193,7 @@ Our proof  resembles dynamic programming approach and does not involve any fixed
 
     <span class="periodical">
     
-      <em>Journal of Mathematical Economics</em>
+         <a href="https://doi.org/10.1016/j.jmateco.2025.103106">Journal of Mathematical Economics</a>,
     
     
 vol. 118, 103106, 2025.
@@ -209,8 +207,6 @@ vol. 118, 103106, 2025.
   <span class="links">
   
     [<a class="abstract">Abs</a>]
-
-    [<a href="https://doi.org/10.1016/j.jmateco.2025.103106">HTML</a>]
   
 
         [<a href="/assets/pdf/Tarski.pdf" target="_blank">PDF</a>]
@@ -241,11 +237,11 @@ in A.  Our results, hence, prove a generalization of the Tarski-Kantorovich prin
     <span class="author">
       
         
-            <a href="https://scholar.google.pl/citations?user=bJzHPzoAAAAJ&hl=pl" target="_blank">Charemza, Wojciech</a>, 
+            Charemza, Wojciech, 
               
             
               
-                <a href="https://scholar.google.com/citations?user=c4VTqNsAAAAJ&hl=pl" target="_blank">Lewandowski, Michał</a>, 
+ Lewandowski, Michał, 
               
             
   
@@ -259,7 +255,7 @@ in A.  Our results, hence, prove a generalization of the Tarski-Kantorovich prin
 
     <span class="periodical">
     
-      <em>Journal of Informetrics</em>
+          <a href="https://doi.org/10.1016/j.joi.2024.101559">Journal of Informetrics</a>,
     
     
       vol. 18, Issue 3, 101559, 2024.
@@ -275,7 +271,6 @@ in A.  Our results, hence, prove a generalization of the Tarski-Kantorovich prin
     [<a class="abstract">Abs</a>]
   
 
-    [<a href="https://doi.org/10.1016/j.joi.2024.101559">HTML</a>]
     
 
     [<a href="/assets/pdf/JOI.pdf" target="_blank">PDF</a>]
@@ -309,7 +304,7 @@ in A.  Our results, hence, prove a generalization of the Tarski-Kantorovich prin
           
             
               
-                <a href="https://lbalbus.github.io/Start/" target="_blank">Balbus, Łukasz</a>, 
+                Balbus, Łukasz, 
               
             
           
@@ -319,7 +314,7 @@ in A.  Our results, hence, prove a generalization of the Tarski-Kantorovich prin
           
             
               
-                <a href="http://kevin-reffett.com/" target="_blank">Reffett, Kevin</a>, 
+Reffett, Kevin, 
               
             
           
@@ -337,7 +332,7 @@ in A.  Our results, hence, prove a generalization of the Tarski-Kantorovich prin
 
     <span class="periodical">
     
-      <em>Oxford Research Encyclopedia of Economics and Finance</em>,
+         <a href="https://doi.org/10.1093/acrefore/9780190625979.013.851" target="_blank">Oxford Research Encyclopedia of Economics and Finance</a>,
     Nov 2023,    
     
       Oxford University Press
@@ -354,7 +349,6 @@ in A.  Our results, hence, prove a generalization of the Tarski-Kantorovich prin
     [<a class="abstract">Abs</a>]
   
   
-    [<a href="https://doi.org/10.1093/acrefore/9780190625979.013.851" target="_blank">HTML</a>]
   
   
     [<a href="/assets/pdf/OxfordChapter.pdf" target="_blank">PDF</a>]
@@ -401,7 +395,7 @@ There are other important facets of TCP, including sufficient conditions for the
           
             
               
-                <a href="https://ideas.repec.org/f/pba1023.html" target="_blank">Balbus, Łukasz</a>, 
+                Balbus, Łukasz, 
               
             
           
@@ -411,7 +405,7 @@ There are other important facets of TCP, including sufficient conditions for the
           
             
               
-                <a href="http://kevin-reffett.com/" target="_blank">Reffett, Kevin</a>, 
+                Reffett, Kevin, 
               
             
           
@@ -429,7 +423,7 @@ There are other important facets of TCP, including sufficient conditions for the
 
     <span class="periodical">
     
-      <em>Journal of Economic Theory</em>
+         <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022053122000837" target="_blank">Journal of Economic Theory</a>,
     
     vol. 204, p. 105493, 2022. 
      
@@ -443,7 +437,6 @@ There are other important facets of TCP, including sufficient conditions for the
     [<a class="abstract">Abs</a>]
   
   
-    [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022053122000837" target="_blank">HTML</a>]
   
   
     [<a href="/assets/pdf/BehavioralDiscounting.pdf" target="_blank">PDF</a>]
@@ -476,7 +469,7 @@ There are other important facets of TCP, including sufficient conditions for the
           
             
               
-                <a href="https://scholar.google.com/citations?user=c4VTqNsAAAAJ&hl=pl" target="_blank">Lewandowski, Michał</a>, 
+                Lewandowski, Michał, 
               
             
   
@@ -490,7 +483,7 @@ There are other important facets of TCP, including sufficient conditions for the
 
     <span class="periodical">
     
-      <em>Journal of Mathematical Psychology</em>
+          <a href="https://doi.org/10.1016/j.jmp.2022.102653" target="_blank">Journal of Mathematical Psychology</a>,
     
     
       vol. 108, p. 102653, 2022
@@ -505,8 +498,6 @@ There are other important facets of TCP, including sufficient conditions for the
   
     [<a class="abstract">Abs</a>]
   
-
-    [<a href="https://doi.org/10.1016/j.jmp.2022.102653" target="_blank">HTML</a>]
   
     [<a href="/assets/pdf/ComplementarySymmetry.pdf" target="_blank">PDF</a>]
 

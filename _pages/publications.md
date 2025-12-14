@@ -2038,7 +2038,7 @@ Reffett, Kevin,
     <span class="periodical">
     
   
-    [<a href="http://www.sciencedirect.com/science/article/pii/S0304406812000080" target="_blank">Journal of Mathematical Economics</a>,
+    <a href="http://www.sciencedirect.com/science/article/pii/S0304406812000080" target="_blank">Journal of Mathematical Economics</a>,
 
     
     

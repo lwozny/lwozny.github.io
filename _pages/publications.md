@@ -17,7 +17,7 @@ years: [2019, 1956, 1950, 1935, 1905]
         
                       
               
-                <a href="http://prac.im.pwr.wroc.pl/~ajaskiew/" target="_blank">Jaskiewicz, Anna</a>, 
+          Jaskiewicz, Anna, 
               
             
           
@@ -27,7 +27,7 @@ years: [2019, 1956, 1950, 1935, 1905]
           
             
               
-                <a href="https://ideas.repec.org/f/pno288.html" target="_blank">Nowak, Andrzej S.</a>, 
+                Nowak, Andrzej S., 
               
             
           
@@ -45,7 +45,7 @@ years: [2019, 1956, 1950, 1935, 1905]
 
     <span class="periodical">
     
-      <b>Automatica</b>,
+      <a href="https://doi.org/10.1016/j.automatica.2025.112656" target="_blank">Automatica</a>,
     
     
       vol. 183, 112656, 2026.
@@ -65,9 +65,7 @@ years: [2019, 1956, 1950, 1935, 1905]
     [<a class="abstract">Abs</a>]
   
   
-  
-    [<a href="https://doi.org/10.1016/j.automatica.2025.112656" target="_blank">HTML</a>]
-  
+    
   
     [<a href="/assets/pdf/JNW2026.pdf" target="_blank">PDF</a>]
   

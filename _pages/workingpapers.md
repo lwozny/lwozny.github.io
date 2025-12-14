@@ -1,7 +1,7 @@
 ---
 layout: page
 title: working papers
-permalink: /working papers/
+permalink: /in progress/
 description: working papers and some older stuff
 ---
 

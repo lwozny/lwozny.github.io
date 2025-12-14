@@ -41,6 +41,8 @@ description: Contribution by topics
 <p>
 <ul>  
 
+<li> <h4 id=""><a href="/assets/pdf/ICR.pdf">Interim correlated rationalizability in large games</a>, 2025 (with L.Balbus, M.Greinecker and K.Reffett).</li>
+
 <li> Markov distributional equilibrium dynamics in games with complementarities and no aggregate risk,  <a href="https://econtheory.org/ojs/index.php/te/article/view/20220725" target="_blank">Theoretical Economics</a>, 2022, (with L.Balbus, P.Dziewulski and K.Reffett),     [<a href="https://econtheory.org/ojs/index.php/te/article/viewFile/20220725/33811/985" target="_blank">PDF</a>].</li>
   
 
@@ -85,13 +87,20 @@ description: Contribution by topics
 </p>
 
 
-<h4>Bequest games</h4>
+<h4>Bequest games and altruism</h4>
 
 <p>
 <ul>  
 
+
+
 <li> A note on Markov perfect equilibria in a class of non-stationary stochastic bequest games, <a href="http://www.sciencedirect.com/science/article/pii/S0022247X17306819" target="_blank">Journal of Mathematical Analysis and Applications</a>, 2017, (with L.Balbus, A.Jaskiewicz and A.S.Nowak),     [<a href="/assets/pdf/JMAABJNW.pdf" target="_blank">PDF</a>].</li>
 
+<li> <a href="/assets/pdf/TimeConsistentAltruism.pdf">Dynastic preferences, recursive utility and time consistency</a>, 2024, (with L.Balbus and K.Reffett).</li>
+
+<li> <a href="/assets/pdf/BDW2021.pdf">On collective intertemporal choice, time-consistent decision rules and altruism</a>, 2021 (with L.Balbus and J-P.Drugeon).</li>
+
+<li> a href="/assets/pdf/Submitted.pdf">An experiment on temptation and attitude towards paternalism</a>, 2017, (with M.Krawczyk).</li>
 
 <li> A constructive geometrical approach to the uniqueness of Markov stationary equilibrium in stochastic games of intergenerational altruism,   <a href="http://www.sciencedirect.com/science/article/pii/S0165188913000134" target="_blank">Journal of Economic Dynamics and Control</a>, 2013, (with L.Balbus, and K.Reffett),     [<a href="/assets/pdf/BRWJEDC.pdf" target="_blank">PDF</a>]. </li>
 
@@ -116,6 +125,8 @@ description: Contribution by topics
 
 <p>
 <ul>  
+
+<li> <a href="/assets/pdf/BORW.pdf">Iterative monotone comparative statics</a>, 2025, (with L.Balbus, W.Olszewski and K.Reffett).</li>
 
 <li> A Tarski-Kantorovich theorem for correspondences,  <a href="https://doi.org/10.1016/j.jmateco.2025.103106">Journal of Mathematical Economics</a>, 2025, (with L.Balbus, W.Olszewski, K.Reffett),         [<a href="/assets/pdf/Tarski.pdf" target="_blank">PDF</a>]. </li>
 
@@ -156,6 +167,8 @@ description: Contribution by topics
 <li> On journal rankings and researchers' abilities,  <a href="https://doi.org/10.1016/j.joi.2024.101559">Journal of Informetrics</a>, 2024 (with W.Charemza, and M.Lewandowski),     [<a href="/assets/pdf/JOI.pdf" target="_blank">PDF</a>],
 	[<a href="https://ars.els-cdn.com/content/image/1-s2.0-S1751157724000725-mmc1.pdf" target="_blank">Online Appendix</a>]. </li>
 
+<li> <a href="/assets/pdf/Punktoza.pdf">Efficiency in rewarding academic journal publications. The case of Poland</a>, 2021 (with W.Charemza and M.Lewandowski)</li>
+
 </ul>
 </p>
 
@@ -164,6 +177,8 @@ description: Contribution by topics
 
 <p>
 <ul>  
+
+<li> <a href="/assets/pdf/DynamicGPPA.pdf">Repeated moral hazard with costly self-control</a>, 2017.</li>
 
 <li> On the price of commitment assets in a general equilibrium model with credit constraints and tempted consumers,  <a href="http://dx.doi.org/10.1515/bejte-2015-0019" target="_blank">B.E. Journal of Theoretical Economics</a>, 2016,     [<a href="/assets/pdf/BEPrinted.pdf" target="_blank">PDF</a>]. </li>
 

@@ -1835,7 +1835,7 @@ self-control problems moral hazard cost can be mitigated.</p>
           
             
               
-                <a href="https://ideas.repec.org/f/pba1023.html" target="_blank">Balbus, Łukasz</a>, 
+Balbus, Łukasz, 
               
             
           
@@ -1845,7 +1845,7 @@ self-control problems moral hazard cost can be mitigated.</p>
           
             
               
-                <a href="http://kevin-reffett.com/" target="_blank">Reffett, Kevin</a>, 
+              Reffett, Kevin, 
               
             
           
@@ -1863,7 +1863,7 @@ self-control problems moral hazard cost can be mitigated.</p>
 
     <span class="periodical">
     
-      <em>Dynamic Games and Applications</em>
+    <a href="http://link.springer.com/article/10.1007/s13235-012-0065-4" target="_blank">Dynamic Games and Applications</a>,
     
     
       vol. 3
@@ -1892,7 +1892,6 @@ self-control problems moral hazard cost can be mitigated.</p>
   
   
   
-    [<a href="http://link.springer.com/article/10.1007/s13235-012-0065-4" target="_blank">HTML</a>]
   
   
     [<a href="/assets/pdf/BRWdgaa.pdf" target="_blank">PDF</a>]
@@ -1942,7 +1941,7 @@ principal-agent models.</p>
           
             
               
-                and <a href="http://web.sgh.waw.pl/~jg23234/" target="_blank">Growiec, Jakub</a> 
+                and Growiec, Jakub, 
               
             
           
@@ -1952,7 +1951,7 @@ principal-agent models.</p>
 
     <span class="periodical">
     
-      <em>The B.E. Journal of Theoretical Economics</em>
+          <a href="http://www.degruyter.com/view/j/bejte.2012.12.issue-1/1935-1704.1877/1935-1704.1877.xml" target="_blank">The B.E. Journal of Theoretical Economics</a>,
     
     
       vol. 12
@@ -1981,7 +1980,6 @@ principal-agent models.</p>
   
   
   
-    [<a href="http://www.degruyter.com/view/j/bejte.2012.12.issue-1/1935-1704.1877/1935-1704.1877.xml" target="_blank">HTML</a>]
   
   
     [<a href="/assets/pdf/BEJTEPublished.pdf" target="_blank">PDF</a>]
@@ -2011,7 +2009,7 @@ principal-agent models.</p>
           
             
               
-                <a href="https://ideas.repec.org/f/pba1023.html" target="_blank">Balbus, Łukasz</a>, 
+          Balbus, Łukasz, 
               
             
           
@@ -2021,7 +2019,7 @@ principal-agent models.</p>
           
             
               
-                <a href="http://kevin-reffett.com/" target="_blank">Reffett, Kevin</a>, 
+Reffett, Kevin, 
               
             
           
@@ -2039,7 +2037,9 @@ principal-agent models.</p>
 
     <span class="periodical">
     
-      <em>Journal of Mathematical Economics</em>
+  
+    [<a href="http://www.sciencedirect.com/science/article/pii/S0304406812000080" target="_blank">Journal of Mathematical Economics</a>,
+
     
     
       vol. 48
@@ -2067,8 +2067,6 @@ principal-agent models.</p>
     [<a class="abstract">Abs</a>]
   
   
-  
-    [<a href="http://www.sciencedirect.com/science/article/pii/S0304406812000080" target="_blank">HTML</a>]
   
   
     [<a href="/assets/pdf/BRWJMathE2012.pdf" target="_blank">PDF</a>]

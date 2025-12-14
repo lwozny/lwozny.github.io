@@ -576,8 +576,6 @@ Reffett, Kevin,
   
     [<a class="abstract">Abs</a>]
   
-    
-    [<a href="https://econtheory.org/ojs/index.php/te/article/view/20220725" target="_blank">HTML</a>]
   
     [<a href="https://econtheory.org/ojs/index.php/te/article/viewFile/20220725/33811/985" target="_blank">PDF</a>]
 
@@ -1246,7 +1244,7 @@ indeterminacy of dynamic equilibrium.</p>
 
     <span class="periodical">
     
-      <em>The B.E. Journal of Theoretical Economics</em>
+          <a href="http://dx.doi.org/10.1515/bejte-2015-0019" target="_blank">The B.E. Journal of Theoretical Economics</a>,
     
     
       vol. 16
@@ -1275,7 +1273,6 @@ indeterminacy of dynamic equilibrium.</p>
   
   
   
-    [<a href="http://dx.doi.org/10.1515/bejte-2015-0019" target="_blank">HTML</a>]
   
   
     [<a href="/assets/pdf/BEPrinted.pdf" target="_blank">PDF</a>]
@@ -1313,7 +1310,7 @@ We also provide an example showing, when equilibrium allocations of both models 
           
             
               
-                <a href="https://ideas.repec.org/f/pba1023.html" target="_blank">Balbus, Łukasz</a>, 
+                Balbus, Łukasz, 
               
             
           
@@ -1323,7 +1320,7 @@ We also provide an example showing, when equilibrium allocations of both models 
           
             
               
-                <a href="http://kevin-reffett.com/" target="_blank">Reffett, Kevin</a>, 
+                Reffett, Kevin, 
               
             
           
@@ -1341,7 +1338,7 @@ We also provide an example showing, when equilibrium allocations of both models 
 
     <span class="periodical">
     
-      <em>Games and Economic Behavior</em>
+        <a href="http://dx.doi.org/10.1016/j.geb.2015.05.010" target="_blank">Games and Economic Behavior</a>,
     
     
       vol. 94
@@ -1368,8 +1365,7 @@ We also provide an example showing, when equilibrium allocations of both models 
   
   
   
-    [<a href="http://dx.doi.org/10.1016/j.geb.2015.05.010" target="_blank">HTML</a>]
-  
+ 
   
     [<a href="/assets/pdf/BRWGEB2015.pdf" target="_blank">PDF</a>]
   
@@ -1398,7 +1394,7 @@ We also provide an example showing, when equilibrium allocations of both models 
           
             
               
-                <a href="https://ideas.repec.org/f/pba1023.html" target="_blank">Balbus, Łukasz</a>, 
+                Balbus, Łukasz, 
               
             
           
@@ -1408,7 +1404,7 @@ We also provide an example showing, when equilibrium allocations of both models 
           
             
               
-                <a href="http://kevin-reffett.com/" target="_blank">Reffett, Kevin</a>, 
+                Reffett, Kevin, 
               
             
           
@@ -1426,8 +1422,7 @@ We also provide an example showing, when equilibrium allocations of both models 
 
     <span class="periodical">
     
-      <em>International Journal of Game Theory</em>
-    
+         <a href="https://link.springer.com/article/10.1007/s00182-014-0420-3" target="_blank">International Journal of Game Theory</a>, 
     
       vol. 44
     
@@ -1454,7 +1449,6 @@ We also provide an example showing, when equilibrium allocations of both models 
     [<a class="abstract">Abs</a>]
   
     
-    [<a href="https://link.springer.com/article/10.1007/s00182-014-0420-3" target="_blank">HTML</a>]
   
   
     [<a href="/assets/pdf/IJGTPublished.pdf" target="_blank">PDF</a>]
@@ -1504,7 +1498,7 @@ equilibrium comparative statics in the model’s deep parameters.</p>
 
     <span class="periodical">
     
-      <em>Mathematical Social Sciences</em>
+          <a href="http://www.sciencedirect.com/science/article/pii/S0165489615000025" target="_blank">Mathematical Social Sciences</a>,
     
     
       vol. 74
@@ -1531,7 +1525,6 @@ equilibrium comparative statics in the model’s deep parameters.</p>
   
   
   
-    [<a href="http://www.sciencedirect.com/science/article/pii/S0165489615000025" target="_blank">HTML</a>]
   
   
     [<a href="/assets/pdf/MSSPublished.pdf" target="_blank">PDF</a>]
@@ -1570,7 +1563,7 @@ self-control problems moral hazard cost can be mitigated.</p>
           
             
               
-                <a href="https://ideas.repec.org/f/pba1023.html" target="_blank">Balbus, Łukasz</a>, 
+                Balbus, Łukasz, 
               
             
           
@@ -1580,7 +1573,7 @@ self-control problems moral hazard cost can be mitigated.</p>
           
             
               
-                <a href="https://www.pawel-dziewulski.com/" target="_blank">Dziewulski, Paweł</a>, 
+                Dziewulski, Paweł, 
               
             
           
@@ -1590,7 +1583,7 @@ self-control problems moral hazard cost can be mitigated.</p>
           
             
               
-                <a href="http://kevin-reffett.com/" target="_blank">Reffett, Kevin</a>, 
+                Reffett, Kevin, 
               
             
           
@@ -1608,7 +1601,7 @@ self-control problems moral hazard cost can be mitigated.</p>
 
     <span class="periodical">
     
-      <em>Economic Theory</em>
+          <a href="http://link.springer.com/article/10.1007/s00199-014-0827-x" target="_blank">Economic Theory</a>,
     
     
       vol. 59
@@ -1637,7 +1630,6 @@ self-control problems moral hazard cost can be mitigated.</p>
   
   
   
-    [<a href="http://link.springer.com/article/10.1007/s00199-014-0827-x" target="_blank">HTML</a>]
   
   
     [<a href="/assets/pdf/BDRWET2015.pdf" target="_blank">PDF</a>]
@@ -1670,7 +1662,7 @@ self-control problems moral hazard cost can be mitigated.</p>
           
             
               
-                <a href="https://ideas.repec.org/f/pba1023.html" target="_blank">Balbus, Łukasz</a>, 
+                Balbus, Łukasz, 
               
             
           
@@ -1680,7 +1672,7 @@ self-control problems moral hazard cost can be mitigated.</p>
           
             
               
-                <a href="http://kevin-reffett.com/" target="_blank">Reffett, Kevin</a>, 
+                Reffett, Kevin, 
               
             
           
@@ -1698,7 +1690,7 @@ self-control problems moral hazard cost can be mitigated.</p>
 
     <span class="periodical">
     
-      <em>Journal of Economic Theory</em>
+         <a href="http://dx.doi.org/10.1016/j.jet.2013.09.005" target="_blank">Journal of Economic Theory</a>,
     
     
       vol. 150
@@ -1725,7 +1717,6 @@ self-control problems moral hazard cost can be mitigated.</p>
   
   
   
-    [<a href="http://dx.doi.org/10.1016/j.jet.2013.09.005" target="_blank">HTML</a>]
   
   
     [<a href="/assets/pdf/BRWJET2014.pdf" target="_blank">PDF</a>]
@@ -1758,7 +1749,7 @@ self-control problems moral hazard cost can be mitigated.</p>
           
             
               
-                <a href="https://ideas.repec.org/f/pba1023.html" target="_blank">Balbus, Łukasz</a>, 
+                Balbus, Łukasz, 
               
             
           
@@ -1768,7 +1759,7 @@ self-control problems moral hazard cost can be mitigated.</p>
           
             
               
-                <a href="http://kevin-reffett.com/" target="_blank">Reffett, Kevin</a>, 
+               Reffett, Kevin, 
               
             
           
@@ -1786,7 +1777,7 @@ self-control problems moral hazard cost can be mitigated.</p>
 
     <span class="periodical">
     
-      <em>Journal of Economic Dynamics and Control</em>
+        <a href="http://www.sciencedirect.com/science/article/pii/S0165188913000134" target="_blank">Journal of Economic Dynamics and Control</a>,
     
     
       vol. 37
@@ -1815,7 +1806,6 @@ self-control problems moral hazard cost can be mitigated.</p>
   
   
   
-    [<a href="http://www.sciencedirect.com/science/article/pii/S0165188913000134" target="_blank">HTML</a>]
   
   
     [<a href="/assets/pdf/BRWJEDC.pdf" target="_blank">PDF</a>]

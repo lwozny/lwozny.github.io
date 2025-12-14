@@ -113,7 +113,7 @@ Jaskiewicz, Anna,
 
     <span class="periodical">
     
-            <a href="https://link.springer.com/article/10.1007/s13235-025-00683-x" target="_blank">Dynamic Games and Applications</a>,,
+            <a href="https://link.springer.com/article/10.1007/s13235-025-00683-x" target="_blank">Dynamic Games and Applications</a>,
     
     
       online first,
@@ -523,7 +523,7 @@ There are other important facets of TCP, including sufficient conditions for the
           
             
               
-                <a href="https://ideas.repec.org/f/pba1023.html" target="_blank">Balbus, Łukasz</a>, 
+Balbus, Łukasz, 
               
             
           
@@ -533,7 +533,7 @@ There are other important facets of TCP, including sufficient conditions for the
           
             
               
-                <a href="https://www.pawel-dziewulski.com/" target="_blank">Dziewulski, Paweł</a>, 
+                Dziewulski, Paweł, 
               
             
           
@@ -543,7 +543,7 @@ There are other important facets of TCP, including sufficient conditions for the
           
             
               
-                <a href="http://kevin-reffett.com/" target="_blank">Reffett, Kevin</a>, 
+Reffett, Kevin, 
               
             
           
@@ -561,7 +561,8 @@ There are other important facets of TCP, including sufficient conditions for the
 
     <span class="periodical">
     
-      <em>Theoretical Economics</em>
+    <a href="https://econtheory.org/ojs/index.php/te/article/view/20220725" target="_blank">Theoretical Economics</a>,
+
     
     
 	vol. 17 No. 2, p. 725–762, 2022.    
@@ -611,7 +612,7 @@ invariant distributions to which they converge. Finally, we provide numerous app
           
             
               
-                <a href="https://sites.google.com/site/rjraad/" target="_blank">Raad, Rodrigo</a>, 
+            Raad, Rodrigo, 
               
             
           
@@ -629,7 +630,8 @@ invariant distributions to which they converge. Finally, we provide numerous app
 
     <span class="periodical">
     
-      <em>Journal of Mathematical Economics</em>
+      
+    <a href="http://www.sciencedirect.com/science/article/pii/S0304406819300151" target="_blank">Journal of Mathematical Economics</a>,
     
     
       vol. 82
@@ -655,8 +657,6 @@ invariant distributions to which they converge. Finally, we provide numerous app
     [<a class="abstract">Abs</a>]
   
   
-  
-    [<a href="http://www.sciencedirect.com/science/article/pii/S0304406819300151" target="_blank">HTML</a>]
   
   
     [<a href="/assets/pdf/RaadWozny.pdf" target="_blank">PDF</a>]

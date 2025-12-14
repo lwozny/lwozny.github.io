@@ -888,7 +888,7 @@ indeterminacy of dynamic equilibrium.</p>
           
             
               
-                <a href="https://ideas.repec.org/f/pba1023.html" target="_blank">Balbus, Łukasz</a>, 
+                Balbus, Łukasz, 
               
             
           
@@ -898,7 +898,7 @@ indeterminacy of dynamic equilibrium.</p>
           
             
               
-                <a href="http://kevin-reffett.com/" target="_blank">Reffett, Kevin</a>, 
+                Reffett, Kevin, 
               
             
           
@@ -916,7 +916,7 @@ indeterminacy of dynamic equilibrium.</p>
 
     <span class="periodical">
     
-      <em>In Handbook of Dynamic Game Theory</em>
+    <a href="https://doi.org/10.1007/978-3-319-27335-8_18-1" target="_blank">      In Handbook of Dynamic Game Theory</a>,
     
     
     
@@ -975,7 +975,7 @@ indeterminacy of dynamic equilibrium.</p>
           
             
               
-                <a href="https://ideas.repec.org/f/pba1023.html" target="_blank">Balbus, Łukasz</a>, 
+                Balbus, Łukasz, 
               
             
           
@@ -985,7 +985,7 @@ indeterminacy of dynamic equilibrium.</p>
           
             
               
-                <a href="http://kevin-reffett.com/" target="_blank">Reffett, Kevin</a>, 
+                Reffett, Kevin, 
               
             
           
@@ -1003,7 +1003,8 @@ indeterminacy of dynamic equilibrium.</p>
 
     <span class="periodical">
     
-      <em>Journal of Economic Theory</em>
+          <a href="http://www.sciencedirect.com/science/article/pii/S0022053118300991" target="_blank">Journal of Economic Theory</a>,
+
     
     
       vol. 176
@@ -1030,7 +1031,6 @@ indeterminacy of dynamic equilibrium.</p>
   
   
   
-    [<a href="http://www.sciencedirect.com/science/article/pii/S0022053118300991" target="_blank">HTML</a>]
   
   
     [<a href="/assets/pdf/JET2018.pdf" target="_blank">PDF</a>]
@@ -1064,7 +1064,7 @@ indeterminacy of dynamic equilibrium.</p>
           
             
               
-                <a href="https://ideas.repec.org/f/pba1023.html" target="_blank">Balbus, Łukasz</a>, 
+                Balbus, Łukasz, 
               
             
           
@@ -1074,7 +1074,7 @@ indeterminacy of dynamic equilibrium.</p>
           
             
               
-                <a href="http://prac.im.pwr.wroc.pl/~ajaskiew/" target="_blank">Jaskiewicz, Anna</a>, 
+               Jaskiewicz, Anna, 
               
             
           
@@ -1084,7 +1084,7 @@ indeterminacy of dynamic equilibrium.</p>
           
             
               
-                <a href="https://ideas.repec.org/f/pno288.html" target="_blank">Nowak, Andrzej S.</a>, 
+               Nowak, Andrzej S., 
               
             
           
@@ -1102,7 +1102,7 @@ indeterminacy of dynamic equilibrium.</p>
 
     <span class="periodical">
     
-      <em>Journal of Mathematical Analysis and Applications</em>
+          <a href="http://www.sciencedirect.com/science/article/pii/S0022247X17306819" target="_blank">Journal of Mathematical Analysis and Applications</a>,
     
     
       vol. 456
@@ -1131,7 +1131,6 @@ indeterminacy of dynamic equilibrium.</p>
   
   
   
-    [<a href="http://www.sciencedirect.com/science/article/pii/S0022247X17306819" target="_blank">HTML</a>]
   
   
     [<a href="/assets/pdf/JMAABJNW.pdf" target="_blank">PDF</a>]
@@ -1166,7 +1165,7 @@ indeterminacy of dynamic equilibrium.</p>
           
             
               
-                <a href="https://ideas.repec.org/f/pba1023.html" target="_blank">Balbus, Łukasz</a>, 
+                Balbus, Łukasz, 
               
             
           
@@ -1184,7 +1183,7 @@ indeterminacy of dynamic equilibrium.</p>
 
     <span class="periodical">
     
-      <em>Dynamic Games and Applications</em>
+        <a href="https://doi.org/10.1007/s13235-015-0171-1" target="_blank"> Dynamic Games and Applications</a>,
     
     
       vol. 6
@@ -1213,7 +1212,9 @@ indeterminacy of dynamic equilibrium.</p>
   
   
   
-  +
+    [<a href="/assets/pdf/BWDGAA.pdf" target="_blank">PDF</a>]
+  
+  
   
   
   

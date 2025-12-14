@@ -93,12 +93,12 @@ description: Contribution by topics
 <ul>  
 
 
-
-<li> A note on Markov perfect equilibria in a class of non-stationary stochastic bequest games, <a href="http://www.sciencedirect.com/science/article/pii/S0022247X17306819" target="_blank">Journal of Mathematical Analysis and Applications</a>, 2017, (with L.Balbus, A.Jaskiewicz and A.S.Nowak),     [<a href="/assets/pdf/JMAABJNW.pdf" target="_blank">PDF</a>].</li>
-
 <li> <a href="/assets/pdf/TimeConsistentAltruism.pdf">Dynastic preferences, recursive utility and time consistency</a>, 2024, (with L.Balbus and K.Reffett).</li>
 
 <li> <a href="/assets/pdf/BDW2021.pdf">On collective intertemporal choice, time-consistent decision rules and altruism</a>, 2021 (with L.Balbus and J-P.Drugeon).</li>
+
+<li> A note on Markov perfect equilibria in a class of non-stationary stochastic bequest games, <a href="http://www.sciencedirect.com/science/article/pii/S0022247X17306819" target="_blank">Journal of Mathematical Analysis and Applications</a>, 2017, (with L.Balbus, A.Jaskiewicz and A.S.Nowak),     [<a href="/assets/pdf/JMAABJNW.pdf" target="_blank">PDF</a>].</li>
+
 
 <li> <a href="/assets/pdf/Submitted.pdf">An experiment on temptation and attitude towards paternalism</a>, 2017, (with M.Krawczyk).</li>
 
@@ -106,7 +106,6 @@ description: Contribution by topics
 
   
   
-
 <li> Intergenerational Interactions in Human Capital Accumulation,  <a href="http://www.degruyter.com/view/j/bejte.2012.12.issue-1/1935-1704.1877/1935-1704.1877.xml" target="_blank">B.E. Journal of Theoretical Economics</a>, 2012, (with J.Growiec),     [<a href="/assets/pdf/BEJTEPublished.pdf" target="_blank">PDF</a>]. </li>
 
 

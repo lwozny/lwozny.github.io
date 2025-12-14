@@ -138,8 +138,9 @@ description: Contribution by topics
 <p>
 <ul>  
 
-<li> On reference dependence and complementary symmetry,     <a href="https://doi.org/10.1016/j.jmp.2022.102653" target="_blank">Journal of Mathematical Psychology</a>, 2022, (with M.Lewandowski),     [<a href="/assets/pdf/ComplementarySymmetry.pdf" target="_blank">PDF</a>].</li>
+<li> <a href="/assets/pdf/wtawtp.pdf">Loss aversion or preference imprecision? What drives the WTA-WTP disparity?</a>, 2025, (with M.Lewandowski and M.Jakubczyk).</li>
 
+<li> On reference dependence and complementary symmetry,     <a href="https://doi.org/10.1016/j.jmp.2022.102653" target="_blank">Journal of Mathematical Psychology</a>, 2022, (with M.Lewandowski),     [<a href="/assets/pdf/ComplementarySymmetry.pdf" target="_blank">PDF</a>].</li>
 
 
 </ul>

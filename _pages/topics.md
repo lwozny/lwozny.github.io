@@ -100,7 +100,7 @@ description: Contribution by topics
 
 <li> <a href="/assets/pdf/BDW2021.pdf">On collective intertemporal choice, time-consistent decision rules and altruism</a>, 2021 (with L.Balbus and J-P.Drugeon).</li>
 
-<li> a href="/assets/pdf/Submitted.pdf">An experiment on temptation and attitude towards paternalism</a>, 2017, (with M.Krawczyk).</li>
+<li> <a href="/assets/pdf/Submitted.pdf">An experiment on temptation and attitude towards paternalism</a>, 2017, (with M.Krawczyk).</li>
 
 <li> A constructive geometrical approach to the uniqueness of Markov stationary equilibrium in stochastic games of intergenerational altruism,   <a href="http://www.sciencedirect.com/science/article/pii/S0165188913000134" target="_blank">Journal of Economic Dynamics and Control</a>, 2013, (with L.Balbus, and K.Reffett),     [<a href="/assets/pdf/BRWJEDC.pdf" target="_blank">PDF</a>]. </li>
 

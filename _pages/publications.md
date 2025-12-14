@@ -687,7 +687,7 @@ invariant distributions to which they converge. Finally, we provide numerous app
           
             
               
-                <a href="https://ideas.repec.org/f/pba1023.html" target="_blank">Balbus, Łukasz</a>, 
+              Balbus, Łukasz, 
               
             
           
@@ -697,7 +697,7 @@ invariant distributions to which they converge. Finally, we provide numerous app
           
             
               
-                <a href="https://www.pawel-dziewulski.com/" target="_blank">Dziewulski, Paweł</a>, 
+Dziewulski, Paweł, 
               
             
           
@@ -707,7 +707,7 @@ invariant distributions to which they converge. Finally, we provide numerous app
           
             
               
-                <a href="http://kevin-reffett.com/" target="_blank">Reffett, Kevin</a>, 
+                Reffett, Kevin, 
               
             
           
@@ -725,7 +725,7 @@ invariant distributions to which they converge. Finally, we provide numerous app
 
     <span class="periodical">
     
-      <em>Economic Theory</em>
+    <a href="https://link.springer.com/article/10.1007/s00199-017-1075-7" target="_blank">Economic Theory</a>,
     
     
       vol. 67
@@ -754,7 +754,6 @@ invariant distributions to which they converge. Finally, we provide numerous app
   
   
   
-    [<a href="https://link.springer.com/article/10.1007/s00199-017-1075-7" target="_blank">HTML</a>]
   
   
     [<a href="/assets/pdf/BDRWET2017.pdf" target="_blank">PDF</a>]
@@ -788,7 +787,7 @@ invariant distributions to which they converge. Finally, we provide numerous app
           
             
               
-                <a href="https://webapp4.asu.edu/directory/person/66242" target="_blank">Datta, Manjira</a>, 
+                Datta, Manjira, 
               
             
           
@@ -798,7 +797,7 @@ invariant distributions to which they converge. Finally, we provide numerous app
           
             
               
-                <a href="http://kevin-reffett.com/" target="_blank">Reffett, Kevin</a>, 
+Reffett, Kevin, 
               
             
           
@@ -816,7 +815,7 @@ invariant distributions to which they converge. Finally, we provide numerous app
 
     <span class="periodical">
     
-      <em>Economic Theory</em>
+         <a href="https://link.springer.com/article/10.1007%2Fs00199-017-1046-z" target="_blank">Economic Theory</a>,
     
     
       vol. 66
@@ -845,7 +844,6 @@ invariant distributions to which they converge. Finally, we provide numerous app
   
   
   
-    [<a href="https://link.springer.com/article/10.1007%2Fs00199-017-1046-z" target="_blank">HTML</a>]
   
   
     [<a href="/assets/pdf/onlinefirst.pdf" target="_blank">PDF</a>]

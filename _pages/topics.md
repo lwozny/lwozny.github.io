@@ -41,7 +41,7 @@ description: Contribution by topics
 <p>
 <ul>  
 
-<li> <h4 id=""><a href="/assets/pdf/ICR.pdf">Interim correlated rationalizability in large games</a>, 2025 (with L.Balbus, M.Greinecker and K.Reffett).</li>
+<li> <a href="/assets/pdf/ICR.pdf">Interim correlated rationalizability in large games</a>, 2025 (with L.Balbus, M.Greinecker and K.Reffett).</li>
 
 <li> Markov distributional equilibrium dynamics in games with complementarities and no aggregate risk,  <a href="https://econtheory.org/ojs/index.php/te/article/view/20220725" target="_blank">Theoretical Economics</a>, 2022, (with L.Balbus, P.Dziewulski and K.Reffett),     [<a href="https://econtheory.org/ojs/index.php/te/article/viewFile/20220725/33811/985" target="_blank">PDF</a>].</li>
   

@@ -11,7 +11,7 @@ Ukryte nierówności w Polsce. Rozmowa z dr Jakubem Sawulskim (SGH).
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/3oy8FU3XKQEuHAJTGvewE7?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Bezrobocie pod lupą. Zasiłki i rynek pracy. Rozmowa z dr hab. Ewą Gałecką-Burdziak oraz prof. Markiem Górą (SGH).
-[Youtube](https://youtu.be/wLgEX0UpizI) lub [Spotify](https://open.spotify.com/episode/3bDMfpyFMejK9i1eUJj6fG?si=0a70fd6b9eb24dc4)
+[Youtube](https://www.youtube.com/watch?v=JaQnMWSM5tE) lub [Spotify](https://open.spotify.com/episode/3bDMfpyFMejK9i1eUJj6fG?si=0a70fd6b9eb24dc4)
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/3bDMfpyFMejK9i1eUJj6fG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

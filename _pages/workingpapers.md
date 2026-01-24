@@ -10,6 +10,18 @@ description: working papers and some older stuff
 <p>
 We propose a framework that, while eliminating the endowment effect, accounts for the two leading explanations of the disparity between willingness to accept (WTA) and willingness to pay (WTP): loss aversion and preference imprecision. Our approach applies to incomplete preferences under both risk and ambiguity. We introduce axioms that characterize the disparity and each of its two components. We show that the WTA-WTP disparity is a monetary measure (i.e., a premium) of uncertainty aversion, with hedging, rather than risk, serving as the neutrality benchmark. We derive comparative statics results for this measure with respect to both individuals and prospects. Our framework is general and encompasses several models, including multiple-utility multiple-prior models, as special cases.</p>
 
+In a related paper <a href="/assets/pdf/wtawtpexperiment.pdf">Loss aversion or preference imprecision? What drives the WTA-WTP disparity? An experimental illustration</a> we report results of an experiment decomposing the disparity between willingness-
+to-pay (WTA) and willingness-to-pay (WTP) into two leading motives: loss
+aversion and preference imprecision. First, the WTA–WTP gap is positive for the vast majority of subjects. Second,
+preference imprecision accounts for a substantial share of the gap, ranging from 34%
+to 59%. Third, subjects cluster into three broad groups according to
+the primary driver of the WTA–WTP gap: (i) no preference imprecision, with the
+entire gap driven by sure or strong UA; (ii) a combination of sure or strong UA and
+preference imprecision; and (iii) predominantly preference imprecision. Many subjects
+in the third group exhibit negative sure UA (capturing sure uncertainty loving), yet
+display a positive overall UA due to substantial preference imprecision. Finally, we also replicate recent findings of no correlation between WTA and WTP and, in addition, documents a positive correlation between the WTA–WTP gap (=uncertainty aversion), and our measure of loss aversion (=sure uncertainty
+aversion). 
+
 
 <h4 id=""><a href="/assets/pdf/ICR.pdf">Interim correlated rationalizability in large games</a>, 2025 <br /> (joint with Lukasz Balbus, Michael Greinecker and Kevin Reffett)</h4>
 

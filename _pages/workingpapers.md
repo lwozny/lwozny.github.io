@@ -5,7 +5,7 @@ permalink: /working papers/
 description: working papers and some older stuff
 ---
 
-<h4 id=""><a href="/assets/pdf/wtawtp.pdf">Loss aversion or preference imprecision? What drives the WTA-WTP disparity?</a>, 2025 <br /> (joint with Michal Lewandowski and Michal Jakubczyk)</h4>
+<h4 id=""><a href="/assets/pdf/wtawtp.pdf">Loss aversion or preference imprecision? What drives the WTA-WTP disparity?</a>, 2026 <br /> (joint with Michal Lewandowski and Michal Jakubczyk)</h4>
 
 <p>
 We propose a framework that, while eliminating the endowment effect, accounts for the two leading explanations of the disparity between willingness to accept (WTA) and willingness to pay (WTP): loss aversion and preference imprecision. Our approach applies to incomplete preferences under both risk and ambiguity. We introduce axioms that characterize the disparity and each of its two components. We show that the WTA-WTP disparity is a monetary measure (i.e., a premium) of uncertainty aversion, with hedging, rather than risk, serving as the neutrality benchmark. We derive comparative statics results for this measure with respect to both individuals and prospects. Our framework is general and encompasses several models, including multiple-utility multiple-prior models, as special cases.</p>

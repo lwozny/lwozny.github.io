@@ -9,6 +9,8 @@ description: Contribution by topics
 <h4>Quasi-hyperbolic discounting</h4>
 
 <p>
+We proposed a set of tools for studying Markov stationary equilibria (time consistent policies) in a class of quasi-hyperbolic discounting consumption saving models. Our results involve conditions for equilibrium existence, its comparative statics, computability and uniqueness. Most notably in JET 2022 we proved a general equilibrium existence results for deterministic and stochastic consumption-saving and growth models.
+
 <ul>  
 
 <li> Markov perfect equilibria in stochastic growth models with quasi-hyperbolic discounting and risk-sensitive preferences,     <a href="https://link.springer.com/article/10.1007/s13235-025-00683-x" target="_blank">Dynamic Games and Applications</a>, 2026, (with L.Balbus, A.Jaskiewicz and A.S.Nowak),  [<a href="/assets/pdf/BJNW2026.pdf" target="_blank">PDF</a>].</li>
@@ -21,8 +23,7 @@ description: Contribution by topics
   
 <li> On uniqueness of time-consistent Markov policies for quasi-hyperbolic consumers under uncertainty, <a href="http://www.sciencedirect.com/science/article/pii/S0022053118300991" target="_blank">Journal of Economic Theory</a>, 2018, (with L.Balbus and K.Reffett),     [<a href="/assets/pdf/JET2018.pdf" target="_blank">PDF</a>]. </li>
 
-  
-
+ 
 <li> Dynamic Games in Macroeconomics, <a href="https://doi.org/10.1007/978-3-319-27335-8_18-1" target="_blank">Handbook of Dynamic Game Theory</a>, Springer, 2018, (with L.Balbus and K.Reffett),   [<a href="/assets/pdf/DGmacroEcon.pdf" target="_blank">PDF</a>]. </li>
   
   
@@ -39,6 +40,8 @@ description: Contribution by topics
 <h4>Large games</h4>
 
 <p>
+Here we studied large games in their distributional and individualistic versions. Most of the papers focused on supermodular versions of these games. In the 2025 working paper we show how to model aggregate strategic uncertainty in large Bayesian games w/o common priors. We also proved existence of a universal type spaces in this class of games.
+
 <ul>  
 
 <li> <a href="/assets/pdf/ICR.pdf">Interim correlated rationalizability in large games</a>, 2025 (with L.Balbus, M.Greinecker and K.Reffett).</li>
@@ -52,9 +55,6 @@ description: Contribution by topics
 <li> Monotone equilibria in nonatomic supermodular games. A comment,   <a href="http://dx.doi.org/10.1016/j.geb.2015.05.010" target="_blank">Games and Economic Behavior</a>, 2015, (with L.Balbus and K.Reffett),   [<a href="/assets/pdf/BRWGEB2015.pdf" target="_blank">PDF</a>]. </li>
 
 
-  
-
-  
 <li> Differential information in large games with strategic complementarities,  <a href="http://link.springer.com/article/10.1007/s00199-014-0827-x" target="_blank">Economic Theory</a>, 2015, (with L.Balbus, P.Dziewulski and K.Reffett),     [<a href="/assets/pdf/BDRWET2015.pdf" target="_blank">PDF</a>]. </li>
 
   
@@ -67,6 +67,7 @@ description: Contribution by topics
 <h4>Stochastic games</h4>
 
 <p>
+Over the years we analyzed an open question of existence of Markov stationary equilibria in N-player stochastic games. We contributed by showing some new equilibrium existence conditions and most notably showed how to compute them in some cases. We also proposed a short-memory version of a celebrated APS procedure.
 <ul>  
 
 <li> Stochastic Games of Risk-Sensitive Players with Quasi-Hyperbolic Discounting, <a href="https://doi.org/10.1016/j.automatica.2025.112656" target="_blank">Automatica</a>, 2026 (with A.Jaskiewicz and A.S.Nowak), [<a href="/assets/pdf/JNW2026.pdf" target="_blank">PDF</a>]. </li>
@@ -90,8 +91,9 @@ description: Contribution by topics
 <h4>Bequest games and altruism</h4>
 
 <p>
-<ul>  
+Here another set of results for studying equilibria in games of intergenerational altruism. These are games between parents and kinds over bequests. In the 2024 working paper we advocate a new class of non-stationary Markov solutions to characterize time consistent solutions in very general class of such games. Look also there for periodic equilibria to understand some computability or indeterminacy problems reported for this class of games. This set of papers also involve one of my only few experiments corelating temptations and paternalism.
 
+<ul>  
 
 <li> <a href="/assets/pdf/TimeConsistentAltruism.pdf">Dynastic preferences, recursive utility and time consistency</a>, 2024, (with L.Balbus and K.Reffett).</li>
 
@@ -121,7 +123,7 @@ description: Contribution by topics
 </p>
 
 <h4>Fixed points and comparative statics </h4>
-
+In these papers we proposed a new, iterative method for conducting constructing comparative statics in monotone environments. It is order theory based only. Look up whether your traditional comparative static methods are too restrictive.
 <p>
 <ul>  
 
@@ -135,6 +137,7 @@ description: Contribution by topics
 <h4>Indifference prices and preferences over prospects </h4>
 
 <p>
+This is our new research agenda on measuring uncertainty. It involves studying loss aversion and identifying reference points via indifference prices over prospects. Puzzled by TA-WTP disparity? We show its not a behavioral feature but a nice measure of uncertainty aversion.
 <ul>  
 
 <li> <a href="/assets/pdf/wtawtp.pdf">Loss aversion or preference imprecision? What drives the WTA-WTP disparity?</a>, 2026, (with M.Lewandowski and M.Jakubczyk).</li>
@@ -149,6 +152,7 @@ description: Contribution by topics
 
 <h4>Recursive competitive equilibrium</h4>
 <p>
+Having my macro class with Ed Prescott I couldn't resist to write these papers on consequences / limits of recursive competitive equilibria.
 <ul>  
 
 <li> Lipschitz recursive equilibrium with a minimal state space and heterogeneous agents,  <a href="http://www.sciencedirect.com/science/article/pii/S0304406819300151" target="_blank">Journal of Mathematical Economics</a>, 2019, (with R.Raad),   [<a href="/assets/pdf/RaadWozny.pdf" target="_blank">PDF</a>]. </li>
@@ -164,6 +168,7 @@ description: Contribution by topics
 <h4>Journal rankings</h4>
 
 <p>
+These two papers were a by-product of having to live in a world of academic incentives in Poland. 
 <ul>  
 
 <li> On journal rankings and researchers' abilities,  <a href="https://doi.org/10.1016/j.joi.2024.101559">Journal of Informetrics</a>, 2024 (with W.Charemza, and M.Lewandowski),     [<a href="/assets/pdf/JOI.pdf" target="_blank">PDF</a>],
@@ -178,6 +183,7 @@ description: Contribution by topics
 <h4>Costly self control</h4>
 
 <p>
+How a principal can use agents' temptations for its own benefit? It is possible to price commitment assets on a market? I answer these and other relate questions below.
 <ul>  
 
 <li> <a href="/assets/pdf/DynamicGPPA.pdf">Repeated moral hazard with costly self-control</a>, 2017.</li>

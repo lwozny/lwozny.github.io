@@ -37,7 +37,7 @@ We proposed a set of tools for studying Markov stationary equilibria (time consi
 </ul>
 </p>
 
-<h4>Large games</h4>
+<h4><a>Large games</a></h4>
 
 <p>
 Here we studied large games in their distributional and individualistic versions. Most of the papers focused on supermodular versions of these games. In the 2025 working paper we show how to model aggregate, strategic uncertainty in large Bayesian games w/o common priors. We also proved BNE existence and constructed a universal type spaces for this class of games.
@@ -64,7 +64,7 @@ Here we studied large games in their distributional and individualistic versions
 </p>
 
 
-<h4>Stochastic games</h4>
+<h4><a>Stochastic games</a></h4>
 
 <p>
 Over the years we analyzed an open question of existence of Markov stationary equilibria in N-player stochastic games. We contributed by showing some new equilibrium existence conditions and most notably showed how to compute them in some cases. We also proposed a short-memory version of a celebrated APS procedure.
@@ -88,7 +88,7 @@ Over the years we analyzed an open question of existence of Markov stationary eq
 </p>
 
 
-<h4>Bequest games and altruism</h4>
+<h4><a>Bequest games and altruism</a></h4>
 
 <p>
 Here another set of results for studying equilibria in games of intergenerational altruism. These are games between parents and kinds over bequests. In the 2024 working paper we advocate a new class of non-stationary Markov equilibria to characterize time consistent solutions in very general class of such games. Look also there for periodic equilibria to understand some computability or indeterminacy problems reported for this class of games. This set of papers also involve one of my only few experiments correlating temptations and paternalism.
@@ -122,7 +122,7 @@ Here another set of results for studying equilibria in games of intergenerationa
 </ul>
 </p>
 
-<h4>Fixed points and comparative statics </h4>
+<h4> <a>Fixed points and comparative statics </a></h4>
 In these papers we proposed a new, iterative method for conducting equilibrium comparative statics in monotone environments. It is order theory based only and not restricted to extremal equilibria. Look up whenever your traditional comparative static methods are too restrictive.
 <p>
 <ul>  
@@ -134,7 +134,7 @@ In these papers we proposed a new, iterative method for conducting equilibrium c
 </ul>
 </p>
 
-<h4>Indifference prices and preferences over prospects </h4>
+<h4><a>Indifference prices and preferences over prospects </a></h4>
 
 <p>
 This is our new research agenda on measuring uncertainty. It involves studying loss aversion and identifying reference points via indifference prices over prospects. Puzzled by WTA-WTP disparity? We show its not a behavioral phenomenon but a nice measure of uncertainty aversion.
@@ -150,7 +150,7 @@ This is our new research agenda on measuring uncertainty. It involves studying l
 </ul>
 </p>
 
-<h4>Recursive competitive equilibrium</h4>
+<h4> <a>Recursive competitive equilibrium</a></h4>
 <p>
 Having my macro class with Ed Prescott I couldn't resist to write these papers on consequences / limits of recursive competitive equilibria.
 <ul>  
@@ -165,7 +165,7 @@ Having my macro class with Ed Prescott I couldn't resist to write these papers o
 </ul>
 </p>
  
-<h4>Journal rankings</h4>
+<h4><a>Journal rankings</a></h4>
 
 <p>
 These two papers were a by-product of having to live in a world of academic incentives in Poland. 
@@ -180,7 +180,7 @@ These two papers were a by-product of having to live in a world of academic ince
 </p>
 
 
-<h4>Costly self control</h4>
+<h4><a>Costly self control</a></h4>
 
 <p>
 How a principal can use agents' temptations for its own benefit? It is possible to price commitment assets on a market? I answer these and other relate questions below.

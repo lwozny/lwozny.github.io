@@ -6,10 +6,10 @@ description: Contribution by topics
 ---
 
 
-<h4>Quasi-hyperbolic discounting</h4>
+<h4><a>Quasi-hyperbolic discounting</a></h4>
 
 <p>
-We proposed a set of tools for studying Markov stationary equilibria (time consistent policies) in a class of quasi-hyperbolic discounting consumption saving models. Our results involve conditions for equilibrium existence, its comparative statics, computability and uniqueness. Most notably in JET 2022 we proved a general equilibrium existence results for deterministic and stochastic consumption-saving and growth models.
+We proposed a set of tools for studying Markov stationary equilibria (time consistent policies) in a class of quasi-hyperbolic discounting consumption saving models. Our results involve conditions for equilibrium existence, its comparative statics, computability and uniqueness. Most notably in JET 2022 we proved a general equilibrium existence for deterministic and stochastic consumption-saving and growth models.
 
 <ul>  
 
@@ -40,7 +40,7 @@ We proposed a set of tools for studying Markov stationary equilibria (time consi
 <h4>Large games</h4>
 
 <p>
-Here we studied large games in their distributional and individualistic versions. Most of the papers focused on supermodular versions of these games. In the 2025 working paper we show how to model aggregate strategic uncertainty in large Bayesian games w/o common priors. We also proved existence of a universal type spaces in this class of games.
+Here we studied large games in their distributional and individualistic versions. Most of the papers focused on supermodular versions of these games. In the 2025 working paper we show how to model aggregate, strategic uncertainty in large Bayesian games w/o common priors. We also proved BNE existence and constructed a universal type spaces for this class of games.
 
 <ul>  
 
@@ -91,7 +91,7 @@ Over the years we analyzed an open question of existence of Markov stationary eq
 <h4>Bequest games and altruism</h4>
 
 <p>
-Here another set of results for studying equilibria in games of intergenerational altruism. These are games between parents and kinds over bequests. In the 2024 working paper we advocate a new class of non-stationary Markov solutions to characterize time consistent solutions in very general class of such games. Look also there for periodic equilibria to understand some computability or indeterminacy problems reported for this class of games. This set of papers also involve one of my only few experiments corelating temptations and paternalism.
+Here another set of results for studying equilibria in games of intergenerational altruism. These are games between parents and kinds over bequests. In the 2024 working paper we advocate a new class of non-stationary Markov equilibria to characterize time consistent solutions in very general class of such games. Look also there for periodic equilibria to understand some computability or indeterminacy problems reported for this class of games. This set of papers also involve one of my only few experiments correlating temptations and paternalism.
 
 <ul>  
 
@@ -123,7 +123,7 @@ Here another set of results for studying equilibria in games of intergenerationa
 </p>
 
 <h4>Fixed points and comparative statics </h4>
-In these papers we proposed a new, iterative method for conducting constructing comparative statics in monotone environments. It is order theory based only. Look up whether your traditional comparative static methods are too restrictive.
+In these papers we proposed a new, iterative method for conducting equilibrium comparative statics in monotone environments. It is order theory based only and not restricted to extremal equilibria. Look up whenever your traditional comparative static methods are too restrictive.
 <p>
 <ul>  
 
@@ -137,7 +137,7 @@ In these papers we proposed a new, iterative method for conducting constructing 
 <h4>Indifference prices and preferences over prospects </h4>
 
 <p>
-This is our new research agenda on measuring uncertainty. It involves studying loss aversion and identifying reference points via indifference prices over prospects. Puzzled by TA-WTP disparity? We show its not a behavioral feature but a nice measure of uncertainty aversion.
+This is our new research agenda on measuring uncertainty. It involves studying loss aversion and identifying reference points via indifference prices over prospects. Puzzled by WTA-WTP disparity? We show its not a behavioral phenomenon but a nice measure of uncertainty aversion.
 <ul>  
 
 <li> <a href="/assets/pdf/wtawtp.pdf">Loss aversion or preference imprecision? What drives the WTA-WTP disparity?</a>, 2026, (with M.Lewandowski and M.Jakubczyk).</li>

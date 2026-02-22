@@ -7,7 +7,7 @@ description: working papers and some older stuff
 
 <hr />
 
-<h4 id=""><a href="/assets/pdf/Kindness_Altruism.pdf"> On pure altruism</a>, 2026 <br /> (joint with Pawel Dziewulski)</h4>
+<h4 id=""><a href="/assets/pdf/Kindness_Altruism.pdf"> On pure altruism</a>, 2026 (joint with Pawel Dziewulski)</h4>
 
 <p>
 We propose a general framework for studying altruistic behaviour across a wide range of economic settings. In our approach, an agent (the parent) is represented
@@ -19,7 +19,7 @@ immediate implications for various economic applications, including comparative 
 <hr />
 
 
-<h4 id=""><a href="/assets/pdf/wtawtp.pdf">Loss aversion or preference imprecision? What drives the WTA-WTP disparity?</a>, 2026 <br /> (joint with Michal Lewandowski and Michal Jakubczyk)</h4>
+<h4 id=""><a href="/assets/pdf/wtawtp.pdf">Loss aversion or preference imprecision? What drives the WTA-WTP disparity?</a>, 2026 (joint with Michal Lewandowski and Michal Jakubczyk)</h4>
 
 <p>
 We propose a framework that, while eliminating the endowment effect, accounts for the two leading explanations of the disparity between willingness to accept (WTA) and willingness to pay (WTP): loss aversion and preference imprecision. Our approach applies to incomplete preferences under both risk and ambiguity. We introduce axioms that characterize the disparity and each of its two components. We show that the WTA-WTP disparity is a monetary measure (i.e., a premium) of uncertainty aversion, with hedging, rather than risk, serving as the neutrality benchmark. We derive comparative statics results for this measure with respect to both individuals and prospects. Our framework is general and encompasses several models, including multiple-utility multiple-prior models, as special cases.</p>
@@ -35,7 +35,7 @@ preference imprecision; and (iii) predominantly preference imprecision. Many sub
 in the third group exhibit negative sure UA (capturing sure uncertainty loving), yet
 display a positive overall UA due to substantial preference imprecision. Finally, we also replicate recent findings of no correlation between WTA and WTP and, in addition, documents a positive correlation between the WTA–WTP gap (=uncertainty aversion), and our measure of loss aversion (=sure uncertainty
 aversion). 
-
+<hr />
 
 <h4 id=""><a href="/assets/pdf/ICR.pdf">Interim correlated rationalizability in large games</a>, 2025 <br /> (joint with Lukasz Balbus, Michael Greinecker and Kevin Reffett)</h4>
 

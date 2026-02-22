@@ -87,11 +87,25 @@ Over the years we analyzed an open question of existence of Markov stationary eq
 </ul>
 </p>
 
-
-<h4><a>Bequest games and altruism</a></h4>
+<h4><a>Bequest games and intergenerational altruism</a></h4>
 
 <p>
-Here another set of results for studying equilibria in games of intergenerational altruism. These are games between parents and kinds over bequests. In the 2024 working paper we advocate a new class of non-stationary Markov equilibria to characterize time consistent solutions in very general class of such games. Look also there for periodic equilibria to understand some computability or indeterminacy problems reported for this class of games. This set of papers also involve one of my only few experiments correlating temptations and paternalism.
+Together with Paweł Dziewulski, I recently started a new project on characterizing pure (or non-paternalistic) altruism at a purely ordinal level. It often happens that taking a step back and being more general allows one to see things more clearly. This is an ongoing project, and new papers will be available soon. This set of papers also includes one of my few experiments: in this one we report strong correlations between temptations, self-control and paternalism.
+<ul>  
+
+<li> <a href="/assets/pdf/Kindness_Altruism.pdf">On pure altruism</a>, 2026, (with P.Dziewulski).</li>
+
+<li> <a href="/assets/pdf/Submitted.pdf">An experiment on temptation and attitude towards paternalism</a>, 2017, (with M.Krawczyk).</li>
+
+  
+  </ul>
+</p>
+
+
+<h4><a>Bequest games and intergenerational altruism</a></h4>
+
+<p>
+Here another set of results for studying equilibria in games of intergenerational altruism. These are games between parents and kinds over bequests. In the 2024 working paper we advocate a new class of non-stationary Markov equilibria to characterize time consistent solutions in very general class of such games. Look also there for periodic equilibria to understand some computability or indeterminacy problems reported for this class of games. 
 
 <ul>  
 

@@ -87,7 +87,7 @@ Over the years we analyzed an open question of existence of Markov stationary eq
 </ul>
 </p>
 
-<h4><a>Bequest games and intergenerational altruism</a></h4>
+<h4><a>Altruism</a></h4>
 
 <p>
 Together with Paweł Dziewulski, I recently started a new project on characterizing pure (or non-paternalistic) altruism at a purely ordinal level. It often happens that taking a step back and being more general allows one to see things more clearly. This is an ongoing project, and new papers will be available soon. This set of papers also includes one of my few experiments: in this one we report strong correlations between temptations, self-control and paternalism.

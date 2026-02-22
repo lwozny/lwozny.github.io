@@ -116,8 +116,6 @@ Here another set of results for studying equilibria in games of intergenerationa
 <li> A note on Markov perfect equilibria in a class of non-stationary stochastic bequest games, <a href="http://www.sciencedirect.com/science/article/pii/S0022247X17306819" target="_blank">Journal of Mathematical Analysis and Applications</a>, 2017, (with L.Balbus, A.Jaskiewicz and A.S.Nowak),     [<a href="/assets/pdf/JMAABJNW.pdf" target="_blank">PDF</a>].</li>
 
 
-<li> <a href="/assets/pdf/Submitted.pdf">An experiment on temptation and attitude towards paternalism</a>, 2017, (with M.Krawczyk).</li>
-
 <li> A constructive geometrical approach to the uniqueness of Markov stationary equilibrium in stochastic games of intergenerational altruism,   <a href="http://www.sciencedirect.com/science/article/pii/S0165188913000134" target="_blank">Journal of Economic Dynamics and Control</a>, 2013, (with L.Balbus, and K.Reffett),     [<a href="/assets/pdf/BRWJEDC.pdf" target="_blank">PDF</a>]. </li>
 
   

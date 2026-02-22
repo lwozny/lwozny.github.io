@@ -5,6 +5,20 @@ permalink: /working papers/
 description: working papers and some older stuff
 ---
 
+<hr />
+
+<h4 id=""><a href="/assets/pdf/Kindness_Altruism.pdf"> On pure altruism</a>, 2026 <br /> (joint with Pawel Dziewulski)</h4>
+
+<p>
+We propose a general framework for studying altruistic behaviour across a wide range of economic settings. In our approach, an agent (the parent) is represented
+by a function that maps the preferences of those they interact with (the descendant) into their own, thus capturing how one’s objectives adjust in response to
+the preferences of others. Within this framework, we introduce and characterise a natural notion of comparative altruism: one parent is said to be more altruistic
+than another if the former’s choices are always preferred by the descendant to the choices of the latter, for any possible preferences of the descendant. We use our
+insights to propose a definition of absolute altruism and show its equivalence to the parent obeying the Pareto principle when making decisions. Our results have
+immediate implications for various economic applications, including comparative statics in charitable giving and the problem of optimal choice of pocket-money in multi-dimensional consumption spaces.</p>
+<hr />
+
+
 <h4 id=""><a href="/assets/pdf/wtawtp.pdf">Loss aversion or preference imprecision? What drives the WTA-WTP disparity?</a>, 2026 <br /> (joint with Michal Lewandowski and Michal Jakubczyk)</h4>
 
 <p>
@@ -26,9 +40,7 @@ aversion).
 <h4 id=""><a href="/assets/pdf/ICR.pdf">Interim correlated rationalizability in large games</a>, 2025 <br /> (joint with Lukasz Balbus, Michael Greinecker and Kevin Reffett)</h4>
 
 <p>
-We provide general theoretical foundations for modeling strategic uncertainty in large distributional Bayesian games with general type spaces, using a version of interim correlated rationalizability. We then focus on the case in which payoff functions are supermodular in actions, as is common in the literature on global games. This structure allows us to identify extremal interim correlated rationalizable solutions with extremal interim Bayes–Nash equilibria. Notably, no order structure on types is assumed. We illustrate our framework and results using the large versions of the electronic mail game and a global game.
-</p>
-
+We provide general theoretical foundations for modeling strategic uncertainty in large distributional Bayesian games with general type spaces, using a version of interim correlated rationalizability. We then focus on the case in which payoff functions are supermodular in actions, as is common in the literature on global games. This structure allows us to identify extremal interim correlated rationalizable solutions with extremal interim Bayes–Nash equilibria. Notably, no order structure on types is assumed. We illustrate our framework and results using the large versions of the electronic mail game and a global game.</p>
 <hr />
 
 <h4 id=""><a href="/assets/pdf/Lindahl.pdf">Balancedness and Lindahl equilibrium</a>, 2025 <br /> (joint with Sayantan Ghosal)</h4>
@@ -37,14 +49,14 @@ We provide general theoretical foundations for modeling strategic uncertainty in
 Condorcet winners, though they do not guarantee unanimity, are often a focal point for public policy. Can Lindahl prices and transfers, which ensure unanimity, be used to finance
 these policies? In settings where preferences are characterized by bliss points, we propose a condition, called balancedness, which requires that a policy lie in the interior of the convex
 hull of agents’ bliss points. We show that any such policy (and not just Condorcet winners) can be decentralized as a Lindahl equilibrium. Our results provide first and second welfare
-theorems for Lindahl equilibria with satiated preferences.<hr />
+theorems for Lindahl equilibria with satiated preferences.</p><hr />
 
 
 <h4 id=""><a href="/assets/pdf/BORW.pdf">Iterative monotone comparative statics</a>, 2023 <br /> (joint with Lukasz Balbus and Wojciech Olszewski and Kevin Reffett)</h4>
 
 <p>
 We propose a novel approach to equilibrium comparative statics in economic environments where complementarities play a critical role, including
-environments in which the existing methods for obtaining monotone comparative statics appear inadequate. Our approach is dynamic and, methodologically, in the spirit of the celebrated ''correspondence principle'', a concept first presented in the work of Samuelson (1947). It applies even to: (a) environments with a continuum of equilibria (b) environments in which all equilibria are unstable; and (c) chaotic environments, in which adaptive learning sequences may not converge. Finally, our propositions extend several previously existing results.<hr />
+environments in which the existing methods for obtaining monotone comparative statics appear inadequate. Our approach is dynamic and, methodologically, in the spirit of the celebrated ''correspondence principle'', a concept first presented in the work of Samuelson (1947). It applies even to: (a) environments with a continuum of equilibria (b) environments in which all equilibria are unstable; and (c) chaotic environments, in which adaptive learning sequences may not converge. Finally, our propositions extend several previously existing results.</p><hr />
 
 
 <h4 id=""><a href="/assets/pdf/TimeConsistentAltruism.pdf">Dynastic preferences, recursive utility and time consistency</a>, 2023 <br /> (joint with Lukasz Balbus and Kevin Reffett)</h4>

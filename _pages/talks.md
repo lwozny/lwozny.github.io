@@ -312,7 +312,9 @@ paper: <i> Strategic interactions in human capital accumulation</i>.
 <p>
 <ul>
 
-<li> Seminar, <b>Kozminski University, </b> <br /> paper: <i> On pure altruism</i>, Warszawa, 2026.</li>
+<li> Economic Seminar<b>,  Virginia Tech (Virginia Polytechnic Institute and State University),</b> <br /> paper: <i> Interim correlated rationalizability in large games </i>, Blacksburg, VA 2026.</li>
+
+<li> Seminarium w Centrum Psychologii Ekonomicznej i Badań Decyzji, <b>Kozminski University, </b> <br /> paper: <i> On pure altruism</i>, Warszawa, 2026.</li>
 
 <li> Economic Seminar<b>, University of Miami,</b> <br /> paper: <i> Loss aversion or preference imprecision? What drives the WTA-WTP disparity?</i>, Miami, US 2025.</li>
 

@@ -25,6 +25,8 @@ Download my latest CV, 2024,<a href="/assets/pdf/cv.pdf">CV</a>
 <p>
 <ul>  
 
+<li> May 2026 - Short research visit at European University Institute (CIVICA), Florence, Italy </li>
+
 <li> February 2026 - Short research visits at Virginia Tech (+crash course on large games) and Arizona State University, USA</li>
 
 <li> March 2025 - Short research visits in UC Berkeley, Caltech, UC Santa Cruz, UC Davis, US Santa Barbara, CalPoly</li>

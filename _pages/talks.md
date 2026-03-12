@@ -69,6 +69,14 @@ description: Co-organized conferences / Conference talks / Invited talks
 <p>
 <ul>	
 
+<li> (25th Conference of) <b> Society for Advancement in Economic Theory</b>, Rio, Brazil, 2026 <br />
+session co-organizer & chair: <i> Topics in Dynamic Economies</i><br />
+paper: <i>  Loss aversion or preference imprecision? On WTA-WTP disparity without endowment effect</i>.
+</li>
+
+<li> XXXIII <b> Europen Workshop on Economic Theory</b>, Venice, Italy, 2026 <br />
+paper: <i>  Loss aversion or preference imprecision? On WTA-WTP disparity without endowment effect </i>.</li>
+
 <li> <b> XI Kongres Ekonomistów Polskich</b>, Poznań, 2025 <br />
 paper: <i> Loss aversion or preference imprecision? On WTA-WTP disparity without endowment effect </i>.</li>
 
@@ -311,6 +319,9 @@ paper: <i> Strategic interactions in human capital accumulation</i>.
 <h4><a name="IT">Invited talks</a></h4>
 <p>
 <ul>
+
+<li> <b> Instytut Podstaw Informatyki Polskiej Akademii Nauk, Seminarium Zespolu Teorii Gier i Decyzji </b> <br /> 
+paper: <i> Loss aversion or preference imprecision? What drives the WTA-WTP disparity?</i>, Warszawa, 2026.</li>
 
 <li> Economic Seminar<b>,  Virginia Tech (Virginia Polytechnic Institute and State University),</b> <br /> paper: <i> Interim correlated rationalizability in large games </i>, Blacksburg, VA 2026.</li>
 

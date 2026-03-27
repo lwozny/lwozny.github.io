@@ -30,7 +30,7 @@ description: Co-organized conferences / Conference talks / Invited talks
 <p>
 <ul>	
 
-<li> 10th Hurwicz Workshop on Mechanism Design, Warsaw, PL, Nov / Dec TBA 2026 <a href=""> [link]</a> Organizing and Scientific Committee.</li>
+<li> 10th Hurwicz Workshop on Mechanism Design, Warsaw, PL, Dec 10-12th, 2026 <a href=""> [link]</a> Organizing and Scientific Committee.</li>
 
 <li> XXXIII European Workshop in Economic Theory, EWET, Venice, Italy, 2026, <a href="https://www.unive.it/web/en/16583/home"> [link]</a>. Scientific Committee</li>
 

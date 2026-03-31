@@ -5,7 +5,12 @@ date:   2024-03-26 16:40:16
 description: Seria podcastow o tematyce ekonomicznej, które współprowadzę z prof Igą Magdą
 ---
 
-Rachunek za wahania gospodarki, czyli ile kosztuje kryzys? Rozmowa z prof. Marcinem Kolasą (SGH).
+Jak zmierzyć niedoskonałości, czyli makroekonomia frykcji. Rozmowa z dr Piotrem Żochem (WNE UW & GRAPE).
+[Youtube](https://youtu.be/1Hgw5D5jaY4?si=bkQCC9_9G7218SlF) lub [Spotify](https://open.spotify.com/episode/7fR3Jo04ZjrpvWf1QqI9Od?si=25d200049ec94727)
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/7fR3Jo04ZjrpvWf1QqI9Od?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Rachunek za wahania gospodarki, czyli ile kosztuje kryzys? Rozmowa z prof Marcinem Kolasą (SGH).
 [Youtube](https://www.youtube.com/watch?v=Xed8SNgjiBo) lub [Spotify](https://open.spotify.com/episode/7niTvbgsY0MD0tSbfkvZHH?si=pVa2Jb58RV-36AKe7qpItQ)
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/7niTvbgsY0MD0tSbfkvZHH?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -15,12 +20,12 @@ Ukryte nierówności w Polsce. Rozmowa z dr Jakubem Sawulskim (SGH).
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/3oy8FU3XKQEuHAJTGvewE7?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Bezrobocie pod lupą. Zasiłki i rynek pracy. Rozmowa z dr hab. Ewą Gałecką-Burdziak oraz prof. Markiem Górą (SGH).
+Bezrobocie pod lupą. Zasiłki i rynek pracy. Rozmowa z dr hab Ewą Gałecką-Burdziak oraz prof Markiem Górą (SGH).
 [Youtube](https://www.youtube.com/watch?v=JaQnMWSM5tE) lub [Spotify](https://open.spotify.com/episode/3bDMfpyFMejK9i1eUJj6fG?si=0a70fd6b9eb24dc4)
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/3bDMfpyFMejK9i1eUJj6fG?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Michał Kalecki: Geniusz Zapomniany. Rozmowa z prof. Elżbietą Mączyńską (PTE) oraz prof. Janem Toporowskim (King’s College Londyn).
+Michał Kalecki: Geniusz Zapomniany. Rozmowa z prof Elżbietą Mączyńską (PTE) oraz prof. Janem Toporowskim (King’s College Londyn).
 [Youtube](https://youtu.be/96_h9wjZuAw?si=PJO0cgigcKjAOznt) lub [Spotify](https://open.spotify.com/episode/4wRKTGSz9AtA9EMvEpTzFz?si=gOHBNGZCSFGecVCRfgHJCg)
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/4wRKTGSz9AtA9EMvEpTzFz?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

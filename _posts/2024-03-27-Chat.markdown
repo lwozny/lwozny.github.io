@@ -4,6 +4,15 @@ title:  SGcHat Po Prostu Ekonomia
 date:   2024-03-26 16:40:16
 description: Seria podcastow o tematyce ekonomicznej, które współprowadzę z prof Igą Magdą
 ---
+Racjonalni czy nie – jak podejmujemy decyzje emerytalne. Rozmowa z dr Janiną Patelczyc (SGH) oraz prof. Tomaszem Jedynakiem (Uniwersytetu Ekonomicznego w Krakowie).
+[Youtube](https://www.youtube.com/watch?v=GtsvRo3JUfo) lub [Spotify](https://open.spotify.com/episode/4TCV4YlRVFpLg8XzeMSmfs)
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/4TCV4YlRVFpLg8XzeMSmfs?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Kryształ cukru i dutch book – o racjonalności ekonomicznej. Rozmowa z dr Pawłem Dziewulskim (U of Sussex).
+[Youtube](https://www.youtube.com/watch?v=ssyVJBZengk&feature=youtu.be) lub [Spotify](https://open.spotify.com/episode/6rYKk76j2VXXRYMC8JVuWX)
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/6rYKk76j2VXXRYMC8JVuWX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Jak zmierzyć niedoskonałości, czyli makroekonomia frykcji. Rozmowa z dr Piotrem Żochem (WNE UW & GRAPE).
 [Youtube](https://youtu.be/1Hgw5D5jaY4?si=bkQCC9_9G7218SlF) lub [Spotify](https://open.spotify.com/episode/7fR3Jo04ZjrpvWf1QqI9Od?si=25d200049ec94727)

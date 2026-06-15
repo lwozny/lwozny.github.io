@@ -71,11 +71,14 @@ description: Co-organized conferences / Conference talks / Invited talks
 
 <li> (25th Conference of) <b> Society for Advancement in Economic Theory</b>, Rio, Brazil, 2026 <br />
 session co-organizer & chair: <i> Topics in Dynamic Economies</i><br />
-paper: <i>  Loss aversion or preference imprecision? On WTA-WTP disparity without endowment effect</i>.
+paper: <i>  Loss aversion or preference imprecision? What drives the WTA-WTP disparity</i>.
 </li>
 
-<li> XXXIII <b> Europen Workshop on Economic Theory</b>, Venice, Italy, 2026 <br />
-paper: <i>  Loss aversion or preference imprecision? On WTA-WTP disparity without endowment effect </i>.</li>
+<li> <b> Summer Workshop in Economic Theory</b>, Paris, France, 2026<br />
+paper: <i> On pure altruism</i>.</li>
+
+<li> XXXIII <b> European Workshop on Economic Theory</b>, Venice, Italy, 2026 <br />
+paper: <i>  Loss aversion or preference imprecision? What drives the WTA-WTP disparity</i>.
 
 <li> <b> XI Kongres Ekonomistów Polskich</b>, Poznań, 2025 <br />
 paper: <i> Loss aversion or preference imprecision? On WTA-WTP disparity without endowment effect </i>.</li>

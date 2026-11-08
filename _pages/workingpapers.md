@@ -37,6 +37,12 @@ display a positive overall UA due to substantial preference imprecision. Finally
 aversion). 
 <hr />
 
+<h4 id=""><a href="/assets/pdf/BORW.pdf">Iterative monotone comparative statics</a>, revised 2026 <br /> (joint with Lukasz Balbus and Wojciech Olszewski and Kevin Reffett)</h4>
+
+<p>
+We propose a novel approach to equilibrium comparative statics in economic environments where complementarities play a critical role, including
+environments in which the existing methods for obtaining monotone comparative statics appear inadequate. Our approach is dynamic and, methodologically, in the spirit of the celebrated ''correspondence principle'', a concept first presented in the work of Samuelson (1947). It applies even to: (a) environments with a continuum of equilibria (b) environments in which all equilibria are unstable; and (c) chaotic environments, in which adaptive learning sequences may not converge. Finally, our propositions extend several previously existing results.</p><hr />
+
 <h4 id=""><a href="/assets/pdf/ICR.pdf">Interim correlated rationalizability in large games</a>, 2025 <br /> (joint with Lukasz Balbus, Michael Greinecker and Kevin Reffett)</h4>
 
 <p>
@@ -52,11 +58,6 @@ hull of agents’ bliss points. We show that any such policy (and not just Condo
 theorems for Lindahl equilibria with satiated preferences.</p><hr />
 
 
-<h4 id=""><a href="/assets/pdf/BORW.pdf">Iterative monotone comparative statics</a>, 2023 <br /> (joint with Lukasz Balbus and Wojciech Olszewski and Kevin Reffett)</h4>
-
-<p>
-We propose a novel approach to equilibrium comparative statics in economic environments where complementarities play a critical role, including
-environments in which the existing methods for obtaining monotone comparative statics appear inadequate. Our approach is dynamic and, methodologically, in the spirit of the celebrated ''correspondence principle'', a concept first presented in the work of Samuelson (1947). It applies even to: (a) environments with a continuum of equilibria (b) environments in which all equilibria are unstable; and (c) chaotic environments, in which adaptive learning sequences may not converge. Finally, our propositions extend several previously existing results.</p><hr />
 
 
 <h4 id=""><a href="/assets/pdf/TimeConsistentAltruism.pdf">Dynastic preferences, recursive utility and time consistency</a>, 2023 <br /> (joint with Lukasz Balbus and Kevin Reffett)</h4>

@@ -13,7 +13,7 @@ description: Materials for courses I teach.
 
 <li> QEM: Optimization prerequisites <a href="/assets/pdf/2021OptPre.zip"> [zip]</a></li> 
 
-<li> QEM Micro exams 2022-2024 <a href="/assets/pdf/2024Exams.zip"> [zip]</a></li>
+<li> QEM exams 2025 <a href="/assets/pdf/2025Exams.zip"> [zip]</a></li>
 
 <li> QEM exams 2021 <a href="/assets/pdf/2021Exams.zip"> [zip]</a></li>
 
@@ -39,6 +39,8 @@ description: Materials for courses I teach.
 <ul>
 
 <li>  Syllabus <a href="/assets/pdf/ADMicroQEM.pdf">[pdf]</a></li>
+
+<li> Micro exams 2022-2024 <a href="/assets/pdf/2024Exams.zip"> [zip]</a></li>
 
 <li> Micro Materials 2019-2020 from Paris <a href="/assets/pdf/QEMMicro2019-2020.zip"> [zip]</a></li>
 
